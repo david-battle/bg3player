@@ -1,0 +1,11 @@
+__pycache__/
+*.swp
+*.swo
+*.old
+*.key
+*.log
+*.pid
+
+# regenerable intermediate caches (rebuild via scripts/)
+data/raw_html/
+data/items_raw/

@@ -1,0 +1,4912 @@
+{
+ "Vivacious Cloak": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Luminous Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Mask of Soul Perception": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hammergrim Mist Amulet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Staff of Accretion": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Moonrise Towers"
+  ]
+ },
+ "Blazer of Benevolence": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Chancer's Carcanet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Evasive Shoes": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Coldbrim Hat": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Gloomstrand Shield": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Nightsinger's Half-Plate": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Spurred Band": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Brass Locket": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Tiefling Hideout"
+  ]
+ },
+ "Bloodguzzler Garb": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Verminsign": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Steadfast Maul": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Executioner Sword": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "The Real Sparky Sparkswall": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ring of Mind-Shielding": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Fleshrender": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Guild Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Guildhall",
+   "Lower City"
+  ]
+ },
+ "Chain Mail +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ritual Axe": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Steelforged Sword": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "The Jolty Vest": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Unlucky Thief's Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Armour of Moonbasking": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Quarterstaff +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Dolor Amarus": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hat of Storm Scion's Power": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Merregon Halberd": {
+  "acts": [
+   "Act One",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Grymskull Helm": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Reaper's Embrace": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Render of Mind and Body": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Mighty Cloth": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Creation's Echo": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Render of Scrumptious Flesh": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Breaching Pikestaff": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Enforcer Helmet": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Springstep Boots": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Shield of Returning": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Gauntlet of Shar"
+  ]
+ },
+ "Helldusk Helmet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; carried by Raphael."
+ },
+ "Cloth Armour": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Heapside Prison"
+  ]
+ },
+ "Tyrannical Jackboots": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gauntlet of the Tyrant": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Scimitar +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Shelter of Athkatla": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Ramazith's Tower"
+  ]
+ },
+ "Helm of Arcane Gate": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Speedy Reply": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Risen Road"
+  ]
+ },
+ "Shadow-Cloaked Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Protection": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "The Dead Shot": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Shortsword +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Wavemother's Cloak": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Champion's Chain": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Blooded Greataxe": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Chain Shirt +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Absolute's Protector": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Absolute's Smite": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Inaccessible item; not obtainable by the player."
+ },
+ "Unflinching Protector Amulet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "The Lodge - Basement Docks"
+  ]
+ },
+ "The Impaler": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Inaccessible item; not obtainable by the player."
+ },
+ "Splint Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Hamarhraft": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Circlet of Blasting": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Larethian's Wrath": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Holy Lance Helm": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hellbeard Halberd": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Boots of Elemental Momentum": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gloves of Heroism": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Risen Road"
+  ]
+ },
+ "Ring of Feywild Sparks": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Gauntlets (Uncommon)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Tarnished Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Knock Knuckle Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Counting House",
+   "The Counting House"
+  ]
+ },
+ "Gibus of the Worshipful Servant": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Moon Devotion Robe": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Colour Spray": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gandrel's Aspiration": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Robe of Summer": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Dart +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Amulet of Restoration": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Shattered Flail": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Risen Road"
+  ]
+ },
+ "Half Plate Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Greatclub +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "The Reviving Hands": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Ironvine Shield": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Protective Plate": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "override",
+  "note": "House of Healing Morgue; worn by the Hollow Armour at the bottom of the pit."
+ },
+ "Ceremonial Longsword": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Disintegrating Night Walkers": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Blackguard's Greaves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Shadow of Menzoberranzan": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Spear +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "The Lifebringer": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Halberd +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Fey Semblance Amulet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Warhammer +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Nightsong's Armour": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "override",
+  "note": "Worn by Aylin; not normally lootable."
+ },
+ "Githyanki Crossbow": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Mountain Pass"
+  ]
+ },
+ "Flail +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Tressym Collar": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Monster Slayer Glaive": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Boots of Very Fast Blinking": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Splint Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Moondrop Pendant": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Chain Shirt +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Dread Iron Dagger": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hammer of the Just": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of Succour": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only; replaced by Gloves of Heroism."
+ },
+ "Magical Hand Crossbow": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Lightning Jabber": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ne'er Misser": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Bow of Awareness": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Slippery Chain Shirt": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Festering Cove"
+  ]
+ },
+ "Ring of Mental Inhibition": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Thermodynamo Axe": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Absolute Force": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gauntlets of the Warmaster": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Blood-Bound Blade": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Harmonium Halberd": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Hide Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Flail +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Orphic Hammer": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; on the central pedestal in the Archive."
+ },
+ "Shar's Temptation": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Gloves of Crushing": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Helm of Balduran": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "In the Dragon's Sanctum after defeating Ansur (Wyrmway quest)."
+ },
+ "Mystra's Grace": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Shadow Battleaxe": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Cold Snap": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Burnished Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Hope"
+  ]
+ },
+ "Infernal Mace (Uncommon)": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hat of Fire Acuity": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Fire": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only."
+ },
+ "Spellcrux Amulet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Crimson Mischief": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Stillmaker": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Half-Plate (Very Rare)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Sparkswall": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Spiderstep Staff": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Bonespike Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Planeslayer Flail": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Knife of the Undermountain King": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Sword of Life Stealing": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Pearl of Power Amulet": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Adamantine Mace": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Cindersnap Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Tough Sunrises": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Sword of Chaos": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Glowing Shield": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Bloody Amulet": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Blighted Village",
+   "Grymforge"
+  ]
+ },
+ "Infernal Mace": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Adamantine Splint Armour": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Fistbreaker Helm": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Twist of Fortune": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Infernal Warhammer": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Scale Mail +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ceremonial Mace": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Heavy Crossbow +1": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Dagger +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Gemini Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Murderous Cut": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Carried by several Bhaal cultists throughout Act Three."
+ },
+ "Sharran Crossbow": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ilmater's Aid": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only."
+ },
+ "Servitor of the Black Hand Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Shadowstep Boots": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Shadow Blade Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Stolyarof's Table Lute": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Coruscation Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Steelwatcher Helmet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Vampiric Gloves": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Vicious Shortsword": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Enforcer Shield": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Till Death Do Us Part": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Mask of the Shapeshifter": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "override",
+  "note": "In the Traveller's Chest at the campsite (Deluxe Edition item; available from the start)."
+ },
+ "Phalar Aluve": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Armour of Persistence": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Titanstring Bow": {
+  "acts": [
+   "Act One",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sword of Justice": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Boots of Speed": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Sarevok's Wretched Armour": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Murder Tribunal; carried by Sarevok."
+ },
+ "Leather Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Amulet of Misty Step": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Caitiff Staff": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gontr Mael": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Mourning Frost": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Oathbreaker Knight Armour": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Ring of Regeneration": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Ramazith's Tower",
+   "Sorcerous Sundries"
+  ]
+ },
+ "Rebound Battleaxe": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Haste Helm": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Deadly Channeller Gloves": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "The Watersparkers": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Vicious Battleaxe": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of Baneful Striking": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Infernal Robe": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Amulet of Silvanus": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Linebreaker Boots": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Worgfang": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "True Love's Embrace": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Key of the Ancients": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Robust Chain Shirt": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Sharpened Snare Cuirass": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Joltshooter": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Amulet of Elemental Torment": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; carried by Hope during the fight against Raphael. (Previously sold by Act One merchants; moved to House of Hope in Patch 3.)"
+ },
+ "The Protecty Sparkswall": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Greatsword +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Staff of Interruption": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Old Garlow's Place"
+  ]
+ },
+ "Boots of Brilliance": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Killer's Sweetheart": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Light Crossbow of Speed": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Spear of Night": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Beastmaster's Chain": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Boots of Stormy Clamour": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Moonlight Glaive": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Blackguard's Sword": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Wavemother's Robe": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hellrider's Pride": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Crusher's Ring": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Studded Leather Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Gloves of the Balanced Hands": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Bloodthirst": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Browbeaten Circlet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Amulet of the Unworthy": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Keepsake Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Greataxe +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Loviatar's Scourge": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Cloak of Protection": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Netherstone-Pommelled Bloodthirst": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Boots of Uninhibited Kushigo": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Wapira's Crown": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Githyanki Breastplate": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Firzu's Ring of Trading": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Healing",
+   "House of Healing Morgue"
+  ]
+ },
+ "Featherlight Boots": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only."
+ },
+ "Javelin +1": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Explorer's Ring": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ironwood Club": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Blackguard's Plate": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Raven Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Kill Collar": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Lower City",
+   "Steel Watch Foundry"
+  ]
+ },
+ "Pelorsun Blade": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Cazador's Dungeon"
+  ]
+ },
+ "Cindermoth Cloak": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Shield of Devotion": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Shining Staver-of-Skulls": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Decrepit Village",
+   "Grymforge"
+  ]
+ },
+ "Longbow +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Djinni Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Reason's Grasp": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Risen Road"
+  ]
+ },
+ "Ring of Geniality": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Absolute's Warboard": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Club +1": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Spectator Eyes": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Undead Slayer Crossbow": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Obtainable only via specific exploits from The Long Arm of the Gur."
+ },
+ "Spiderstep Boots": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Sorrow": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ring of Arcane Synergy": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Netherstone-Studded Gauntlet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Carried by Enver Gortash during the quest Get Gortash's Netherstone."
+ },
+ "Promise": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Hr'a'cknir Bracers": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sunwalker's Gift": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Githyanki Shortsword (+1)": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ring of Exalted Marrow": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Battleaxe +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Amulet of Branding": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Snow-Dusted Monastery Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of the Automaton": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Warhammer +2": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Rivington"
+  ]
+ },
+ "Cloak of Displacement": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Callous Glow Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Goblinbane Dagger": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Everburn Blade": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Flail of Dread Skulls": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Club of Hill Giant Strength": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gloves of Uninhibited Kushigo": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Braindrain Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Psychic Spark": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Spaceshunt Boots": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "The Watcher's Guide": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Moonlantern": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Enforcer Club": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Duke Ravengard's Longsword": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Harold": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Githyanki Longsword (+1)": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Mountain Pass"
+  ]
+ },
+ "Shortbow +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Morningstar +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Shar's Spear of Evening": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Glaive +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "The Deathstalker Mantle": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hellfire Greataxe": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; dropped by Yurgir."
+ },
+ "A Sparking Promise": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Surgeon's Subjugation Amulet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Xyanyde": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Helldusk Armour": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; carried by Raphael."
+ },
+ "Deep Delver": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Dagger +2": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Moonblade": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Amulet of Bhaal": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Infernal Spear": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Combination Axe": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Greataxe +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Absolute's Talisman": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gold Wyrmling Staff": {
+  "acts": [
+   "Act One",
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Scimitar +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Circle of Bones": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Glaive +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Cloth of Authority": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Light of Creation": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Helmet of Smiting": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Poisoner's Robe": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Thorn Blade": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Mace +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Nimblefinger Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Angleiron's Cellar",
+   "Rivington",
+   "Rivington General"
+  ]
+ },
+ "Robe of Supreme Defences": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Swordmaster Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Truthfulness": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Fabricated Arbalest": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Boots of Persistence": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Longbow +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ritual Dagger": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Veil of the Morning": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hunting Shortbow": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Emerald Grove",
+   "The Hollow"
+  ]
+ },
+ "Infernal Mask": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Carried by Orpheus if freed and recruited during the Upper City assault."
+ },
+ "Boots of Striding": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Dart +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Scabby Pugilist Circlet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gauntlets of Surging Accuracy": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Snowburst Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Boots of Psionic Movement": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Amulet of the Drunkard": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Bonespike Helmet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Helmet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Katana": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Crossbow of Arcane Force": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Poisoner's Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Beguiling": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Inaccessible item; not obtainable by the player."
+ },
+ "Birthright": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Sussur Dagger": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Wavemother's Boots": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Lower City",
+   "Lower City Sewers"
+  ]
+ },
+ "Shapeshifter Hat": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Mask": {
+  "acts": [
+   "Act One",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Argument Solver": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Pale Oak": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Padded Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "The Sparky Points": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Barkskin Armour": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Nymph Cloak": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Very Heavy Greataxe": {
+  "acts": [
+   "Act One",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "War Pick +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Soulbreaker Greatsword": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Drakethroat Glaive": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Clown Hammer": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "The Long Arm of the Gur": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Braindrain Cape": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Moonrise Towers"
+  ]
+ },
+ "Lofty Sorcerer's Amulet": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Inaccessible item; not obtainable by the player."
+ },
+ "Foebreaker": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Sorcerous Vault"
+  ]
+ },
+ "Robe of Exquisite Focus": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Craterflesh Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Rhapsody": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Cazador's Dungeon; carried by Cazador Szarr."
+ },
+ "Jannath's Hat": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Counting House",
+   "The Counting House"
+  ]
+ },
+ "Staff of the Emperor": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Handaxe +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Githyanki Greatsword": {
+  "acts": [
+   "Act One",
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Cr\u00e8che Y'llek",
+   "Last Light Inn"
+  ]
+ },
+ "Dwarven Splintmail": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Chain Mail +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Cap of Wrath": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Vital Conduit Boots": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ring Mail Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ring of Shadows": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Melf's First Staff": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Acrobat Shoes": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ironwood Breastplate": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Rapier +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Arduous Flame Blade": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Singing Sword": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Darkfire Shortbow": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Flawed Helldusk Armour": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Doom Hammer": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Robe +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Salty Scimitar(rrr)": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hoarfrost Boots": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Breastplate +1": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Broodmother's Revenge": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Corpsegrinder": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Adamantine Scale Mail": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Amulet of Sel\u00fbne's Chosen": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Cerebral Citadel Armour": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Envoy's Amulet": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Rat Bat": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Adamantine Shield": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Aberration Hunters' Amulet": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Githyanki Greatsword (Psionic)": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Greatclub +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Sentinel Shield": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Jagged Spear": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Scale Mail +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Boots of Aid and Comfort": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Belm": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Enraging Heart Garb": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Myrkulite Scourge": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Circlet of Hunting": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Firestoker": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Longsword +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Mutilated Carapace": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hand Crossbow +2": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Lady Jannath's Estate"
+  ]
+ },
+ "Ring of Salving": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Battered Lute": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Only a cosmetic/broken version used in a quest; not an equipable magic item."
+ },
+ "Nyrulna": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "The Shadespell Circlet": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Halberd of Vigilance": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Guiding Light": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Assassin of Bhaal Cowl": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Shadeclinger Armour": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Shield +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Returning Pike": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Boots of Arcane Bolstering": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sentient Amulet (Very Rare)": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Open Hand Temple",
+   "Open Hand Temple Cellar"
+  ]
+ },
+ "Trident +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Psionic Ward Armour": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Bonesaw (+1)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Silver Pendant": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Blade of Oppressed Souls": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Flame Enamelled Armour": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Unwanted Masterwork Greaves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "The Ever-Seeing Eye": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gloves of Power": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Armour of Agility": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hollow's Staff": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "The Speedy Lightfeet": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Helmet of Arcane Acuity": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sandthief's Ring": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Inaccessible item; not obtainable by the player."
+ },
+ "Plate Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ring of Self Immolation": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Mayrina's Locket": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Vision of the Absolute": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Forest",
+   "Owlbear Nest"
+  ]
+ },
+ "Shifting Corpus Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Robe of Spell Resistance": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "The Blood of Lathander": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Kruznabir's Asylum Amulet": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Sylvan Scimitar": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Penumbral Armour": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Spineshudder Amulet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sickle of BOOOAL": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "override",
+  "note": "The Festering Cove; carried by Pooldripp the Zealous or given by BOOOAL."
+ },
+ "Amulet of Windrider": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hoppy": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hellfire Hand Crossbow": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Safeguard Shield": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Emerald Grove",
+   "The Hollow"
+  ]
+ },
+ "Synaptic Needle Amulet": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Gloves of Soul Catching": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; sold by the merchant in the Devil's Den."
+ },
+ "Quarterstaff +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ritual Dagger of Shar": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Harmonic Dueller": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Assassin's Touch": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Arcane Absorption Dagger": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Moonrise Towers"
+  ]
+ },
+ "Periapt of Wound Closure": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Caustic Band": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hood of the Weave": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Kurwin's Cauteriser": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Lower City"
+  ]
+ },
+ "Absolute Confidence Amulet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "True Love's Caress": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Dolor Amarus / the masked murderer in the Lower City."
+ },
+ "Ring Mail Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Gloves of The Duellist": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Shield +1": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Devotee's Mace": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Obtained via the Cleric Divine Intervention 'Arm Thy Servant' once the party reaches level 10+."
+ },
+ "Bonespike Boots": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Wondrous Gloves": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hag's Ring": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Vicious Shortbow": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Ring of Poison Resistance": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Watcher's Shield": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Amulet of the Devout": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Ring of Elemental Infusion": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Tarnished Charm": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Cinder Shoes": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ring of Restorative Gravity": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only."
+ },
+ "Shar's Sting": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "override",
+  "note": "Variant of the Ritual Dagger of Shar (identical except name)."
+ },
+ "After Death Do Us Part": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Varsh Ko'kuu's Boots": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Slicing Shortsword": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Lihala's Lute": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Herbalist's Gloves": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Studded Shield +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Rippling Force Mail": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Amulet of Lost Voices": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Legacy of the Masters": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Shield (Hope)": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; wielded by Hope. No longer lootable since Patch 6."
+ },
+ "The Skinburster": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Briskwind Boots": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Necklace of Elemental Augmentation": {
+  "acts": [
+   "Act One",
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Ring of Twilight": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Voss' Silver Sword": {
+  "acts": [
+   "Act One",
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Ketheric's Warhammer": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Slinging Shoes": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Winkling Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of Thievery": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ichorous Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "The Waning Moon",
+   "Waning Moon"
+  ]
+ },
+ "Shield of Shielding": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Debtor's Attire": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Hope"
+  ]
+ },
+ "Dark Justiciar Helm": {
+  "acts": [
+   "Act One",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Cloak of the Weave": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Ring of Spiteful Thunder": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Tenacious Boots": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Light Crossbow +1": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Faithbreaker": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Wakeful Amulet": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Derivation Cloak": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Staff of the Ram": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Allandra's Whelm": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Charge-Bound Warhammer": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Despair of Athkatla": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Ramazith's Tower"
+  ]
+ },
+ "Intransigent Warhammer": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "The Sacred Star": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Pale Widow Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Moonrise Towers"
+  ]
+ },
+ "Staff of Arcane Blessing": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Smuggler's Ring": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "override",
+  "note": "The Risen Road; on a skeleton hidden in a bush by the river."
+ },
+ "Gloves of Battlemage's Power": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sword of Screams": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Witchbreaker": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Syringe (+1)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Komira's Locket": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Strange Conduit Ring": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Abdel's Trusted Shield": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Adamantine Scimitar": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Longsword +2": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Forge of the Nine",
+   "Lower City"
+  ]
+ },
+ "Plate Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Hellrider Longbow": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Cloak of Avarice": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Flawed Helldusk Helmet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Armour of Devotion": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Hide Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Bow of the Banshee": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Decrepit Village",
+   "Grymforge"
+  ]
+ },
+ "Thermoarcanic Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ambusher": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Spellseeking Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Risky Ring": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Graceful Cloth": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Khalid's Gift": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Reverse Rain Cloak": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Bracers of Defence": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Helmet of Autonomy": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Jorgoral's Greatsword": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Decrepit Village",
+   "Grymforge"
+  ]
+ },
+ "Pike +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Mind Sundering Dagger": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Spellthief": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Hollow"
+  ]
+ },
+ "Sentient Amulet (Rare)": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Armour of Landfall": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Potent Robe": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Dancing Breeze": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Staff of Spellpower": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Hope"
+  ]
+ },
+ "Garb of the Land and Sky": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Rain Dancer": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Hollow"
+  ]
+ },
+ "Abyss Beckoners": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Helmet of Grit": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Szarr Palace"
+  ]
+ },
+ "Hat Of Uproarious Laughter": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Trident +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Woe": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Cazador's Dungeon; reward for defeating Cazador Szarr."
+ },
+ "Helldusk Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; carried by Raphael."
+ },
+ "Unseen Menace": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Orphic Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Cruel Sting": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Torment Drinker Armour": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Elegant Studded Leather": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Obsidian Laced Robe": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Pyroquickness Hat": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Sorcerous Vault"
+  ]
+ },
+ "Eversight Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Healing",
+   "House of Healing Morgue"
+  ]
+ },
+ "Sanguine Blade": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Fetish of Callarduran Smoothhands": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Mantle of the Holy Warrior": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Rupturing Blade": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Scale Mail Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ring of Blink": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Circlet of Psionic Revenge": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Torch of Revocation": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Bracing Band": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gauntlets of Hill Giant Strength": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; on a pedestal in the Archive."
+ },
+ "Mage's Friend": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Defender Flail": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gloves of Dexterity": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Harper Sacredstriker": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Corvid Token": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of Flint and Steel": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only."
+ },
+ "Blightbringer": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gleamdance Dagger": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Band of the Mystic Scoundrel": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Light Hammer +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Marksmanship Hat": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Szarr Family Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Cazador's Dungeon",
+   "Szarr Palace"
+  ]
+ },
+ "Boots of Genial Striding": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Seemingly Gleaming Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Duellist's Prerogative": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Half Plate Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Yuan-Ti Scale Mail": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sword of the Emperor": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Handmaiden's Mace": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Cloister of Sombre Embrace"
+  ]
+ },
+ "Scarlet Leather Armour": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Cacophony": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "The Blast Pendant": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Horns of the Berserker": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hellfire Engine Crossbow": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of the Growling Underdog": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Bigboy's Chew Toy": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Crabsight": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Emblazoned Plate of the Marshal": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Ravengard's Scourger": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Staff of a Mumbling Wizard": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dwarven Thrower": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gargoyle Boots": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Silver Sword of the Astral Plane": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Swires' Sledboard": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Shade-Slayer Cloak": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Gauntlets (Rare)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Swiresy Shoes": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gloves of Archery": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Strange Tendril Amulet": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Healing",
+   "House of Healing Morgue"
+  ]
+ },
+ "Adamantine Longsword": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hat of Uninhibited Kushigo": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Ring of Evasion": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Armour of the Sporekeeper": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Thunderpalm Strikers": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Angleiron's Cellar",
+   "Rivington",
+   "Rivington General"
+  ]
+ },
+ "Infernal Longsword": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Githyanki Longsword (Psionic)": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Poisoner's Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Justiciar's Greatshield": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Shortsword +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Shield of the Undevout": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Treacleflow Amulet": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Exterminator's Axe": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Bided Time": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Healing",
+   "House of Healing Morgue"
+  ]
+ },
+ "Ceremonial Warhammer": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Leather Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Bhaalist Armour": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Flail of Ages": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hand Crossbow +1": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Sarevok's Horned Helmet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of Missile Snaring": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Least Expected": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Doom Axe": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only; replaced by Doom Hammer in the full release."
+ },
+ "Corellon's Grace": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "Emerald Grove",
+   "The Hollow"
+  ]
+ },
+ "Dagger of Shar": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "override",
+  "note": "Wielded by Shadowheart during her Act One camp confrontation with Lae'zel."
+ },
+ "Boots of Apparent Death": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Reithwin Graveyard"
+  ]
+ },
+ "Quickspell Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Balduran's Giantslayer": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "The Dragon's Sanctum; on the corpse of Ansur."
+ },
+ "Covert Cowl": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Last Light Inn",
+   "Last Light Inn - Cellar"
+  ]
+ },
+ "Incandescent Staff": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Infernal Rapier": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Kiam Goda's Kilat Drum": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dauntless Amulet": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Scarab of Protection": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Looted from a sarcophagus / chest in the Lower City."
+ },
+ "Daredevil Gloves": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Diadem of Arcane Synergy": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Bhaalist Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Mail": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Dostrealt's Piccolo": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Falataeric Cli Lyre": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dragon's Grasp": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Hollow"
+  ]
+ },
+ "Ring of Free Action": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Stalker Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Mace +2": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Forge of the Nine",
+   "Lower City"
+  ]
+ },
+ "Unwanted Masterwork Scalemail": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Viconia's Walking Fortress": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Cloister of Sombre Embrace"
+  ]
+ },
+ "Gloves of Fire Resistance": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only."
+ },
+ "Ring of Flinging": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Hollow"
+  ]
+ },
+ "Drunken Cloth": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Staff of Crones": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Flawed Helldusk Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Trepan (+1)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Crypt Lord Ring": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Uncovered Mysteries": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Shield of Scorching Reprisal": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Wavemother's Sickle": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "The Pointy Hat": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Icebite Robe": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "Reithwin Graveyard"
+  ]
+ },
+ "Fireheart": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Fork-Lightning Fingers": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Spell Savant Amulet": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Sold by Vicar Humbletoes at Stormshore Tabernacle."
+ },
+ "Ceremonial Battleaxe": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hat of the Sharp Caster": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Fleetfingers": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Seraphic Pugilist Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Boots": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Shapeshifter's Boon Ring": {
+  "acts": [
+   "Act One",
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Shadow Blade (weapon)": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Created via the Shadow Blade spell; not a lootable item."
+ },
+ "Artificial Leech (+1)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sword of Clutching Umbra": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Svartlebee's Woundseeker": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Maul +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Ring of Jumping": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Dark Justiciar Half-Plate (Rare)": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "The Baneful": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Shortsword of First Blood": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "The Clover": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Spidersilk Armour": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "The Spellsparkler": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Tightening Orbit Helm": {
+  "acts": [],
+  "source": "unknown"
+ },
+ "Frost Prince": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Sussur Sickle": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Martial Exertion Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Angleiron's Cellar",
+   "Rivington",
+   "Rivington General"
+  ]
+ },
+ "Studded Leather Armour +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Cerebral Citadel Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Robe of the Weave": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Sorcerous Sundries; sold by Lorroakan."
+ },
+ "The Sparkle Hands": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Ketheric's Shield": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Gloves of Hail of Thorns": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Jhannyl's Gloves": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Amulet of the Harpers": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Spear +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Circlet of Mental Anguish": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Wood Woad Shield": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Sethan": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Spider's Lyre": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "override",
+  "note": "Held by Minthara in the Goblin Camp (pickpocketed/killed/knocked out, or given if the party sides with her), or dropped by Nere in Grymforge if killed."
+ },
+ "Circlet of Fire": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Not present in the launch version of the game."
+ },
+ "Bonespike Garb": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Staff of Cherished Necromancy": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Elven Chain": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Armour of Uninhibited Kushigo": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Defender Greataxe": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Iron-Banded Shield +1": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Viconia's Priestess Robe": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Cloister of Sombre Embrace"
+  ]
+ },
+ "Punch-Drunk Bastard": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Padded Armour +1": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Amulet of Greater Health": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "House of Hope; on the pedestal."
+ },
+ "Magical Pike": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Lower City"
+  ]
+ },
+ "Comeback Handaxe": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Gloves of Cinder and Sizzle": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Skybreaker": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Unwanted Masterwork Gauntlets": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Trident of the Waves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Counting House",
+   "The Counting House"
+  ]
+ },
+ "Luminous Armour": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Gloves of Belligerent Skies": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Dark Displacement Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Assassin's Shortsword": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Chain of Liberation": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Early Access only; not obtainable in the current game."
+ },
+ "Nature's Snare": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Vest of Soul Rejuvenation": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "location",
+  "hits": [
+   "Ramazith's Tower",
+   "Sorcerous Sundries"
+  ]
+ },
+ "Glimmergad's Selgaunt Fiddle": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Sel\u00fbne's Spear of Night": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "override",
+  "note": "Given to Shadowheart by Aylin at the campsite after the Nightsong encounter."
+ },
+ "Spellmight Gloves": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Hedge Wanderer Armour": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "location",
+  "hits": [
+   "The Hollow"
+  ]
+ },
+ "Giantbreaker": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "The Oak Father's Embrace": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Cloak of Elemental Absorption": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Shadow Lantern": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Drow Studded Leather Armour": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Hunter's Dagger": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Cloak of Cunning Brume": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Justiciar's Scimitar": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Rapier +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Blackguard's Gauntlets": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Fleshmelter Cloak": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "location",
+  "hits": [
+   "House of Healing",
+   "House of Healing Morgue"
+  ]
+ },
+ "Warped Headband of Intellect": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Cap of Curing": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Thunderskin Cloak": {
+  "acts": [
+   "Act Three",
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Headband of Intellect": {
+  "acts": [],
+  "source": "excluded",
+  "note": "Unobtainable version; the obtainable item is Warped Headband of Intellect."
+ },
+ "The Whispering Promise": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Helldusk Boots": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Markoheshkir": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "override",
+  "note": "Ramazith's Tower; inside a Globe of Invulnerability."
+ },
+ "The Undead Bane": {
+  "acts": [
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Corrosive Flail": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ },
+ "Winter's Clutches": {
+  "acts": [
+   "Act One",
+   "Act Three"
+  ],
+  "source": "list"
+ },
+ "Wulbren's Hammer": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Family Ring": {
+  "acts": [
+   "Act Two"
+  ],
+  "source": "list"
+ },
+ "Breastplate +2": {
+  "acts": [
+   "Act One",
+   "Act Two",
+   "Act Three"
+  ],
+  "source": "stock",
+  "note": "Generic merchant stock; available from various traders (details in How to get)."
+ },
+ "Sussur Greatsword": {
+  "acts": [
+   "Act One"
+  ],
+  "source": "list"
+ }
+}
