@@ -26,11 +26,15 @@ python3 scripts/parse_consumables.py    # parse cache -> data/consumables_raw/
 python3 scripts/build_alchemy.py        # alchemy/ingredient data + alchemy.md
 python3 scripts/build_consumables.py    # consumables markdown + data/consumables.json
 
-python3 scripts/fetch_reference.py      # reference page cache (feats/conditions/companions/buffs)
+python3 scripts/fetch_reference.py      # reference page cache (feats/conditions/companions/buffs/classes/races/backgrounds/illithid)
 python3 scripts/build_feats.py          # feats.md + data/feats.json
 python3 scripts/build_conditions.py     # conditions.md + data/conditions.json
 python3 scripts/build_permanent_buffs.py # permanent_buffs.md + data/permanent_buffs.json
 python3 scripts/build_companions.py     # companions.md + data/companions.json
+python3 scripts/build_classes.py        # classes_subclasses.md + data/classes.json
+python3 scripts/build_races.py          # races.md + data/races.json
+python3 scripts/build_backgrounds.py    # backgrounds.md + data/backgrounds.json
+python3 scripts/build_illithid.py       # illithid_powers.md + data/illithid_powers.json
 ```
 
 - `data/raw_html/` (equipment), `data/raw_html_cons/` (consumables),

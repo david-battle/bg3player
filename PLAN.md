@@ -42,6 +42,10 @@ master JSON. This is a plan document, not a spec; adjust fields while building.
 - Shipped: Phase 2 first tranche — `knowledge_base/reference/` (feats,
   conditions, permanent buffs, companions), masters in `data/feats.json` /
   `conditions.json` / `permanent_buffs.json` / `companions.json`.
+- Shipped: Phase 2 remainder — classes + subclasses (`classes_subclasses.md`,
+  `data/classes.json`), races (`races.md`, `data/races.json`), backgrounds
+  (`backgrounds.md`, `data/backgrounds.json`), illithid powers
+  (`illithid_powers.md`, `data/illithid_powers.json`). Phase 2 complete.
 
 ## Category overview
 
@@ -87,8 +91,8 @@ Alchemy page.
 
 ## Phase 2 — Build & character reference
 
-Status: **in progress** — first tranche (2a, 2d, 2f, 2h) DONE 2026-08-30;
-2b/2c/2e/2g pending. Files live in `knowledge_base/reference/`.
+Status: **complete** — all of Phase 2 shipped 2026-08-30. Files live in
+`knowledge_base/reference/`.
 
 ### 2a. Companions (`companions.md`) — DONE
 Origins (Astarion, Gale, Lae'zel, Shadowheart, Wyll, Karlach), recruitables
@@ -103,24 +107,39 @@ notes. Skills, per-act quest breakdown and gear affinities are on the wiki's
 per-companion pages rather than duplicated here. `ACT_OVERRIDES` in
 `build_companions.py` is the manual fallback when a page omits the act.
 
-### 2b. Classes + subclasses (`classes_subclasses.md`)
+### 2b. Classes + subclasses (`classes_subclasses.md`) — DONE
 Each of the 12 classes: role, hit die, primary abilities, saving throw + skill
 profs, armour/weapon profs, spellcasting type (full/half/third/cantrip), key
 features, **what distinguishes each subclass** (features, playstyle, stat
 priority), and brief multiclass notes. No full level tables needed for the AI
 to give good advice — keep concise per-subclass distinguishing text.
+Shipped: the 12 class pages (Overview, Attributes, Starting/Multiclass
+Proficiencies from the "Class information" section) plus all 58 subclass pages
+(first-paragraph summary, boilerplate lead-in and `[url N]` refs stripped;
+parent class from the curated `SUBCLASS_OF` map in `reference_data.py`).
+`kb_lookup.py class|subclass` queries this.
 
-### 2c. Races + subraces (`races.md`)
+### 2c. Races + subraces (`races.md`) — DONE
 Race/subrace traits: ability bonuses, size, speed, darkvision, weapon/armour
 profs, unique traits, spell-like abilities. Companion default races link here.
+Shipped: parsed from the wiki's Races master comparison table — 31 race/subrace
+entries (speed, proficiencies, features per race + subrace, race-level traits
+inherited by subraces, Dragonborn colours de-duplicated). The table's own note
+that BG3 gives a free +2/+1 allocation (unlike 5e fixed bonuses) is preserved;
+size is curated from the race pages (only Halfling and Gnome are Small).
 
 ### 2d. Feats (`feats.md`) — DONE
 Every feat: prerequisites, what it grants (plain language), whether it includes
 an ASI. 41 feats shipped (the full wiki list incl. Ability Improvement and the
 six Magic Initiate variants); sub-features as powers, quirks in notes.
 
-### 2e. Backgrounds (`backgrounds.md`)
+### 2e. Backgrounds (`backgrounds.md`) — DONE
 Skills + background feature per background (small).
+Shipped: all 12 backgrounds — the two skill proficiencies each grants (parsed
+from the "Background features" section) plus the page intro, which names which
+companions/hirelings start with each background (a useful cross-link). BG3
+backgrounds grant no mechanical feature beyond the skills; the wiki documents
+only skills + inspiration goals.
 
 ### 2f. Permanent buffs & lasting rewards (`permanent_buffs.md`) — DONE
 The user's named category. Cover: Auntie Ethel's Hair, Mirror of Loss, Potion of
@@ -134,10 +153,16 @@ bonuses page (name, effect, "How to unlock"); the Astral-Touched Tadpole is
 covered under Act Three. Consuming tadpoles / partial ceremorphosis is noted per
 bonus where relevant.
 
-### 2g. Illithid powers (`illithid_powers.md`)
+### 2g. Illithid powers (`illithid_powers.md`) — DONE
 Full tadpole power tree: each power, cost, effect, act availability, evolved
 (Awakened) versions, half/partial vs full ceremorphosis, bonuses for consuming
 tadpoles. Overlaps #7 (Astral-Touched Tadpole).
+Shipped: the wiki's Illithid powers page parsed into 4 tiers — the base power
+tree (16), Act Three elite powers (10, outer ring unlocked at the end of Act
+Two), full ceremorphosis (11, endgame) and other/story powers (2, incl.
+Awakened) — each power with type, effect, and its prerequisite (the "Requires"
+column doubles as act availability: elites require the Astral-Touched Tadpole).
+The spellcasting-ability-modifier note is captured as its own section.
 
 ### 2h. Conditions & effects glossary (`conditions.md`) — DONE
 Every condition/effect items reference (Radiating Orb, Reeling, Arcane Charge,
@@ -185,7 +210,7 @@ item source lists (equipment + consumables) prove sufficient.
 1. Phase 1 (consumables + alchemy). **Done.**
 2. Phase 2 in any order; start with companions + feats + permanent buffs +
    conditions (smallest, highest build-advice value), then classes, races,
-   backgrounds, illithid powers. **First tranche done; 2b/2c/2e/2g remain.**
+   backgrounds, illithid powers. **Complete (all of Phase 2 shipped).**
 3. Phase 3 (achievements, honour mode) — small, can slot in anytime.
 4. Phase 4 only if the source lists prove insufficient.
 

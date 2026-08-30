@@ -23,28 +23,6 @@ ORIGINS = ["Astarion", "Gale", "Karlach", "Lae'zel", "Shadowheart", "Wyll",
 ACT_OVERRIDES = {"Karlach": "One"}
 
 
-def heading_block(html, anchor):
-    """Text after the heading whose span has the given id, until the next
-    heading of the same or higher level (so sub-section headings are kept)."""
-    m = re.search(r'id="' + re.escape(anchor) + r'"', html)
-    if not m:
-        return ""
-    prev = list(re.finditer(r"<h([234])", html[:m.start()]))
-    level = int(prev[-1].group(1)) if prev else 3
-    close = re.search(r"</h%d>" % level, html[m.start():])
-    if not close:
-        return ""
-    start = m.start() + close.end()
-    nxt = None
-    for hm in re.finditer(r"<h([234])", html[start:]):
-        if int(hm.group(1)) <= level:
-            nxt = hm.start()
-            break
-    end = start + nxt if nxt is not None else len(html)
-    seg = re.sub(r"<[^>]+>", " ", html[start:end])
-    return rd.strip_edit_markers(seg)
-
-
 def infobox(html):
     m = re.search(r'<aside class="portable-infobox.*?</aside>', html, re.S)
     if not m:
@@ -83,7 +61,7 @@ def parse_companion(title):
     html = open(os.path.join(rd.HTMLDIR, title + ".html")).read()
     ib = infobox(html)
     stats = stats_table(html)
-    recruitment = heading_block(html, "Recruitment")
+    recruitment = rd.heading_block(html, "Recruitment")
     cut = recruitment.find("Leaving the party")
     if cut != -1:
         recruitment = recruitment[:cut].strip()
@@ -98,12 +76,12 @@ def parse_companion(title):
         "background": ib.get("background"),
         "hometown": ib.get("hometown"),
         "stats": stats,
-        "quest": (heading_block(html, "Companion_quest")
-                  or heading_block(html, "Personal_quest")),
+        "quest": (rd.heading_block(html, "Companion_quest")
+                  or rd.heading_block(html, "Personal_quest")),
         "recruitment_act": rm.group(1) if rm else ACT_OVERRIDES.get(title),
         "recruitment": recruitment,
-        "leaving": heading_block(html, "Leaving_the_party"),
-        "romance": heading_block(html, "Romance"),
+        "leaving": rd.heading_block(html, "Leaving_the_party"),
+        "romance": rd.heading_block(html, "Romance"),
     }
 
 
@@ -117,7 +95,7 @@ def parse_master():
                   if t != "View source image"]
         if len(titles) >= 3:
             hirelings.append({"name": titles[-3], "race": titles[-2], "class": titles[-1]})
-    removal = heading_block(html, "Permanent_removal")
+    removal = rd.heading_block(html, "Permanent_removal")
     return hirelings, removal
 
 

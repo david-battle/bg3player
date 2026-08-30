@@ -5,8 +5,9 @@
 - Branch `main`; pushed to `origin` (https://github.com/david-battle/bg3player,
   public). Upstream is set, so the user's `push` script (plain `git push` per
   repo) works — the user runs it, not the assistant.
-- Worktree has uncommitted changes (Phase 2 first tranche: reference KB) — not
-  yet committed as of this handoff's last write; commit + push when convenient.
+- Worktree has uncommitted changes (Phase 2 remainder + adviser scaffolding)
+  — not yet committed as of this handoff's last write; commit + push when
+  convenient.
 
 ## Completed Work (2026-08-30)
 
@@ -62,6 +63,32 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   `permanent_buffs.md`, `companions.md`; masters in `data/feats.json`,
   `data/conditions.json`, `data/permanent_buffs.json`, `data/companions.json`.
 
+### Part 4 — Phase 2 remainder (classes, races, backgrounds, illithid powers)
+- **Classes + subclasses** (12 classes, 58 subclasses): per-class role, hit
+  points, key abilities, starting/multiclass proficiencies, starting equipment,
+  and a one-line "what sets it apart" per subclass (subclass page intro, with
+  the "X is one of the subclasses of Y." boilerplate and `[url N]` refs
+  stripped). Parent class comes from a curated `SUBCLASS_OF` map.
+- **Races** (31 race/subrace entries) parsed from the wiki's Races comparison
+  table: base speed (Standard/Fast/Slow), proficiencies and features per race
+  and subrace, race-level traits inherited by subraces; the wiki's "+2 any /
+  +1 any other" free allocation note and the curated size note (only Halfling
+  and Gnome are Small). Dragonborn colours each restate Draconic Ancestry, so
+  the per-colour trait replaces the race-level one rather than duplicating it.
+- **Backgrounds** (12): the two skill proficiencies each grants plus the page
+  intro naming which companions/hirelings start with each background.
+- **Illithid powers** (39 in 4 tiers): base power tree (16), Act Three elite
+  powers (10), full ceremorphosis (11), other/story powers (2, incl. Awakened);
+  each with type, effect and prerequisite (the "Requires" column doubles as act
+  availability). Spellcasting-ability note captured.
+- New builders: `build_classes.py`, `build_races.py`, `build_backgrounds.py`,
+  `build_illithid.py`; shared helpers `heading_html/parse_dl/first_paragraph`
+  added to `reference_data.py` (companions builder refactored to use the shared
+  `heading_block`; its output is byte-identical). Deliverables in
+  `knowledge_base/reference/` and masters `data/{classes,races,backgrounds,illithid_powers}.json`.
+- `kb_lookup.py` extended with `class`, `subclass`, `race`, `background`,
+  `power` subcommands.
+
 ## Validation
 
 - Full pipeline re-run clean end-to-end (cached, no network needed).
@@ -78,6 +105,13 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   known values (e.g. Astarion 8/17/14/13/13/10, Shadowheart 13/13/14/10/17/8);
   Minthara and The Dark Urge have no documented starting-stat table (omitted
   rather than guessed).
+- Phase 2 remainder counts: 12 classes + 58 subclasses (all with descriptions),
+  31 race/subrace entries, 12 backgrounds, 39 illithid powers (16 base / 10
+  elite / 11 full-ceremorphosis / 2 other). Spot-checked: Barbarian hit points
+  12+CON; Warlock spellcasting ability Charisma; Wood Elf speed Fast; Lolth-
+  Sworn Drow has Drow Magic; Halfling speed Slow; Sage background -> Gale.
+  The reference-pipeline refactor changed nothing in the existing outputs
+  (feats/conditions/buffs/companions byte-identical).
 - Vendor-extraction edge cases handled: "such as/including" phrasing, trailing
   prepositional fragments, "1x –" prefixes, level-gated vendors ("after
   Level 6"), Bixa Root (renamed copy of Mergrass) mapping.
@@ -107,9 +141,10 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. Commit the Phase 2 first tranche; the user then runs their `push` script.
-2. Phase 2 remainder per `PLAN.md`: classes + subclasses (2b), races (2c),
-   backgrounds (2e), illithid powers (2g).
-3. Phase 3 (achievements, honour mode) — small.
-4. Optionally fill in acts/acquisition for the 56 undocumented items
+1. Commit the Phase 2 remainder; the user then runs their `push` script.
+2. Phase 3 (`PLAN.md`): achievements (`achievements.md`) and Honour Mode /
+   difficulty (`honour_mode.md`) — small, can slot in anytime.
+3. Optionally fill in acts/acquisition for the 56 undocumented items
    (`classify_missing.py` `OVERRIDES`).
+4. Phase 4 (merchant catalog, quest index) only if the source lists prove
+   insufficient.

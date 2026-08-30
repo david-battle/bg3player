@@ -14,6 +14,11 @@ knowledge base. Usage examples:
     kb condition --name "radiating orb"
     kb feat --name "great weapon"
     kb companion --name astarion
+    kb class --name wizard            # class + its subclasses
+    kb subclass --name berserker      # what distinguishes a subclass
+    kb race --name elf                # race/subrace traits (or list all)
+    kb background --name noble        # skills + who starts with it
+    kb power --tier elite             # illithid powers by tier
     kb buff --act two
     kb missables --act 2
 """
@@ -219,6 +224,92 @@ def cmd_missables(args):
             print(f"- {label}")
 
 
+def cmd_class(args):
+    data = load("classes.json")
+    classes = data["classes"]
+    if args.name:
+        classes = [c for c in classes if args.name.lower() in c["name"].lower()]
+    if not classes:
+        print("(no matching class)")
+    for c in classes[:args.limit]:
+        print(f"### {c['name']}")
+        if c["description"]:
+            print(f"  {c['description']}")
+        a = c["attributes"]
+        if a.get("Hit points"):
+            print(f"  Hit points: {a['Hit points']}")
+        if a.get("Key abilities"):
+            print(f"  Key abilities: {a['Key abilities']}")
+        if a.get("Spellcasting Ability"):
+            print(f"  Spellcasting ability: {a['Spellcasting Ability']}")
+        for label, val in c["proficiencies"].items():
+            print(f"  {label}: {val}")
+        subs = [s for s in data["subclasses"] if s["class"] == c["name"]]
+        if subs:
+            print("  Subclasses:")
+            for s in subs:
+                print(f"    - {s['name']}: {s['description']}")
+
+
+def cmd_subclass(args):
+    subs = [s for s in load("classes.json")["subclasses"]
+            if args.name.lower() in s["name"].lower()]
+    if not subs:
+        print("(no matching subclass)")
+    for s in subs[:args.limit]:
+        print(f"### {s['name']} ({s['class']})")
+        print(f"  {s['description']}")
+
+
+def cmd_race(args):
+    races = load("races.json")["races"]
+    if args.name:
+        races = [r for r in races
+                 if args.name.lower() in (r["race"] + " " + r["subrace"]).lower()]
+    if not races:
+        print("(no matching race)")
+    for r in races[:args.limit]:
+        name = r["race"] if not r["subrace"] else f"{r['race']} ({r['subrace']})"
+        print(f"### {name}")
+        print(f"  Speed: {r['speed']}")
+        if r["proficiencies"]:
+            print(f"  Proficiencies: {r['proficiencies']}")
+        if r["features"]:
+            print(f"  Features: {r['features']}")
+
+
+def cmd_background(args):
+    bgs = [b for b in load("backgrounds.json")["backgrounds"]
+           if args.name.lower() in b["name"].lower()]
+    if not bgs:
+        print("(no matching background)")
+    for b in bgs[:args.limit]:
+        print(f"### {b['name']}")
+        if b["description"]:
+            print(f"  {b['description']}")
+        for label, val in b["skills"].items():
+            print(f"  - {label}: {val}")
+
+
+def cmd_power(args):
+    tiers = load("illithid_powers.json")["tiers"]
+    if args.tier:
+        tiers = [t for t in tiers if args.tier.lower() in t["name"].lower()]
+    if args.name:
+        tiers = [dict(t, powers=[p for p in t["powers"]
+                                 if args.name.lower() in p["name"].lower()])
+                 for t in tiers]
+    for t in tiers:
+        if not t["powers"]:
+            continue
+        print(f"## {t['name']} ({len(t['powers'])})")
+        for p in t["powers"][:args.limit]:
+            print(f"### {p['name']} [{p['type']}]")
+            if p["requires"] and p["requires"] not in ("None", "-"):
+                print(f"  Requires: {p['requires']}")
+            print(f"  {p['description']}")
+
+
 def main():
     p = argparse.ArgumentParser(prog="kb", description="BG3 knowledge base lookup")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -250,6 +341,21 @@ def main():
 
     sp = add("companion", "companion details or recruitable per act")
     sp.add_argument("--name"); sp.add_argument("--act")
+
+    sp = add("class", "class details + subclasses")
+    sp.add_argument("--name")
+
+    sp = add("subclass", "subclass distinguishing description")
+    sp.add_argument("--name", required=True)
+
+    sp = add("race", "race/subrace traits (list all without --name)")
+    sp.add_argument("--name")
+
+    sp = add("background", "background skills + who starts with it")
+    sp.add_argument("--name", required=True)
+
+    sp = add("power", "illithid powers by tier or name")
+    sp.add_argument("--name"); sp.add_argument("--tier")
 
     sp = add("buff", "permanent buffs (optionally per act)")
     sp.add_argument("--act")

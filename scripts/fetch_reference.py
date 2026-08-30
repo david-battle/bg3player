@@ -57,7 +57,9 @@ def main():
     json.dump(seed, open(OUT_SEED, "w"), indent=1)
     print(f"condition seed: {len(seed)} pages")
 
-    todo = list(rd.MASTER_PAGES) + list(rd.COMPANION_PAGES) + seed
+    todo = (list(rd.MASTER_PAGES) + list(rd.COMPANION_PAGES) + list(rd.CLASS_PAGES)
+            + list(rd.SUBCLASS_OF) + list(rd.RACE_PAGES)
+            + list(rd.BACKGROUND_PAGES) + list(rd.ILLITHID_PAGES) + seed)
     fetched = skipped = 0
     for title in todo:
         path = os.path.join(rd.HTMLDIR, title + ".html")

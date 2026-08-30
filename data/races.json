@@ -1,0 +1,223 @@
+{
+ "intro": "There are 11 playable races in Baldur's Gate 3 . Many playable races are divided into subraces , which further defines a character's strengths, abilities, and appearance. Refer to individual Race pages for further details. Unless otherwise noted, spells gained from race may only be cast once per Long Rest. In D&D 5e, playable races tend to receive fixed ability score bonuses as racial bonuses. Baldur's Gate 3 instead awards each race the following ability score bonuses for the player to freely allocate: +2 to any Ability Score +1 to any other Ability Score",
+ "size": "Halflings and Gnomes are Small; all other playable races are Medium.",
+ "races": [
+  {
+   "race": "Human",
+   "subrace": "",
+   "speed": "Standard 9 m (30 ft)",
+   "proficiencies": "Weapons Spears Pikes Halberds Glaives Armour Light armour Shields Skills One Skill of choice",
+   "features": "Human Versatility Increased Carrying Capacity by 25%"
+  },
+  {
+   "race": "Elf",
+   "subrace": "High Elf",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "Weapons Shortswords Longswords Shortbows Longbows Skills Perception",
+   "features": "Fey Ancestry Advantage against being Charmed Immune to magical Sleep Darkvision Can see in the dark up to 12 m (40 ft). | One Cantrip of choice from the Wizard spell list"
+  },
+  {
+   "race": "Elf",
+   "subrace": "Wood Elf",
+   "speed": "Fast, 10.5 m (35 ft)",
+   "proficiencies": "Weapons Shortswords Longswords Shortbows Longbows Skills Perception | Skills Stealth",
+   "features": "Fey Ancestry Advantage against being Charmed Immune to magical Sleep Darkvision Can see in the dark up to 12 m (40 ft). | Fleet of Foot Increases base movement speed by 1.5 m (5 ft)"
+  },
+  {
+   "race": "Drow",
+   "subrace": "Lolth-Sworn Drow",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "Weapons Rapiers Shortswords Hand Crossbows Skills Perception",
+   "features": "Fey Ancestry Advantage against being Charmed Immune to magical Sleep Superior Darkvision Can see in the dark up to 24 m (80 ft). Drow Magic Dancing Lights, Faerie Fire, and Darkness Spells at levels 1, 3, and 5 | The only difference between Drow subraces lies in their available dialogue options and deity selection as clerics"
+  },
+  {
+   "race": "Drow",
+   "subrace": "Seldarine Drow",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "Weapons Rapiers Shortswords Hand Crossbows Skills Perception",
+   "features": "Fey Ancestry Advantage against being Charmed Immune to magical Sleep Superior Darkvision Can see in the dark up to 24 m (80 ft). Drow Magic Dancing Lights, Faerie Fire, and Darkness Spells at levels 1, 3, and 5 | The only difference between Drow subraces lies in their available dialogue options and deity selection as clerics"
+  },
+  {
+   "race": "Half-Elf",
+   "subrace": "High Half-Elf",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "Weapons Spears Pikes Halberds Glaives Armour Light armour Shields",
+   "features": "Fey Ancestry Advantage against being Charmed Immune to magical Sleeping Darkvision Can see in the dark up to 12 m (40 ft). | One Cantrip of choice from the Wizard spell list"
+  },
+  {
+   "race": "Half-Elf",
+   "subrace": "Wood Half-Elf",
+   "speed": "Fast, 10.5 m (35 ft)",
+   "proficiencies": "Weapons Spears Pikes Halberds Glaives Armour Light armour Shields | Skills Stealth",
+   "features": "Fey Ancestry Advantage against being Charmed Immune to magical Sleeping Darkvision Can see in the dark up to 12 m (40 ft). | Fleet of Foot Increases base movement speed by 1.5 m (5 ft)"
+  },
+  {
+   "race": "Half-Elf",
+   "subrace": "Drow Half-Elf",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "Weapons Spears Pikes Halberds Glaives Armour Light armour Shields",
+   "features": "Fey Ancestry Advantage against being Charmed Immune to magical Sleeping Darkvision Can see in the dark up to 12 m (40 ft). | Drow Magic Dancing Lights, Faerie Fire, and Darkness Spells at levels 1, 3, and 5"
+  },
+  {
+   "race": "Half-Orc",
+   "subrace": "",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "Skills Intimidation",
+   "features": "Darkvision Can see in the dark up to 12 m (40 ft). Savage Attacks Add one additional dice of damage when scoring a critical hit with a melee weapon Relentless Endurance Drop to 1 hit point instead of being downed, once per long rest"
+  },
+  {
+   "race": "Halfling",
+   "subrace": "Lightfoot Halfling",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "",
+   "features": "Halfling Luck Single reroll on a 1 for an Attack Roll, Ability Check, or Saving Throw. Brave Advantage against being Frightened | Naturally Stealthy Advantage on Stealth checks"
+  },
+  {
+   "race": "Halfling",
+   "subrace": "Strongheart Halfling",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "",
+   "features": "Halfling Luck Single reroll on a 1 for an Attack Roll, Ability Check, or Saving Throw. Brave Advantage against being Frightened | Strongheart Resilience Advantage against being Poisoned and Resistance to Poison damage"
+  },
+  {
+   "race": "Dwarf",
+   "subrace": "Gold Dwarf",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "Weapons Battleaxes Handaxes Light Hammers Warhammers",
+   "features": "Dwarven Resilience Advantage against being Poisoned and Resistance to Poison damage Darkvision Can see in the dark up to 12 m (40 ft). | Dwarven Toughness Maximum Hit Point increased by 1 per level"
+  },
+  {
+   "race": "Dwarf",
+   "subrace": "Shield Dwarf",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "Weapons Battleaxes Handaxes Light Hammers Warhammers | Armour Light armour (Dwarven Armour Training) Medium armour (Dwarven Armour Training)",
+   "features": "Dwarven Resilience Advantage against being Poisoned and Resistance to Poison damage Darkvision Can see in the dark up to 12 m (40 ft)."
+  },
+  {
+   "race": "Dwarf",
+   "subrace": "Duergar",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "Weapons Battleaxes Handaxes Light Hammers Warhammers",
+   "features": "Dwarven Resilience Advantage against being Poisoned and Resistance to Poison damage Darkvision Can see in the dark up to 12 m (40 ft). | Duergar Resilience Advantage on Saving Throws against Illusions and against being Charmed or Paralysed Superior Darkvision Can see in the dark up to 24 m (80 ft). Duergar Magic Enlarge and Invisibility spells at levels 3 and 5"
+  },
+  {
+   "race": "Gnome",
+   "subrace": "Forest Gnome",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "",
+   "features": "Gnome Cunning Advantage on Intelligence, Wisdom, and Charisma Saving Throws Darkvision Can see in the dark up to 12 m (40 ft). | Additional Spell Speak with Animals (at will)"
+  },
+  {
+   "race": "Gnome",
+   "subrace": "Deep Gnome",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "",
+   "features": "Gnome Cunning Advantage on Intelligence, Wisdom, and Charisma Saving Throws Darkvision Can see in the dark up to 12 m (40 ft). | Superior Darkvision Can see in the dark up to 24 m (80 ft). Stone Camouflage Advantage on Stealth checks"
+  },
+  {
+   "race": "Gnome",
+   "subrace": "Rock Gnome",
+   "speed": "Slow, 7.5 m (25 ft)",
+   "proficiencies": "Skills Expertise in History (Artificer's Lore)",
+   "features": "Gnome Cunning Advantage on Intelligence, Wisdom, and Charisma Saving Throws Darkvision Can see in the dark up to 12 m (40 ft)."
+  },
+  {
+   "race": "Tiefling",
+   "subrace": "Asmodeus Tiefling",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Hellish Resistance Resistance to Fire damage Darkvision Can see in the dark up to 12 m (40 ft). | Infernal Legacy Produce Flame, Hellish Rebuke, and Darkness Spells at levels 1, 3, and 5"
+  },
+  {
+   "race": "Tiefling",
+   "subrace": "Mephistopheles Tiefling",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Hellish Resistance Resistance to Fire damage Darkvision Can see in the dark up to 12 m (40 ft). | Legacy of Cania Mage Hand, Burning Hands, and Flame Blade Spells at levels 1, 3, and 5"
+  },
+  {
+   "race": "Tiefling",
+   "subrace": "Zariel Tiefling",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Hellish Resistance Resistance to Fire damage Darkvision Can see in the dark up to 12 m (40 ft). | Legacy of Avernus Thaumaturgy, Searing Smite, and Branding Smite Spells at levels 1, 3, and 5"
+  },
+  {
+   "race": "Githyanki",
+   "subrace": "",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "Weapons Shortswords Longswords Greatswords Armour Light armour Medium armour",
+   "features": "Astral Knowledge Gain Proficiency in all Skills corresponding to a chosen Ability each Long Rest Githyanki Psionics Mage Hand, Enhance Leap, and Misty Step Spells at levels 1, 3, and 5"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Black Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Acid damage Acid Breath AoE: 5 m (17 ft) Line of Acid damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Blue Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Lightning damage Lightning Breath AoE: 5 m (17 ft) Line of Lightning damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Brass Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Fire damage Fire Breath (Line) AoE: 5 m (17 ft) Line of Fire damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Bronze Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Lightning damage Lightning Breath AoE: 5 m (17 ft) Line of Lightning damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Copper Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Acid damage Acid Breath AoE: 5 m (17 ft) Line of Acid damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Gold Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Fire damage Fire Breath (Cone) AoE: 5 m (17 ft) Cone of Fire damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Green Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Poison damage Poison Breath AoE: 5 m (17 ft) Cone of Poison damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Red Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Fire damage Fire Breath (Cone) AoE: 5 m (17 ft) Cone of Fire damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "Silver Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Cold damage Frost Breath AoE: 5 m (17 ft) Cone of Cold damage"
+  },
+  {
+   "race": "Dragonborn",
+   "subrace": "White Dragonborn",
+   "speed": "Standard, 9 m (30 ft)",
+   "proficiencies": "",
+   "features": "Draconic Ancestry Resistance to Cold damage Frost Breath AoE: 5 m (17 ft) Cone of Cold damage"
+  }
+ ]
+}
