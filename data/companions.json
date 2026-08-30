@@ -1,0 +1,468 @@
+{
+ "companions": [
+  {
+   "name": "Astarion",
+   "role": "Origin",
+   "race": "Elf",
+   "subrace": "High elf",
+   "class": "Rogue",
+   "subclass": "Arcane Trickster",
+   "background": "Charlatan",
+   "hometown": "Baldur's Gate",
+   "stats": {
+    "STR": {
+     "score": 8,
+     "mod": null
+    },
+    "DEX": {
+     "score": 17,
+     "mod": null
+    },
+    "CON": {
+     "score": 14,
+     "mod": null
+    },
+    "INT": {
+     "score": 13,
+     "mod": null
+    },
+    "WIS": {
+     "score": 13,
+     "mod": null
+    },
+    "CHA": {
+     "score": 10,
+     "mod": null
+    }
+   },
+   "quest": "Astarion's personal quest as a companion is The Pale Elf . As an origin, his personal quest is Call of the Blood . His personal quest spans all acts of the game. In it, he explores his newfound freedom, how he can keep it, and the consequences of doing so. He also can choose how to come to terms with the abuse inflicted on him \u2013 and the harm he has caused to others.",
+   "recruitment_act": "One",
+   "recruitment": "Recruitable in Act One . Astarion is standing on the southern loop of the circular road west of the crashed Nautiloid and northwest of the broken pier in the Wilderness . When approached, a scene plays where he feigns asking for help in defeating an Intellect Devourer . Afterwards, he can be asked to join the party.",
+   "leaving": "Handing Astarion over to Gandrel in the Sunlit Wetlands , staking him when he attempts to bite the player character (but failing the Strength check), breaking Yurgir's contract instead of killing him (and then failing to convince Astarion to stay), or interrupting his attempt to hijack the Ritual of Profane Ascension (without successfully talking him down) results in Astarion permanently leaving the party.",
+   "romance": "See main article: Astarion/Romance Astarion can be romanced by characters of any gender. His romance deals heavily with his personal character growth, his relationship with intimacy, reclaiming his autonomy, and navigation of his newly found freedom. Astarion's romance has sharply different outcomes depending on the choices made at the end of his companion quest."
+  },
+  {
+   "name": "Gale",
+   "role": "Origin",
+   "race": "Human",
+   "subrace": null,
+   "class": "Wizard",
+   "subclass": "Evocation School",
+   "background": "Sage",
+   "hometown": "Waterdeep",
+   "stats": {
+    "STR": {
+     "score": 8,
+     "mod": null
+    },
+    "DEX": {
+     "score": 13,
+     "mod": null
+    },
+    "CON": {
+     "score": 15,
+     "mod": null
+    },
+    "INT": {
+     "score": 17,
+     "mod": null
+    },
+    "WIS": {
+     "score": 10,
+     "mod": null
+    },
+    "CHA": {
+     "score": 12,
+     "mod": null
+    }
+   },
+   "quest": "Gale's personal quest as companion is The Wizard of Waterdeep . As an origin his personal quest is The Wizard of Waterdeep (Origin) . His personal quest is spanning all acts of the game. In it, Gale must come to terms with the consequences of his unbridled ambitions. Primary among these: his fall from grace with Mystra and the ticking time bomb in his body. Two further subquests are available that tie into his personal quest: In Case of Death... , in which the party must deal with Gale's protocol for his untimely death, and Balthazar's Experiment , where Gale can decide to finish the work of a dangerous necromancer. Completing In Case of Death... with a Sage background character grants the Reanimator inspiration.",
+   "recruitment_act": "One",
+   "recruitment": "Gale can be recruited as a permanent companion during Act One . Act One Gale can be found when approaching the Roadside Cliffs Ancient Rune Circle , north of the Ravaged Beach . If investigated, Gale sticks his hand out from inside the circle and asks for help. A successful ability check is required to pull him out, with multiple options available: [ 1 ] [KARLACH] [STRENGTH] You'll have to remain extremely calm to touch him without burning him. Take a deep breath, then pull. (DC 7) [DARK URGE] [STRENGTH] Ignore the urge to maim. Grab the hand and pull. (DC 7) [STRENGTH] Grab the hand and pull. (DC 7) [WIZARD] [INTELLIGENCE] Whisper to the Weave roiling within the sigil. Attempt to calm it down. (DC 7) [WARLOCK] [SORCERER] [BARD] [CHARISMA] Attune yourself to the sigil's magic, then bid it to quiet down. (DC 7) [CLERIC] [DRUID] [WISDOM] Let flow some words of prayer to soothe the sigil's magic. (DC 7) [CLERIC OF MYSTRA] [WISDOM] Let flow some words of prayer to soothe the sigil's magic. (DC 7 ) [ROGUE] [SLEIGHT OF HAND] With a keen, but calculated twist, you attempt to sabotage the sigil. (DC 12) If the first check is failed, a second one may be attempted with increased difficulty: [ 1 ] [KARLACH] [STRENGTH] Take a deep breath. Stay calm and cool. When you're sure your flames won't hurt him, pull again. (DC 12) [STRENGTH] Pull again, as hard as you can. (DC 12) [STRENGTH] Muster your strength and yank harder. (DC 7) (if class-specific check) Failing two checks, or choosing to leave him to his fate, results in Gale falling back into the rune circle and locks him out from recruitment.",
+   "leaving": "Gale moves to leave the party if the goblins are sided with and the Emerald Grove is raided successfully. After the slaughter, he confronts the player and says his goodbyes, though he may be retained through dialogue. If neglected or ignored for too long, he leaves the party without much fanfare, leaving only a small note behind. [ 2 ] On meeting Gale the first time as the Dark Urge , the player character has a special option on where they fantasize about cutting off his hand. If selected, the fantasy is not merely imagined, but acted out in real time: Gale loses his hand to the Dark Urge's unrestrained impulses and falls back into the circle, permanently barring the party from recruiting him. Also, doing this is considered an oathbreaking action for Paladins of any Oath subclass . If attacking and killing Elminster at the start of Act Two instead of talking to him, Gale leaves the party at the end of the Act, stating that his condition has worsened to the point that he can longer satiate it, and wishes to find somewhere remote to end his life.",
+   "romance": "Main article: Gale/Romance Gale may be romanced by characters of any gender. In his relationship, Gale must reconcile his newfound feelings of love with the tragic consequences of his past involvement with Mystra, as well as deal with his impending death."
+  },
+  {
+   "name": "Karlach",
+   "role": "Origin",
+   "race": "Tiefling",
+   "subrace": "Zariel tiefling",
+   "class": "Barbarian",
+   "subclass": "Berserker (default)",
+   "background": "Outlander",
+   "hometown": "Baldur's Gate, Avernus, Nine Hells",
+   "stats": {
+    "STR": {
+     "score": 17,
+     "mod": null
+    },
+    "DEX": {
+     "score": 13,
+     "mod": null
+    },
+    "CON": {
+     "score": 15,
+     "mod": null
+    },
+    "INT": {
+     "score": 8,
+     "mod": null
+    },
+    "WIS": {
+     "score": 12,
+     "mod": null
+    },
+    "CHA": {
+     "score": 10,
+     "mod": null
+    }
+   },
+   "quest": "Karlach's personal quest as a companion is Our Fiery Friend . As an origin her personal quest is Servant of None . Her personal quest spans all acts of the game. Throughout it, Karlach's past menaces ever closer, threatening her freedom just as she is beginning to enjoy it. Three sub-quests tie into Karlach's personal quest: In The Hellion's Heart , Karlach and the party must deal with her mechanical heart and the problems it is causing her. Hunt the Devil has her hunted by Zariel's agents. Wyll's companion quest, The Blade of Frontiers , also features Karlach as an important character. An origin Karlach replaces Our Fiery Friend and The Hellion's Heart with Servant of None and Forging a Heart , respectively.",
+   "recruitment_act": "One",
+   "recruitment": "Karlach is on The Risen Road , near the Toll House , at X: 111 Y: 503 . Cornered by Zariel's bloodhounds, she is nursing her wounds after the recent encounter. The party can talk to and recruit her, provided they agree to help do away with her pursuers. Returning to Anders and his team with Karlach in the party ultimately results in battle. However, Karlach refuses to join the party if, before meeting her, they side with the Goblins and lay waste to the Emerald Grove , provoke a fight between the inhabitants of the grove, or they allow the Rite of Thorns to be completed. If Wyll is brought along for the first meeting with Karlach, the two confront each other. Wyll reveals that Karlach is the quarry he has been hunting for his patron, while Karlach claims to be a victim, not an agent of Zariel. Either of the two can be sided with, though siding with Wyll results in battle with Karlach. The situation can also be defused by convincing Wyll that Karlach's words are true, as backed by the vision everyone shares during the dialogue thanks to their tadpoles.",
+   "leaving": "If the party decide to side with the goblins before the raid on the grove, Karlach rebukes the player character and leaves \u2013 permanently. If the party side with the goblins during the raid on the grove, she assists until the fight at the gate is concluded. She then forcefully castigates the player character and permanently leaves the party. [ 4 ]",
+   "romance": "Main article: Karlach/Romance Karlach can be romanced by characters of any gender. If romanced, Karlach's inability to touch her partner, and the pain of being physically isolated from everyone for so long, are issues that must be explored and overcome together."
+  },
+  {
+   "name": "Lae'zel",
+   "role": "Origin",
+   "race": "Githyanki",
+   "subrace": null,
+   "class": "Fighter",
+   "subclass": "Battle Master (default)",
+   "background": "Soldier",
+   "hometown": "Cr\u00e8che K'liir",
+   "stats": {
+    "STR": {
+     "score": 17,
+     "mod": null
+    },
+    "DEX": {
+     "score": 13,
+     "mod": null
+    },
+    "CON": {
+     "score": 15,
+     "mod": null
+    },
+    "INT": {
+     "score": 10,
+     "mod": null
+    },
+    "WIS": {
+     "score": 12,
+     "mod": null
+    },
+    "CHA": {
+     "score": 8,
+     "mod": null
+    }
+   },
+   "quest": "Lae'zel's personal quest as companion is The Githyanki Warrior . As an origin her personal quest is The Githyanki Warrior (Origin) . Her personal quest spans all acts of the game. In it, she explores her strong feelings of duty for her people, her zealous devotion to her queen, and where her loyalties should truly lie. Lae'zel's companion quest ties into two further, separate quests. In Free Lae'zel , the party finds her trapped in a cage by a pair of tieflings, and must decide how to proceed. During Help Kith'rak Voss , Lae'zel must consider a proposition that promises to change the fate of her people forever.",
+   "recruitment_act": "One",
+   "recruitment": "Lae'zel is recruited as a temporary companion during the Prologue on the Nautiloid by agreeing to fight with her when encountered; she can become a permanent companion during Act One. Prologue Lae'zel is first encountered on the nautiloid while escaping from the ship; she joins the party as a temporary companion and leaves the party after successfully escaping. If Lae'zel is chosen as an Origin, she will be accompanied by Losiir in this encounter instead. Act One If Lae'zel survives the Nautiloid prologue, she can be encountered again in the Wilderness near the Roadside Cliffs at X: 242 Y: 370 . She has been captured and is being held in a wooden cage by two tieflings , Damays and Nymessa . If the party is able to free her, she can be invited to join them. If Lae'zel dies aboard the Nautiloid, her body will be found at the beach starting area. She can be brought back to life and recruited. Lae'zel can still be found in the cage if the party progresses to the Emerald Grove and triggers the initial attack scene at the gates. If the party progresses further into the game, Lae'zel breaks out of her cage and disappears, killing Damays and Nymessa if they are still alive. She can then be found later on and may still be recruited. After breaking out of the cage, if she is not admitted to the party until this point, she will show up when the party encounter the githyanki near the Mountain Pass . If not turned hostile during the encounter, she can be recruited at the end of the battle. If she dies during the battle as an ally or neutral, she can be revived and invited to join. If the player character misses or refuses all the recruitment opportunities above, she can be found again one final time near the first waypoint on the Rosymorn Monastery Trail where Cr\u00e8che Y'llek is located for a final recruitment opportunity. Should the party proceed inside the cr\u00e8che without having recruited Lae'zel, she will disappear from the mountain pass. When the party proceeds to the Shadow-Cursed Lands , they will find her as an Undead there, having gone the wrong way when trying to find the cr\u00e8che.",
+   "leaving": "",
+   "romance": "Main article: Lae'zel/Romance Lae'zel can be romanced by characters of any gender. At first only about sex, the relationship will turn more serious as Lae'zel gradually learns to see the player character as an equal and then as a partner."
+  },
+  {
+   "name": "Shadowheart",
+   "role": "Origin",
+   "race": "Half-elf",
+   "subrace": "High half-elf",
+   "class": "Cleric",
+   "subclass": "Trickery Domain",
+   "background": "Acolyte",
+   "hometown": "Moonhaven",
+   "stats": {
+    "STR": {
+     "score": 13,
+     "mod": null
+    },
+    "DEX": {
+     "score": 13,
+     "mod": null
+    },
+    "CON": {
+     "score": 14,
+     "mod": null
+    },
+    "INT": {
+     "score": 10,
+     "mod": null
+    },
+    "WIS": {
+     "score": 17,
+     "mod": null
+    },
+    "CHA": {
+     "score": 8,
+     "mod": null
+    }
+   },
+   "quest": "Shadowheart's personal quest as companion is Daughter of Darkness . As an origin her personal quest is Daughter of Darkness (Origin) . Her personal quest spans all acts of the game. Throughout it, Shadowheart uncovers fragments of her shrouded history, re-examines her relationship with her goddess and ultimately decides her own future: whether to re-affirm her commitment to remain in the dark embrace of the Lady of Loss or finally free herself from Shar's grip. Three further subquests are available which tie into her personal quest: The Chosen of Shar , in which Shadowheart's faith is tested, A Familiar Face , where parts of her past can come to light, and Surrender Shadowheart , in which the player character considers a treacherous proposition.",
+   "recruitment_act": "One",
+   "recruitment": "Shadowheart can be recruited as a temporary companion during the Prologue on the Nautiloid by freeing her from the mind flayer pod; she can become a permanent companion during Act One . Prologue Shadowheart is first encountered on the Nautiloid during the Prologue, trapped inside a mind flayer pod. She can be freed by interacting with the nearby console or as a Barbarian, using one of the dialogue options below: [ 3 ] [BARBARIAN] Grip the pod's lid and pull. [BERSERKER] [STRENGTH] RIP THE POD OPEN. (DC 10) [BARBARIAN] [STRENGTH] Don't give up. Tear this thing open. (DC 10) If she is freed, Shadowheart joins the party as a temporary companion but leaves upon escaping the nautiloid. Act One If freed from her pod during the prologue, Shadowheart is on the Ravaged Beach in the Wilderness , lying unconscious on the ground. She wakes up if interacted with. If she was not freed from her pod, Shadowheart instead is attempting to gain entry to the nearby Dank Crypt . Either way, she can be invited to form a party (or join an existing one) after speaking with her. If Shadowheart is not spoken with immediately on the Ravaged Beach, she moves to the Druid Grove on her own searching for a healer; she can be spoken with there and invited to join the party. If the party enters the Goblin Camp without recruiting Shadowheart, she shows up and saves the party from the Voice of the Absolute using the Mysterious Artefact . If she is not recruited then, she can be convinced to wait there, or fought to the death. If the party ignores the Goblin Camp and walks toward the Mountain Pass , Shadowheart shows up there and saves the party from the Voice as they attempt to cross the bridge into the main area. If the party ignores both the Goblin Camp and the Mountain Pass, and enters the Underdark without her, Shadowheart ultimately appears there and saves the party from the Voice of the Absolute as they enter the elevator to the Shadow-Cursed Lands .",
+   "leaving": "If the player character sides with Lae'Zel in their confrontation, tries to enter the Shadowfell without the Spear of Night or enters it without her, allows Balthazar to retrieve The Nightsong , attempts to plead against her crusade on killing Aylin, offers her to Viconia DeVir in exchange for Sharran aid in fighting the Absolute, or kills her parents after rescuing them in Act Three , Shadowheart permanently leaves the party.",
+   "romance": "Main article: Shadowheart/Romance Shadowheart at her first night being romanced. Shadowheart can be romanced by characters of any gender, and is one of the few characters willing to share an intimate relationship. Throughout it, she deals with the topic of her identity and how the idea of love fits the Sharran concept of self-sacrifice for their goddess. Shadowheart has unique dialogue options available if she is romanced by a Sel\u00fbnite cleric. [ 5 ] \u201c I'm not half as mysterious as you might think. Respect my privacy, my beliefs, keep us focused on finding a cure... If you do that, well... I see no reason why we shouldn't get closer. \u201e \u2014 Shadowheart , rejecting an overture \"for now\""
+  },
+  {
+   "name": "Wyll",
+   "role": "Origin",
+   "race": "Human",
+   "subrace": null,
+   "class": "Warlock",
+   "subclass": "The Fiend (Mizora)",
+   "background": "Folk Hero",
+   "hometown": "Baldur's Gate",
+   "stats": {
+    "STR": {
+     "score": 8,
+     "mod": null
+    },
+    "DEX": {
+     "score": 13,
+     "mod": null
+    },
+    "CON": {
+     "score": 14,
+     "mod": null
+    },
+    "INT": {
+     "score": 13,
+     "mod": null
+    },
+    "WIS": {
+     "score": 10,
+     "mod": null
+    },
+    "CHA": {
+     "score": 17,
+     "mod": null
+    }
+   },
+   "quest": "Wyll's personal quest as a companion is The Blade of Frontiers . As an origin his personal quest is The Blade of Frontiers (Origin) . His personal quest spans all acts of the game. Throughout it, Wyll must deal with what it truly means to be a hero, facing overwhelming odds and, at times, seemingly impossible choices as he struggles to embody the ideals instilled by his father. Two further quests are available that tie into his personal quest: Hunt the Devil , in which Wyll's vow to slay all fiends will be tested, and The Grand Duke , where Wyll must uphold his honour and reckon with the large shadow cast by his father, Ulder Ravengard.",
+   "recruitment_act": "One",
+   "recruitment": "Act One Wyll is first encountered when the party approaches the Druid Grove in the Wilderness . On approach, goblins launch an attack on the grove gate and Wyll participates in the battle, announcing himself as \"the Blade of Frontiers\" , as he defends the grove. If he survives the conflict, he moves to the The Hollow teaching tiefling children how to fight. Speaking with him there and agreeing to join forces brings Wyll into the party. If Wyll dies during the goblin battle, he can be resurrected with a Scroll of Revivify and recruited as normal. If Karlach is recruited first, Wyll appears at camp after taking a Long Rest , and immediately confronts her. Convincing him not to attack Karlach gains approval from nearby companions. If the Druid's Grove quest is completed, Wyll leaves the hollow. He instead appears in camp after Karlach is recruited upon taking a long rest. Wyll disappears from the game if Karlach dies before meeting him. [ verify ] Wyll does not join the party if a battle breaks out between the inhabitants of the Emerald Grove before recruiting him. If the party raids the grove without first recruiting him, Wyll's corpse can be found among those of the grove defenders after the battle. Should Rescue the Grand Duke be started by rescuing Florrick from a burning Waukeen's Rest without recruiting Wyll, his recruitment dialogue is entirely skipped and he makes conversation as if he has already joined the party. In this event, he can be recruited by simply asking him to join.",
+   "leaving": "Wyll abandons the party if they side with the Goblins and lay waste to the Grove. If he accompanies the party during this siege, he turns on them. If the tieflings and druids are already dead, and the party directed Minthara towards the Grove or the party chooses to warn the grove of the attack and then betrays them upon her arrival at the gate without him present, he abandons the party once the goblin celebration commences. [ 4 ] Attacking his father at any point causes Wyll to turn against the party.",
+   "romance": "Main article: Wyll/Romance Wyll can be romanced by characters of any gender. He is earnest in his romance, and takes a dim view of casual encounters with others, especially Mizora."
+  },
+  {
+   "name": "The Dark Urge",
+   "role": "Origin",
+   "race": "Any, White dragonborn (default)",
+   "subrace": null,
+   "class": "Any, Sorcerer (default)",
+   "subclass": "Any, Storm Sorcery (default)",
+   "background": "Haunted One",
+   "hometown": "Baldur's Gate",
+   "stats": {},
+   "quest": "",
+   "recruitment_act": null,
+   "recruitment": "",
+   "leaving": "",
+   "romance": ""
+  },
+  {
+   "name": "Halsin",
+   "role": "Non-origin companion",
+   "race": "Elf",
+   "subrace": "Wood elf",
+   "class": "Druid",
+   "subclass": "Circle of the Moon",
+   "background": "Outlander",
+   "hometown": "Emerald Grove",
+   "stats": {
+    "STR": {
+     "score": 10,
+     "mod": null
+    },
+    "DEX": {
+     "score": 14,
+     "mod": null
+    },
+    "CON": {
+     "score": 14,
+     "mod": null
+    },
+    "INT": {
+     "score": 8,
+     "mod": null
+    },
+    "WIS": {
+     "score": 17,
+     "mod": null
+    },
+    "CHA": {
+     "score": 12,
+     "mod": null
+    }
+   },
+   "quest": "Halsin does not have a Companion Quest . He is, however, deeply tied to Lift the Shadow Curse , and it cannot be successfully completed without his assistance.",
+   "recruitment_act": "Two",
+   "recruitment": "To recruit Halsin, the quests Defeat the Goblins , Rescue the Druid Halsin , and Save the First Druid must be completed with him alive, and he must agree to join the party as they travel to the Shadow-Cursed Lands . Halsin can be recruited in Act Two after the party progress in the quest to lift the Shadow Curse to a certain point. However, if they proceed to Act Three without fully completing the quest, Halsin stays behind in the Shadow-Cursed Lands . Recruiting Halsin grants the Patrician of the Grove inspiration to party members with the Noble background.",
+   "leaving": "",
+   "romance": "Main article: Halsin/Romance Halsin can be romanced . Though the majority of his romance occurs in Act Three , he can be flirted with in prior Acts. He is polyamorous and is the only companion who may be romanced in later stages alongside Astarion , Shadowheart , or Karlach \u2013 with their consent."
+  },
+  {
+   "name": "Jaheira",
+   "role": "Non-origin companion",
+   "race": "Half-elf",
+   "subrace": "High half-elf",
+   "class": "Druid",
+   "subclass": "Circle of the Land",
+   "background": "Soldier",
+   "hometown": "Baldur's Gate Tethyr, Lands of Intrigue (former)",
+   "stats": {
+    "STR": {
+     "score": 10,
+     "mod": null
+    },
+    "DEX": {
+     "score": 14,
+     "mod": null
+    },
+    "CON": {
+     "score": 14,
+     "mod": null
+    },
+    "INT": {
+     "score": 8,
+     "mod": null
+    },
+    "WIS": {
+     "score": 17,
+     "mod": null
+    },
+    "CHA": {
+     "score": 12,
+     "mod": null
+    }
+   },
+   "quest": "If recruited, Jaheira has a companion quest called The High Harper .",
+   "recruitment_act": "Two",
+   "recruitment": "Jaheira can be fully recruited near the end of Act Two , after Ketheric Thorm retreats to the Mind Flayer Colony . Until then, she is only available as an attached follower . However, if the Last Light Inn is destroyed and the party is still allied with Jaheira after Ketheric is defeated, she can be offered a place at camp . Although she accepts, she is, in this case, not available as a companion until Act Three . If Jaheira dies before she is recruited as a full companion, she remains Dead and cannot be recruited. If she is killed by the Dark Urge's hand, they earn the inspiration Forced Retirement .",
+   "leaving": "If the player character kills Minsc during her quest line , refuses to recruit him if he is freed, sacrifices him for Sarevok , kills any of her children, kills Isobel , intimidates her into leaving after obtaining the Slayer form, or \u2013 as the Dark Urge \u2013 embraces taking up the mantle of Bhaal's Chosen following their fight with Orin , then Jaheira permanently leaves the party.",
+   "romance": "Unlike in Baldur's Gate II , Jaheira cannot be romanced in Baldur's Gate 3 ."
+  },
+  {
+   "name": "Minsc",
+   "role": "Non-origin companion",
+   "race": "Human",
+   "subrace": null,
+   "class": "Ranger",
+   "subclass": "Hunter",
+   "background": "Folk Hero",
+   "hometown": "Baldur's Gate, Rashemen, Unapproachable East (former)",
+   "stats": {
+    "STR": {
+     "score": 12,
+     "mod": null
+    },
+    "DEX": {
+     "score": 17,
+     "mod": null
+    },
+    "CON": {
+     "score": 13,
+     "mod": null
+    },
+    "INT": {
+     "score": 8,
+     "mod": null
+    },
+    "WIS": {
+     "score": 15,
+     "mod": null
+    },
+    "CHA": {
+     "score": 10,
+     "mod": null
+    }
+   },
+   "quest": "Minsc does not have a personal quest, but he is directly tied to two others. First, he is the unwilling antagonist of Jaheira's companion quest The High Harper , and completing this quest allows him to join the party. Second, his ending in the Epilogue is determined by the outcome of Aid the Underduke , namely a conversation with Nine-Fingers Keene afterward.",
+   "recruitment_act": "Three",
+   "recruitment": "Minsc can be recruited during Act Three if Jaheira joined the party in Act Two. Progressing The High Harper leads to a fight with Minsc in the Lower City Sewers . To be recruited, he must be knocked-out on the final blow, otherwise Minsc dies without the possibility of being revived and Jaheira permanently leaves the party. The Emperor argues the Rashemi is too stupid to be of use but can be persuaded to extend the mind shield of the Mysterious Artefact in order to free Minsc from the Absolute's influence: [ 1 ] [HISTORY] His chaos saved the city before. We need him. (DC 15) [INTIMIDATION] You will do as I command, or I will find a way without you. (DC 15) If Jaheira is dead, has not been recruited, or has left the party, the Emperor mentions he is \"too far gone\" and Minsc becomes hostile again with 1 hit point . After killing Minsc in this way, when spoken to, party members behave as though Jaheira had just left, even if she has never been with the party since Moonrise Towers . Approaching Minsc with the player character elsewhere and only Jaheira in the party may cause odd behaviour, possibly preventing him from being recruited.",
+   "leaving": "Minsc's recruitment is tied to Jaheira and anything that causes her to leave will take Minsc along with her. This includes sacrificing her to Sarevok , killing her children or accepting Bhaal's blessing as the Dark Urge (or intimidating her to leave if they obtained the Slayer Form beforehand).",
+   "romance": "Minsc cannot be romanced, remaining oblivious to any player character's possible attraction."
+  },
+  {
+   "name": "Minthara",
+   "role": "Non-origin companion",
+   "race": "Drow",
+   "subrace": "Lolth-sworn drow",
+   "class": "Paladin",
+   "subclass": "Oath of Vengeance",
+   "background": "Noble",
+   "hometown": "Menzoberranzan in Northdark",
+   "stats": {},
+   "quest": "Minthara does not have a personal quest like other companions. However, she is directly involved in other important quests. As part of the main-quest Save the Refugees , the party can decide which side to support in the conflict between the goblins and druids of the grove. If siding with the druids and refugees, Minthara becomes hostile and is an objective of Defeat the Goblins . If siding with the Absolute, she appears as an ally during Raid the Grove . If the grove remains sealed the day of the raid, she instructs her raiders to kill the party. In Decide Minthara's Fate , the party can decide what happens to Minthara after her trial at the hands of Ketheric Thorm and Disciple Z'rell at Moonrise Towers . [ 5 ] . After recruiting Minthara, she has a personal interest in destroying the Cult of the Absolute and killing Orin the Red for revenge, therefore completing Get Orin's Netherstone . Orin killed Minthara's drow companions and tortured and enslaved her to the Cult of the Absolute through implanting a tadpole in Minthara's brain. The Cult of the Absolute forced Minthara to commit massacres on their enemies.",
+   "recruitment_act": "One",
+   "recruitment": "Act One Although Minthara can be first encountered in Act One , she cannot be recruited as a permanent companion before reaching Moonrise Towers in Act Two . [ 6 ] [ 7 ] If the party side with Minthara during Save the Refugees and raid the grove with her, no additional steps are needed to ensure she appears at Moonrise Towers. If the party side with the druids, Minthara must be Knocked Out when fought. This can be done in the Shattered Sanctum or when defending the grove from the goblin attack. [ 8 ] Act Two If Minthara survives the events of Act One, she can be found at Moonrise Towers facing trial by Ketheric Thorm for failing to find the Mysterious Artefact. Sentenced to death, Minthara is taken to Moonrise Towers Prison to be tortured until her execution. The party can help her escape and, if invited to camp, she can be recruited to the party. \u201c The drow is unpredictable, uncompromising. I respect her almost as much as I distrust her. \u201e \u2014 Lae'zel , speaking to the player character after Minthara is recruited",
+   "leaving": "",
+   "romance": "Main article: Minthara/Romance If the player character sides with the Absolutists and successfully raids the Emerald Grove , they can have a one-night stand with Minthara while celebrating their victory. Should Minthara be saved and recruited, she can be romanced by characters of any gender. Though initially cold, Minthara may eventually reveal some of her deepest fears to her partner, and may also display a more romantic, if not jealous, side of her."
+  }
+ ],
+ "hirelings": [
+  {
+   "name": "Brinna Brightsong",
+   "race": "Halfling",
+   "class": "Bard"
+  },
+  {
+   "name": "Danton",
+   "race": "Tiefling",
+   "class": "Druid"
+  },
+  {
+   "name": "Eldra Luthrinn",
+   "race": "Gold Dwarf",
+   "class": "Barbarian"
+  },
+  {
+   "name": "Sir Fuzzalump",
+   "race": "Gnome",
+   "class": "Wizard"
+  },
+  {
+   "name": "Half-Elf",
+   "race": "Sorcerer",
+   "class": "Draconic Bloodline"
+  },
+  {
+   "name": "Half-orc",
+   "race": "Paladin",
+   "class": "Oath of Devotion"
+  },
+  {
+   "name": "Duergar",
+   "race": "Warlock",
+   "class": "The Great Old One"
+  },
+  {
+   "name": "Maddala Deadeye",
+   "race": "Human",
+   "class": "Rogue"
+  },
+  {
+   "name": "Sina'zith",
+   "race": "Githyanki",
+   "class": "Monk"
+  },
+  {
+   "name": "Varanna Sunblossom",
+   "race": "Half-Elf",
+   "class": "Fighter"
+  },
+  {
+   "name": "Ver'yll Wenkiir",
+   "race": "Drow",
+   "class": "Ranger"
+  },
+  {
+   "name": "Cleric",
+   "race": "Sel\u00fbne",
+   "class": "Light Domain"
+  }
+ ],
+ "permanent_removal": "Once they join the party, companions remain by the player character's side in most circumstances and, if killed during battle, can be brought back with Revivify , its scroll, or through Withers . However, there are several instances where a companion may leave, become hostile, or be killed during a cutscene \u2013 depending on the player character's choices. In these instances, they remain permanently Dead and cannot be brought back under any circumstances. [ 16 ] Death Universal: A companion is sacrificed to BOOOAL As the Dark Urge , after Isobel is spared, the player character is instructed to kill their closest companion ; if they are not woken up (or are allowed to go back to sleep), the Urge murders their targeted companion in their sleep off screen If a companion is killed here, all other companions turn hostile unless talked down with a DC 30 Deception Check As origin Astarion , a cutscene plays during a long rest if the party does not know he is a vampire. He then has the option to drink a companion's blood. If he does so and either chooses to continue or fails the saving throw to stop, that companion dies permanently. If a companion trapped in a Profane Womb in the Mind Flayer Colony is turned into a Zombie by Balthazar's ritual, they cannot be resurrected after leaving the Colony Orin is not stopped from killing the companion she abducted, or they die without having first been recruited back into the active party A companion gives up their body and soul to Haarlep Astarion : Impaling him when he reveals he is a Vampire Spawn Handing him over to Gandrel or telling Gandrel that Astarion is at the party's camp without warning him Siding with the Gur against Astarion Failing to stop Cazador from becoming a Vampire Ascendant Interrupting Astarion while he performs the Rite of Profane Ascension Gale : As the Dark Urge , becoming Bhaal's chosen if Jaheira is still alive and approval with Gale is not at least 20 (Medium) Halsin : No special mechanisms Jaheira : Attacking any of her children while she is in the active party Telling her to leave after defeating Ketheric Thorm and then entering the Lower City without interacting with her again Sacrificing her to Sarevok's Murder Tribunal As the Dark Urge , becoming Bhaal's chosen [ 17 ] Karlach : Allowing Wyll to kill her when he confronts her at camp, or attacking her under the false impression that she is an agent of Zariel Siding with Anders against her As the Dark Urge , becoming Bhaal's chosen if Jaheira is still alive and approval with Karlach is not at least 40 (High) Leaving her behind in Wyrm's Rock Prison after she attempts to interrupt Gortash's ceremony [ 18 ] Lae'zel : During the cutscene before meeting the Dream Guardian for the first time, there are several ways to permanently kill Lae'zel: passing a Deception check to trick Lae'zel into killing herself first, attacking her, or having the player character kill her when she reveals her intent to mercy kill the rest of their companions After their confrontation at camp , siding with Shadowheart or doing nothing when she readies to kill Lae'zel while sleeping As origin Shadowheart , attacking Lae'zel when she demands an explanation regarding the Mysterious Artefact , or allowing her to take it Attacking the Githyanki patrol at the Mountain Pass without talking to them first Refusing to let her use the Zaith'isk without choosing specific dialogue Refusing to give the Mysterious Artefact to W'wargaz unless the party choose the dialogue option that makes only him hostile Leaving the Inquisitor's Chamber or attacking the Githyanki after Vlaakith's order to go inside the Mysterious Artefact Advancing in Act 2 before resolving Find the Githyanki Cr\u00e8che , unless the player character intimidates her into staying (after leaving the party she succumbs to the shadow curse and can be looted) If she rejected Vlaakith , allowing the Emperor , an illithid player character, or Karlach to consume Orpheus , unless the player character succeeds a Persuasion check as well as another Persuasion or Intimidation check. Alternatively, if she is still loyal to Vlaakith , freeing Orpheus and allying with him, unless the player character convinces her to wait to kill him until the Netherbrain is destroyed Long resting, fast travelling, or attacking Voss or any of the Githyanki warriors in the Mountain Pass when she goes to speak with them [ verify ] Attacking Voss in Act 3 if she rejected Vlaakith and picking the dialogue option to imply that the player character likes to fight Githyanki Minsc : Attacking any of Jaheira's children with him present Sacrificing him and / or Jaheira to Sarevok's Murder Tribunal As the Dark Urge , becoming Bhaal's chosen Minthara : No special mechanisms Shadowheart : Siding against her when she attempts to kill a sleeping Lae'zel Attempting to enter the Shadowfell without the Spear of Night [ 19 ] Choosing to attack her after pleading against her crusade to kill Aylin Killing her parents after they are freed Wyll : Choosing to defend Karlach from him when he confronts her Making Ulder Ravengard hostile in any way once he is in camp As the Dark Urge , becoming Bhaal's chosen if Jaheira is still alive Choosing to raid the Emerald Grove [ 20 ] Departure Universal: A companion drops to -50 Approval or below As origin Astarion , a cutscene plays during a long rest if the party does not know that Astarion is a vampire. He then has the option to drink a companion's blood. If he he fails a Stealth check and then fails a Persuasion or Deception check upon being caught, the companion leaves the party. Gale cannot be fully drained of blood, and so the only way to make him leave in this scene is to drink his blood and then fail a Persuasion check. Astarion : Telling him to leave or attempting to stake him when he reveals he is a Vampire Spawn Telling Gandrel he is at the party's camp and then warning him Breaking Yurgir's contract, unless a Persuasion or Deception check is passed [ verify ] Refusing to help him ascend without trying to persuade him out of it Killing Cazador without Astarion in the party while the player character's approval is not at least -40 (see thresholds ) Kicking a romanced and Ascended Astarion when he tries to make the player character kneel Gale : Telling Gale to leave after being caught attempting to probe his mind or coming clean about it when he demands the first magic item Repeatedly refusing his demand to give him the first magic item Telling him to leave after he reveals his condition Choosing to raid the Emerald Grove unless an Insight or Deception check is passed Ignoring or defeating Elminster , causing Gale to leave after Ketheric is defeated Halsin : Leaving the Shadow-Cursed Lands without fully resolving Lift the Shadow Curse Jaheira : Isobel taking any damage in the Shadow-Cursed Lands after Ketheric Thorm has retreated Causing Minsc to leave the party Attacking any of her children without her in the active party Killing Minsc upon encountering him in the sewers rather than knocking him out or refusing to recruit him after he is freed If the Dark Urge has obtained the Slayer form prior to confronting Orin at the Temple of Bhaal , Jaheira and Minsc can appear in a cutscene during the first long rest in Act Three . Succeeding on an Intimidation check causes them to leave Sacrificing Minsc to Sarevok's Murder Tribunal without her in the party Karlach : Heading to Rosymorn Monastery Trail or Shadow-Cursed Lands without resolving Hunt the Devil Revealing the location of the Grove to Minthara and confirming their intent on massacring everyone there Choosing to raid the Emerald Grove [ 20 ] Lae'zel : Leaving her on the Rosymorn Monastery Trail when the party enter the Shadowfell Minsc : Causing Jaheira to leave the party If the Dark Urge has obtained the Slayer form, Jaheira and Minsc can appear in a cutscene during the first long rest in Act Three . Succeeding on an Intimidation check causes them to leave Minthara : Insisting she leave after Ketheric Thorm is defeated Shadowheart : Entering the Shadowfell without her Letting Balthazar capture the Nightsong Handing her over to Viconia if she has rejected Shar Wyll : Choosing not to save Mizora from the Mind Flayer Colony , [ 21 ] or choosing to kill her in her pod Killing a member of the Emerald Grove [ verify ] Killing Ulder Ravengard in the Iron Throne"
+}

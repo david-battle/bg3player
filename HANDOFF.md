@@ -3,9 +3,10 @@
 ## Verified State
 
 - Branch `main`; pushed to `origin` (https://github.com/david-battle/bg3player,
-  public, created this session). Upstream is set, so the user's `push` script
-  (plain `git push` per repo) works — the user runs it, not the assistant.
-- The worktree is clean after this session's commit.
+  public). Upstream is set, so the user's `push` script (plain `git push` per
+  repo) works — the user runs it, not the assistant.
+- Worktree has uncommitted changes (Phase 2 first tranche: reference KB) — not
+  yet committed as of this handoff's last write; commit + push when convenient.
 
 ## Completed Work (2026-08-30)
 
@@ -41,6 +42,26 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 - Design goal met in both parts: an AI can browse by slot/type/act/effect
   keywords without knowing item names.
 
+### Part 3 — Character reference (Phase 2 first tranche)
+- **Feats** (41, the full wiki list): description, per-power breakdown, notes.
+- **Conditions glossary** (135 curated core): effects, sources (what applies
+  the condition), notes. Curated set in `scripts/reference_data.py`
+  (`CURATED_CONDITIONS`); seed resolved against the wiki Conditions category
+  into `data/condition_seed.json`. Two page layouts handled (effects table vs
+  tooltip box); stack tables filtered to the condition itself.
+- **Permanent buffs** (30 across Acts One/Two/Three): effect + how to unlock,
+  parsed from the wiki's Permanent bonuses page.
+- **Companions** (11): role, race/subrace, class/subclass, background, hometown,
+  starting stats, personal quest, recruitment (act + text), leaving conditions,
+  romance summary; plus the 12 hirelings and permanent-removal notes.
+  `ACT_OVERRIDES` covers Karlach (page omits the act; unambiguous Act One).
+- Pipeline: `fetch_reference.py` (page cache in `data/raw_html_ref/`),
+  `build_feats.py`, `build_conditions.py`, `build_permanent_buffs.py`,
+  `build_companions.py`; shared `reference_data.py`. Deliverables:
+  `knowledge_base/reference/` -> `feats.md`, `conditions.md`,
+  `permanent_buffs.md`, `companions.md`; masters in `data/feats.json`,
+  `data/conditions.json`, `data/permanent_buffs.json`, `data/companions.json`.
+
 ## Validation
 
 - Full pipeline re-run clean end-to-end (cached, no network needed).
@@ -52,6 +73,11 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   mentions; 189 marked Act: unknown (sold throughout the game / random loot).
 - Alchemy: 64 recipes, 68 ingredients (39 with a first vendor; 29 vendor-free
   = world-loot only), 64 extract families.
+- Reference counts: 41 feats, 135 conditions (all with effects), 30 permanent
+  buffs, 11 companions + 12 hirelings. Companion stats spot-checked against
+  known values (e.g. Astarion 8/17/14/13/13/10, Shadowheart 13/13/14/10/17/8);
+  Minthara and The Dark Urge have no documented starting-stat table (omitted
+  rather than guessed).
 - Vendor-extraction edge cases handled: "such as/including" phrasing, trailing
   prepositional fragments, "1x –" prefixes, level-gated vendors ("after
   Level 6"), Bixa Root (renamed copy of Mergrass) mapping.
@@ -67,9 +93,9 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   **generated**; edit source data or scripts and re-run the pipeline, never
   hand-edit output.
 - `data/raw_html/` (equipment), `data/raw_html_cons/` (consumables),
-  `data/items_raw/` and `data/consumables_raw/` are gitignored regenerable
-  caches. The cache trees are kept separate so the equipment and consumables
-  pipelines never cross-contaminate.
+  `data/raw_html_ref/` (reference), `data/items_raw/` and
+  `data/consumables_raw/` are gitignored regenerable caches. The cache trees
+  are kept separate so the pipelines never cross-contaminate.
 - 56 equipment items are listed as "acquisition not documented" (bg3.wiki
   lacks the info); the user — an experienced player — may want to fill these in
   by hand. 29 alchemy ingredients have no documented vendor (world-loot only).
@@ -81,9 +107,9 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. The user runs their `push` script (or `git push`) to publish new commits.
-2. Phase 2 per `PLAN.md`: build & character reference (companions, classes,
-   races, feats, backgrounds, permanent buffs, illithid powers, conditions
-   glossary) — start with companions + feats + permanent buffs + conditions.
-3. Optionally fill in acts/acquisition for the 56 undocumented items
+1. Commit the Phase 2 first tranche; the user then runs their `push` script.
+2. Phase 2 remainder per `PLAN.md`: classes + subclasses (2b), races (2c),
+   backgrounds (2e), illithid powers (2g).
+3. Phase 3 (achievements, honour mode) — small.
+4. Optionally fill in acts/acquisition for the 56 undocumented items
    (`classify_missing.py` `OVERRIDES`).

@@ -25,17 +25,29 @@ python3 scripts/fetch_consumables.py    # consumable base + page cache
 python3 scripts/parse_consumables.py    # parse cache -> data/consumables_raw/
 python3 scripts/build_alchemy.py        # alchemy/ingredient data + alchemy.md
 python3 scripts/build_consumables.py    # consumables markdown + data/consumables.json
+
+python3 scripts/fetch_reference.py      # reference page cache (feats/conditions/companions/buffs)
+python3 scripts/build_feats.py          # feats.md + data/feats.json
+python3 scripts/build_conditions.py     # conditions.md + data/conditions.json
+python3 scripts/build_permanent_buffs.py # permanent_buffs.md + data/permanent_buffs.json
+python3 scripts/build_companions.py     # companions.md + data/companions.json
 ```
 
 - `data/raw_html/` (equipment), `data/raw_html_cons/` (consumables),
-  `data/items_raw/` and `data/consumables_raw/` are gitignored regenerable
-  caches; the tracked JSON masters and rendered markdown are the deliverables.
-  Keep the two cache trees separate so the pipelines never cross-contaminate.
+  `data/raw_html_ref/` (reference), `data/items_raw/` and
+  `data/consumables_raw/` are gitignored regenerable caches; the tracked JSON
+  masters and rendered markdown are the deliverables. Keep the three cache
+  trees separate so the pipelines never cross-contaminate.
 - Fetches are rate-limited; re-running only downloads what is missing.
 - Consumable acts come from vendor/location mentions in item text via
   `scripts/locations.py` (reuses the item pipeline's location->act map; its
   `CONS_EXTRA_LOCS` overrides like "High Hall"->Act Three are consumables-only
   and do not affect the equipment KB).
+- The character reference (`scripts/reference_data.py`) has a **curated**
+  conditions list and a `ACT_OVERRIDES` map in `build_companions.py`; treat
+  both as authoritative manual decisions. It also reads
+  `data/condition_seed.json` (written by `fetch_reference.py`) to know which
+  condition pages to build.
 
 ## Always preserve
 

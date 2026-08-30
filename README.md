@@ -1,15 +1,18 @@
 # BG3 Knowledge Base
 
-A machine-curated, plain-text reference for **magic equipment** and
-**consumables** (potions, elixirs, scrolls, special arrows, coatings,
-grenades, alchemy, camp supplies) of *Baldur's Gate 3* (Prologue through Act
-Three), built for use by an AI assistant that helps with gear selection,
-consumable choices, and "where do I get X" questions.
+A machine-curated, plain-text reference for **magic equipment**, **consumables**
+(potions, elixirs, scrolls, special arrows, coatings, grenades, alchemy, camp
+supplies) and **build & character reference** (feats, conditions, companions,
+permanent buffs) of *Baldur's Gate 3* (Prologue through Act Three), built for
+use by an AI assistant that helps with gear selection, consumable choices,
+build advice, and "where do I get X" questions.
 
 Covers **739 obtainable magic items** (plus a short list that are not
-obtainable in the current game) and **305 consumables** plus the full alchemy
-recipe set. This includes items the wiki's own per-act list pages miss (e.g.
-Balduran's Giantslayer, Helldusk set, Markoheshkir).
+obtainable in the current game), **305 consumables** plus the full alchemy
+recipe set, and a core character reference (41 feats, 135 conditions, 11
+companions + 12 hirelings, 30 permanent buffs). This includes items the wiki's
+own per-act list pages miss (e.g. Balduran's Giantslayer, Helldusk set,
+Markoheshkir).
 
 ## Files
 
@@ -29,6 +32,11 @@ Balduran's Giantslayer, Helldusk set, Markoheshkir).
 | `knowledge_base/consumables/camp_supplies.md` | Earliest/convenient camp-supply vendors per town-like area. |
 | `data/consumables.json` | Machine-readable master for all 305 consumables. |
 | `data/alchemy_recipes.json`, `data/ingredients.json` | Machine-readable recipes and ingredient/vendor data. |
+| `knowledge_base/reference/feats.md` | Every feat (41) with its effects, per-power breakdown, and notes. |
+| `knowledge_base/reference/conditions.md` | Core gameplay conditions (135) with effects, sources, and notes. |
+| `knowledge_base/reference/permanent_buffs.md` | Permanent/lasting character rewards (Ethel's Hair, Mirror of Loss, Awakened, etc.) by act, with how to unlock each. |
+| `knowledge_base/reference/companions.md` | The 11 party companions (stats, class, personal quest, recruitment, leaving conditions, romance) + the 12 hirelings and permanent-removal notes. |
+| `data/feats.json`, `data/conditions.json`, `data/permanent_buffs.json`, `data/companions.json` | Machine-readable masters for the character reference. |
 
 ## How an AI should use it
 
@@ -51,16 +59,25 @@ Balduran's Giantslayer, Helldusk set, Markoheshkir).
 - **Consumables:** search the consumables files by type + act + effect keyword
   (e.g. "elixir", "strength", "Act 1"). Elixirs overwrite each other when drunk
   and last until a long rest. For crafting questions use `alchemy.md` (it tells
-  you the exact ingredient + generic extract family + the earliest vendor).
-  Scrolls are usable by any class; Wizards can learn the spell from a scroll.
+you the exact ingredient + generic extract family + the earliest vendor).
+   Scrolls are usable by any class; Wizards can learn the spell from a scroll.
+- **Character reference:** for build advice use `feats.md` (what a feat grants),
+   `conditions.md` (what a condition does and what applies it), `companions.md`
+   (default class/stats and how/when to recruit each companion) and
+   `permanent_buffs.md` (permanent character rewards and how to unlock them).
+   The conditions glossary is a curated core set, not the wiki's full 1,500+
+   condition pages; conditions with no dedicated wiki page (e.g. Blessed,
+   Weakened, Deafened) are omitted rather than guessed.
 
 ## Scope and caveats
 
 - Magic equipment covers weapons, armour, shields, helmets, gloves, boots,
   cloaks, amulets, rings, instruments, clothing. Consumables cover potions,
   elixirs, scrolls, special arrows, coatings, grenades, alchemy, and camp
-  supplies. **Not** covered: dyes, toolkits, quest items, barrels, and
-  non-magic mundane gear.
+  supplies. The character reference covers feats, conditions, companions and
+  permanent buffs. **Not** covered: dyes, toolkits, quest items, barrels,
+  non-magic mundane gear, classes, races, backgrounds and illithid powers
+  (planned).
 - bg3.wiki's per-act "List of magic items" pages are **incomplete**; items they
   miss were recovered from the wiki's full item catalog (category cross-check)
   and their acts assigned from each item page's "Where to find" text, so there
@@ -85,6 +102,9 @@ All data was extracted from **bg3.wiki** (https://bg3.wiki):
 - Consumable categories (Potions, Elixirs, Scrolls, Arrows, Coatings,
   Grenades, Alchemical ingredients/extracts) for the consumables masters
 - The **Alchemy** page (all recipe tables + ingredient/extract families)
+- The **Feats**, **Conditions**, **Companions** and **Permanent bonuses** pages,
+  plus each companion's page (stats, quest, recruitment, romance) and each
+  condition's page (effects, sources), for the character reference
 
 bg3.wiki content is dual-licensed under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) and
@@ -105,10 +125,17 @@ python3 scripts/fetch_consumables.py       # consumable base + page cache
 python3 scripts/parse_consumables.py       # parse cache -> data/consumables_raw/
 python3 scripts/build_alchemy.py           # alchemy + ingredient/vendor data
 python3 scripts/build_consumables.py       # consumables markdown + masters
+
+python3 scripts/fetch_reference.py         # reference page cache (feats, conditions, companions, buffs)
+python3 scripts/build_feats.py             # feats markdown + data/feats.json
+python3 scripts/build_conditions.py        # conditions glossary + data/conditions.json
+python3 scripts/build_permanent_buffs.py   # permanent buffs + data/permanent_buffs.json
+python3 scripts/build_companions.py        # companions + data/companions.json
 ```
 
-Fetches are cached in `data/raw_html/` (equipment) and `data/raw_html_cons/`
-(consumables), and parsed in `data/items_raw/` / `data/consumables_raw/`;
-re-running only downloads what is missing. The wiki's MediaWiki API is
-rate-limited by a small delay in the fetch scripts. Note: `fetch_act_lists.py`
-needs to run before `classify_missing.py` if you change the act pages.
+Fetches are cached in `data/raw_html/` (equipment), `data/raw_html_cons/`
+(consumables) and `data/raw_html_ref/` (reference), and parsed in
+`data/items_raw/` / `data/consumables_raw/`; re-running only downloads what is
+missing. The wiki's MediaWiki API is rate-limited by a small delay in the fetch
+scripts. Note: `fetch_act_lists.py` needs to run before `classify_missing.py`
+if you change the act pages.

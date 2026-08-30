@@ -36,6 +36,12 @@ master JSON. This is a plan document, not a spec; adjust fields while building.
   by-slot browse + per-act detail + merchant stock + undocumented), master in
   `data/items.json`, pipeline in `scripts/*.py`. Pushed to
   `github.com/david-battle/bg3player` (main).
+- Shipped: Phase 1 consumables + alchemy — `knowledge_base/consumables/`
+  (305 consumables + alchemy + camp supplies), masters in `data/consumables.json`
+  / `alchemy_recipes.json` / `ingredients.json`.
+- Shipped: Phase 2 first tranche — `knowledge_base/reference/` (feats,
+  conditions, permanent buffs, companions), masters in `data/feats.json` /
+  `conditions.json` / `permanent_buffs.json` / `companions.json`.
 
 ## Category overview
 
@@ -79,14 +85,23 @@ Sources: bg3.wiki consumable categories (Potions, Elixirs, Scrolls, Arrows,
 Coatings, Grenades, Alchemical ingredients/extracts) + individual pages + the
 Alchemy page.
 
-## Phase 2 — Build & character reference (recommended first tranche)
+## Phase 2 — Build & character reference
 
-### 2a. Companions (`companions.md`)
+Status: **in progress** — first tranche (2a, 2d, 2f, 2h) DONE 2026-08-30;
+2b/2c/2e/2g pending. Files live in `knowledge_base/reference/`.
+
+### 2a. Companions (`companions.md`) — DONE
 Origins (Astarion, Gale, Lae'zel, Shadowheart, Wyll, Karlach), recruitables
 (Halsin, Jaheira, Minsc, Minthara), Dark Urge, and hirelings (Withers' roster).
 Fields: race, default class, starting ability scores, skills, personal quest
 breakdown per act, recruitment location/timing/requirements, missable windows,
 romance basics, notable gear/role affinities (cross-link to equipment KB).
+Shipped fields: role, race/subrace, class/subclass, background, hometown,
+starting stats, personal quest summary, recruitment (act + text), leaving
+conditions, romance summary; hirelings (name/race/class); permanent-removal
+notes. Skills, per-act quest breakdown and gear affinities are on the wiki's
+per-companion pages rather than duplicated here. `ACT_OVERRIDES` in
+`build_companions.py` is the manual fallback when a page omits the act.
 
 ### 2b. Classes + subclasses (`classes_subclasses.md`)
 Each of the 12 classes: role, hit die, primary abilities, saving throw + skill
@@ -99,30 +114,41 @@ to give good advice — keep concise per-subclass distinguishing text.
 Race/subrace traits: ability bonuses, size, speed, darkvision, weapon/armour
 profs, unique traits, spell-like abilities. Companion default races link here.
 
-### 2d. Feats (`feats.md`)
+### 2d. Feats (`feats.md`) — DONE
 Every feat: prerequisites, what it grants (plain language), whether it includes
-an ASI. ~60 entries; common build question.
+an ASI. 41 feats shipped (the full wiki list incl. Ability Improvement and the
+six Magic Initiate variants); sub-features as powers, quirks in notes.
 
 ### 2e. Backgrounds (`backgrounds.md`)
 Skills + background feature per background (small).
 
-### 2f. Permanent buffs & lasting rewards (`permanent_buffs.md`)
+### 2f. Permanent buffs & lasting rewards (`permanent_buffs.md`) — DONE
 The user's named category. Cover: Auntie Ethel's Hair, Mirror of Loss, Potion of
 Everlasting Vigour (+2 STR), Volo's Ersatz Eye, Zaith'isk / Awakened,
 Astral-Touched Tadpole, Loviatar's Blessing, Dark Urge Slayer, plus anything
 similar found in research. Fields: effect, how obtained, act/location,
 missable/exclusivity notes, party-wide vs per-character. Enumerate exhaustively
 from wiki categories at build time rather than relying on this starter list.
+Shipped: 30 buffs across Acts One/Two/Three parsed from the wiki's Permanent
+bonuses page (name, effect, "How to unlock"); the Astral-Touched Tadpole is
+covered under Act Three. Consuming tadpoles / partial ceremorphosis is noted per
+bonus where relevant.
 
 ### 2g. Illithid powers (`illithid_powers.md`)
 Full tadpole power tree: each power, cost, effect, act availability, evolved
 (Awakened) versions, half/partial vs full ceremorphosis, bonuses for consuming
 tadpoles. Overlaps #7 (Astral-Touched Tadpole).
 
-### 2h. Conditions & effects glossary (`conditions.md`)
+### 2h. Conditions & effects glossary (`conditions.md`) — DONE
 Every condition/effect items reference (Radiating Orb, Reeling, Arcane Charge,
 Luminous, Bleeding, etc.): what it does, duration, recovery, common sources.
 Directly improves the shipped equipment KB (item effects become resolvable).
+Shipped: 135 curated core conditions with effects + sources + notes. The
+curated list lives in `scripts/reference_data.py` (`CURATED_CONDITIONS`); the
+seed resolves against the wiki's Conditions category and is recorded in
+`data/condition_seed.json`. Intentionally not the full 1,500+ condition pages
+(quest/boss/script variants add noise), and conditions with no dedicated wiki
+page (e.g. Blessed, Weakened, Deafened) are omitted rather than guessed.
 
 ## Phase 3 — Completion reference
 
@@ -156,10 +182,10 @@ item source lists (equipment + consumables) prove sufficient.
 
 ## Build order
 
-1. Phase 1 (consumables + alchemy).
+1. Phase 1 (consumables + alchemy). **Done.**
 2. Phase 2 in any order; start with companions + feats + permanent buffs +
    conditions (smallest, highest build-advice value), then classes, races,
-   backgrounds, illithid powers.
+   backgrounds, illithid powers. **First tranche done; 2b/2c/2e/2g remain.**
 3. Phase 3 (achievements, honour mode) — small, can slot in anytime.
 4. Phase 4 only if the source lists prove insufficient.
 

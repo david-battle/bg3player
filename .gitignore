@@ -9,5 +9,6 @@ __pycache__/
 # regenerable intermediate caches (rebuild via scripts/)
 data/raw_html/
 data/raw_html_cons/
+data/raw_html_ref/
 data/items_raw/
 data/consumables_raw/
