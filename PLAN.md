@@ -55,24 +55,29 @@ master JSON. This is a plan document, not a spec; adjust fields while building.
 | 12 | Merchant catalog | `merchants.md` | large | 4 |
 | 13 | Quest index + rewards (exhaustive, deferred) | `quests/` | very large | 4 |
 
-## Phase 1 — Consumables + alchemy (next implementation)
+## Phase 1 — Consumables + alchemy (DONE 2026-08-30)
 
 Split `knowledge_base/consumables/` to keep files readable:
 
-- `potions_elixirs.md` — potions and elixirs (incl. Elixir of Bloodlust, Hill
-  Giant Strength, etc. — build-critical).
-- `scrolls.md` — all scrolls.
+- `potions_elixirs.md` — all potions and elixirs (incl. Elixir of Bloodlust, Hill
+  Giant Strength, etc. — build-critical). **Shipped.**
+- `scrolls.md` — all 137 scrolls. **Shipped.**
 - `arrows_coatings_grenades.md` — special arrows, coatings, throwables/bombs.
-- `camp_supplies.md` — food/camp supplies (lighter; maybe fold into above).
-- `alchemy.md` — ingredients, extract/combine recipes, where ingredients are
-  found; links potions/elixirs to their recipes.
+  **Shipped.**
+- `camp_supplies.md` — earliest/convenient camp-supply vendors per town-like
+  area (curated; supply packs also sold by most general merchants). **Shipped.**
+- `alchemy.md` — ingredients -> extracts, first vendor per ingredient
+  (earliest-act, from the ingredient pages' "Sold by" text), and every recipe
+  (specific extract + generic family + craft/trade level) from the wiki's
+  Alchemy page. **Shipped.**
 
-Fields per item: name, type/rarity, effect (plain language), duration,
-where obtained (merchant / loot / crafted), recipe + ingredients.
+Decisions honoured: all potions/elixirs (mundane included); special arrows
+only (no plain arrows); no exhaustive vendor lists (first vendor per
+ingredient only); no individual food items (vendor list only).
 
-Sources: bg3.wiki potion/scroll/arrow/alchemy pages + item pages. Ties to
-merchant catalog (#12): record "sold by" inline from each item's page so Phase 1
-needs no separate merchant pass.
+Sources: bg3.wiki consumable categories (Potions, Elixirs, Scrolls, Arrows,
+Coatings, Grenades, Alchemical ingredients/extracts) + individual pages + the
+Alchemy page.
 
 ## Phase 2 — Build & character reference (recommended first tranche)
 

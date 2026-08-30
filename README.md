@@ -1,12 +1,15 @@
-# BG3 Magic Item Knowledge Base
+# BG3 Knowledge Base
 
-A machine-curated, plain-text reference for the **magic equipment** of
-*Baldur's Gate 3* (Prologue through Act Three), built for use by an AI
-assistant that helps with gear selection and "where do I get X" questions.
+A machine-curated, plain-text reference for **magic equipment** and
+**consumables** (potions, elixirs, scrolls, special arrows, coatings,
+grenades, alchemy, camp supplies) of *Baldur's Gate 3* (Prologue through Act
+Three), built for use by an AI assistant that helps with gear selection,
+consumable choices, and "where do I get X" questions.
 
-Covers **739 obtainable items** (plus a short list of items that are not
-obtainable in the current game). This includes items the wiki's own per-act
-list pages miss (e.g. Balduran's Giantslayer, Helldusk set, Markoheshkir).
+Covers **739 obtainable magic items** (plus a short list that are not
+obtainable in the current game) and **305 consumables** plus the full alchemy
+recipe set. This includes items the wiki's own per-act list pages miss (e.g.
+Balduran's Giantslayer, Helldusk set, Markoheshkir).
 
 ## Files
 
@@ -19,6 +22,13 @@ list pages miss (e.g. Balduran's Giantslayer, Helldusk set, Markoheshkir).
 | `knowledge_base/magic_items_merchant_stock.md` | Generic enchanted +1/+2 weapons/armour/shields sold by traders across acts (not fixed-location items). |
 | `knowledge_base/magic_items_undocumented.md` | Items whose acquisition is **not documented** on bg3.wiki (Act: unknown - do not invent locations), and items **not obtainable** in the current game (Early Access-only / inaccessible / conjured). |
 | `data/items.json` | Merged machine-readable master (one record per item with all fields, act(s), and acquisition rows). |
+| `knowledge_base/consumables/potions_elixirs.md` | All potions and elixirs (mundane included), with effects, duration, and where to get them. |
+| `knowledge_base/consumables/scrolls.md` | All spell scrolls with the spell effect and where to get them. |
+| `knowledge_base/consumables/arrows_coatings_grenades.md` | Special arrows, weapon coatings, and throwable grenades/bombs. |
+| `knowledge_base/consumables/alchemy.md` | Alchemy crafting: every ingredient -> extract, the first vendor that sells each ingredient (earliest-act), and all potion/elixir/grenade/coating recipes (specific extract + generic family + craft/trade levels). |
+| `knowledge_base/consumables/camp_supplies.md` | Earliest/convenient camp-supply vendors per town-like area. |
+| `data/consumables.json` | Machine-readable master for all 305 consumables. |
+| `data/alchemy_recipes.json`, `data/ingredients.json` | Machine-readable recipes and ingredient/vendor data. |
 
 ## How an AI should use it
 
@@ -38,17 +48,29 @@ list pages miss (e.g. Balduran's Giantslayer, Helldusk set, Markoheshkir).
   acquisition on the wiki - do not guess a location for them.
 - Items in the "Not obtainable" section (Early Access-only, inaccessible,
   conjured) should not be recommended to a player.
+- **Consumables:** search the consumables files by type + act + effect keyword
+  (e.g. "elixir", "strength", "Act 1"). Elixirs overwrite each other when drunk
+  and last until a long rest. For crafting questions use `alchemy.md` (it tells
+  you the exact ingredient + generic extract family + the earliest vendor).
+  Scrolls are usable by any class; Wizards can learn the spell from a scroll.
 
 ## Scope and caveats
 
-- Covers **magic equipment** (weapons, armour, shields, helmets, gloves, boots,
-  cloaks, amulets, rings, instruments, clothing). **Not** covered yet:
-  consumables (potions, scrolls, elixirs, arrows, coatings, grenades) and
-  non-magic gear.
+- Magic equipment covers weapons, armour, shields, helmets, gloves, boots,
+  cloaks, amulets, rings, instruments, clothing. Consumables cover potions,
+  elixirs, scrolls, special arrows, coatings, grenades, alchemy, and camp
+  supplies. **Not** covered: dyes, toolkits, quest items, barrels, and
+  non-magic mundane gear.
 - bg3.wiki's per-act "List of magic items" pages are **incomplete**; items they
   miss were recovered from the wiki's full item catalog (category cross-check)
   and their acts assigned from each item page's "Where to find" text, so there
   is a small risk of act mis-assignment on those items.
+- Consumable **acts** are derived from vendor/location mentions in each item's
+  "Where to find" text. Many consumables are sold throughout the game with no
+  fixed vendor, so they are marked **Act: unknown** (often correct - they
+  appear across acts as random loot or generic trader stock).
+- Alchemy ingredients marked "First vendor: not documented on bg3.wiki" have no
+  vendor listed on the wiki (world-loot only); do not guess one.
 - Data reflects the wiki as of **30 Aug 2026**. Patches can change merchant
   stock and item stats; re-extract to refresh (see below).
 - Merchant stock is **partially random**; fixed/unique-named items are listed.
@@ -60,6 +82,9 @@ All data was extracted from **bg3.wiki** (https://bg3.wiki):
 - "List of magic items in Act One/Two/Three" pages (per-act item/location tables)
 - Individual item pages (effects, properties, acquisition, notes, bugs)
 - Equipment-type and rarity categories (used to cross-check completeness)
+- Consumable categories (Potions, Elixirs, Scrolls, Arrows, Coatings,
+  Grenades, Alchemical ingredients/extracts) for the consumables masters
+- The **Alchemy** page (all recipe tables + ingredient/extract families)
 
 bg3.wiki content is dual-licensed under
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) and
@@ -70,14 +95,20 @@ redistribute. Item names and mechanical text are from Larian Studios' game.
 ## Regeneration
 
 ```
-python3 scripts/fetch_act_lists.py      # base lists from per-act pages
-python3 scripts/fetch_item_pages.py     # raw HTML cache for each item page
-python3 scripts/parse_item_pages.py     # parse cache -> data/items_raw/
-python3 scripts/classify_missing.py     # act assignment for all items
-python3 scripts/build_knowledge_base.py # render markdown + data/items.json
+python3 scripts/fetch_act_lists.py         # base lists from per-act pages
+python3 scripts/fetch_item_pages.py        # raw HTML cache for each item page
+python3 scripts/parse_item_pages.py        # parse cache -> data/items_raw/
+python3 scripts/classify_missing.py        # act assignment for all items
+python3 scripts/build_knowledge_base.py    # render markdown + data/items.json
+
+python3 scripts/fetch_consumables.py       # consumable base + page cache
+python3 scripts/parse_consumables.py       # parse cache -> data/consumables_raw/
+python3 scripts/build_alchemy.py           # alchemy + ingredient/vendor data
+python3 scripts/build_consumables.py       # consumables markdown + masters
 ```
 
-Fetches are cached in `data/raw_html/` and `data/items_raw/`; re-running only
-downloads what is missing. The wiki's MediaWiki API is rate-limited by a small
-delay in the fetch script. Note: `fetch_act_lists.py` needs to run before
-`classify_missing.py` if you change the act pages.
+Fetches are cached in `data/raw_html/` (equipment) and `data/raw_html_cons/`
+(consumables), and parsed in `data/items_raw/` / `data/consumables_raw/`;
+re-running only downloads what is missing. The wiki's MediaWiki API is
+rate-limited by a small delay in the fetch scripts. Note: `fetch_act_lists.py`
+needs to run before `classify_missing.py` if you change the act pages.

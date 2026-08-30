@@ -20,11 +20,22 @@ python3 scripts/fetch_item_pages.py     # raw HTML cache (data/raw_html/)
 python3 scripts/parse_item_pages.py     # parse cache -> data/items_raw/
 python3 scripts/classify_missing.py     # act assignment -> data/item_acts.json
 python3 scripts/build_knowledge_base.py # render markdown + data/items.json
+
+python3 scripts/fetch_consumables.py    # consumable base + page cache
+python3 scripts/parse_consumables.py    # parse cache -> data/consumables_raw/
+python3 scripts/build_alchemy.py        # alchemy/ingredient data + alchemy.md
+python3 scripts/build_consumables.py    # consumables markdown + data/consumables.json
 ```
 
-- `data/raw_html/` and `data/items_raw/` are gitignored regenerable caches;
-  `data/items.json`, `data/items_base.json`, `data/item_acts.json` are tracked.
+- `data/raw_html/` (equipment), `data/raw_html_cons/` (consumables),
+  `data/items_raw/` and `data/consumables_raw/` are gitignored regenerable
+  caches; the tracked JSON masters and rendered markdown are the deliverables.
+  Keep the two cache trees separate so the pipelines never cross-contaminate.
 - Fetches are rate-limited; re-running only downloads what is missing.
+- Consumable acts come from vendor/location mentions in item text via
+  `scripts/locations.py` (reuses the item pipeline's location->act map; its
+  `CONS_EXTRA_LOCS` overrides like "High Hall"->Act Three are consumables-only
+  and do not affect the equipment KB).
 
 ## Always preserve
 

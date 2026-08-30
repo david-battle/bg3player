@@ -1,0 +1,1051 @@
+[
+ {
+  "name": "Acorn Truffle",
+  "extract": "Essence of Acorn Truffle",
+  "family": "Essences",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Autumncrocus",
+  "extract": "Sublimate of Autumn Crocus",
+  "family": "Sublimate",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Balsam",
+  "extract": "Ashes of Balsam",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Behir Scales",
+  "extract": "Sublimate of Behir Scales",
+  "family": "Sublimates",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Popper",
+   "location": "Circus of the Last Days",
+   "act": "Act Three"
+  },
+  "sold_by": [
+   {
+    "vendor": "Popper",
+    "location": "Circus of the Last Days",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Beholder Iris",
+  "extract": "Essence of Beholder Eye",
+  "family": "Essence",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Belladonna",
+  "extract": "Sublimate of Belladonna",
+  "family": "Sublimates",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Bixa Root",
+  "extract": "Suspension of Mergrass",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Black Oleander",
+  "extract": "Vitriol of Oleander",
+  "family": "Vitriol",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Bonecap",
+  "extract": "Vitriol of Bonecap",
+  "family": "Vitriols",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Broken Machinery",
+  "extract": "Salts of Copper Shavings",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Bullywug Trumpet",
+  "extract": "Suspension of Bullywug Trumpet",
+  "family": "Suspensions",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Carrion Crawler Tentacle",
+  "extract": "Salts of Carrion Crawler Tentacle",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Chasm Creeper",
+  "extract": "Salts of Chasm Creeper",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Cloud Giant Finger",
+  "extract": "Salts of Cloud Giant Fingernails",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Blurg",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Hoarding Merregon",
+    "location": "Gauntlet of Shar",
+    "act": "Act Two"
+   },
+   {
+    "vendor": "Mystic Carrion",
+    "location": "Lower City",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Stylin' Horst",
+    "location": "Wyrm's Crossing",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Voiceless Penitent Bareki, next to the",
+    "location": "Undercity",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Corpse Rose",
+  "extract": "Salts of Corpse Rose",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Popper",
+    "location": "Circus of the Last Days",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Stylin' Horst",
+    "location": "Wyrm's Crossing",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Zethino",
+    "location": "Circus of the Last Days",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Crystalline Lens",
+  "extract": "Essence of Crystalline Lens",
+  "family": "Essences",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Daggerroot",
+  "extract": "Ashes of Daggerroot",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Divine Bone Shard",
+  "extract": "Vitriol of Divine Miasma",
+  "family": "Vitriol",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak (after Level 6)",
+   "location": "Underdark",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Bareki",
+    "location": "Lower City Sewers",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Derryth Bonecloak (after Level 6)",
+    "location": "Underdark",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Helsik",
+    "location": "Devil's Fee",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Popper",
+    "location": "Circus of the Last Days",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Thrumbo",
+    "location": "Philgrave's Mansion",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Dragon Egg Mushroom",
+  "extract": "Ashes of Dragon Egg Mushroom",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Eagle Feather",
+  "extract": "Sublimate of Eagle Feathers",
+  "family": "Sublimate",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Fire Amber",
+  "extract": "Ashes of Fire Amber",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Frost Salamander Tongue",
+  "extract": "Suspension of Frost Salamander Tongue",
+  "family": "Suspensions",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Helsik",
+   "location": "Devil's Fee",
+   "act": "Act Three"
+  },
+  "sold_by": [
+   {
+    "vendor": "Helsik",
+    "location": "Devil's Fee",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Thrumbo",
+    "location": "Philgrave's Mansion",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Frosted Ear",
+  "extract": "Sublimate of Frosted Ears",
+  "family": "Sublimate",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Gauth Eyestalk",
+  "extract": "Suspension of Gauth Eye",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Blurg",
+   "location": "Lower City",
+   "act": "Act Three"
+  },
+  "sold_by": [
+   {
+    "vendor": "Blurg",
+    "location": "Lower City",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Popper the kobold",
+    "location": "Rivington",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Stylin' Horst",
+    "location": "Rivington",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Gremishka Tail",
+  "extract": "Essence of Gremishka Tail",
+  "family": "Essences",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Harpy Feather",
+  "extract": null,
+  "family": null,
+  "no_known_use": true,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Hastening Spores",
+  "extract": "Sublimate of Haste Spores",
+  "family": "Sublimate",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak and Blurg",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak and Blurg",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Horst",
+    "location": "Wyrm's Crossing",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Mystic Carrion and Thrumbo",
+    "location": "Philgrave's Mansion",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Sticky Dondo",
+    "location": "Undercity",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Heart-Shaped Rock",
+  "extract": "Ashes of Mephit Magma",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Hill Giant Finger",
+  "extract": "Salts of Hill Giant Fingernails",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Hook",
+  "extract": "Sublimate of Bloodstained Hook",
+  "family": "Sublimate",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Hyena Ear",
+  "extract": "Ashes of Hyena Ear",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Imp Patagium",
+  "extract": "Ashes of Imp Patagium",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Sticky Dondo",
+   "location": "Guildhall",
+   "act": "Act Three"
+  },
+  "sold_by": [
+   {
+    "vendor": "Sticky Dondo",
+    "location": "Guildhall",
+    "act": "Act Three"
+   },
+   {
+    "vendor": "Voiceless Penitent Bareki",
+    "location": "Undercity",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Intellect Devourer Cerebellum",
+  "extract": "Suspension of Cerebrospinal Fluid",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Omeluum",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Omeluum",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Ki-Rin Hair",
+  "extract": "Sublimate of Ki-Rin Hair",
+  "family": "Sublimates",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Blurg and Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Blurg and Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Laculite",
+  "extract": "Suspension of Laculite",
+  "family": "Suspensions",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Lolth's Candle",
+  "extract": "Vitriol of Lolth's Candle",
+  "family": "Vitriols",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Mergrass",
+  "extract": "Suspension of Mergrass",
+  "family": "Suspensions",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Mud Mephit Wing",
+  "extract": "Suspension of Muddy Goo",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Blurg and Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Blurg and Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Mugwort",
+  "extract": "Salts of Mugwort",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Night Orchid",
+  "extract": "Solution of Night Orchid",
+  "family": "Suspensions",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Nightlight Frond",
+  "extract": "Essence of Nightlight",
+  "family": "Essence",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Nothic Eye",
+  "extract": "Suspension of Nothic Eye",
+  "family": "Suspensions",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Ochre Jelly Slime",
+  "extract": "Suspension of Ochre Jelly",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Owlbear Beak",
+  "extract": null,
+  "family": null,
+  "no_known_use": true,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Pegasus Feather",
+  "extract": "Sublimate of Pegasus Feathers",
+  "family": "Sublimate",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Blurg and Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Blurg and Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Planetar Feather",
+  "extract": "Essence of Planetar Feather",
+  "family": "Essences",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Poison Spore",
+  "extract": "Sublimate of Poison Spores",
+  "family": "Sublimate",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Poppy Flower",
+  "extract": "Suspension of Mergrass",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Purple Worm Gullet",
+  "extract": "Suspension of Purple Worm Slime",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Putrefied Tumour",
+  "extract": "Vitriol of Putrefied Tumour",
+  "family": "Vitriols",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Rogue's Morsel",
+  "extract": "Salts of Rogue's Morsel",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Shadowroot Sac",
+  "extract": "Vitriol of Shadowroot Sac",
+  "family": "Vitriols",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Silk Gland",
+  "extract": "Suspension of Spider Silk",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Swarming Toadstool",
+  "extract": "Essence of Swarming Toadstool",
+  "family": "Essences",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Sylvan Stone",
+  "extract": "Essence of Sylvan Stone",
+  "family": "Essences",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak and Blurg",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak and Blurg",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Timmask Spores (ingredient)",
+  "extract": "Essence of Timmask Spores",
+  "family": "Essence",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Omeluum",
+   "location": "Ebonlake Grotto",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Omeluum",
+    "location": "Ebonlake Grotto",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Blurg",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Tongue of Madness",
+  "extract": "Sublimate of Tongue of Madness",
+  "family": "Sublimates",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Auntie Ethel",
+   "location": "Riverside Teahouse",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Auntie Ethel",
+    "location": "Riverside Teahouse",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Omeluum",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   },
+   {
+    "vendor": "Popper",
+    "location": "Circus of the Last Days",
+    "act": "Act Three"
+   }
+  ]
+ },
+ {
+  "name": "Unicorn Horn",
+  "extract": "Essence of Unicorn Horn",
+  "family": "Essences",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Valerian Flower",
+  "extract": "Suspension of Mergrass",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Venomous Fang",
+  "extract": "Suspension of Snake Venom",
+  "family": "Suspension",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Viridian Crystal",
+  "extract": "Salts of Viridian Crystal",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Weavemoss",
+  "extract": "Vitriol of Weavemoss",
+  "family": "Vitriols",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Wispweed",
+  "extract": "Sublimate of Wispweed",
+  "family": "Sublimates",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Wood Bark",
+  "extract": "Salts of Tree Bark",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Blurg and Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Blurg and Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Worg Fang",
+  "extract": "Ashes of Worg Fang",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": {
+   "vendor": "Derryth Bonecloak",
+   "location": "Myconid Colony",
+   "act": "Act One"
+  },
+  "sold_by": [
+   {
+    "vendor": "Derryth Bonecloak",
+    "location": "Myconid Colony",
+    "act": "Act One"
+   }
+  ]
+ },
+ {
+  "name": "Wyvern Stinger",
+  "extract": "Ashes of Wyvern Stinger",
+  "family": "Ashes",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Xorn Scales",
+  "extract": "Salts of Xorn Scales",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ },
+ {
+  "name": "Yellow Musk Creeper Petals",
+  "extract": "Salts of Musk Creeper",
+  "family": "Salts",
+  "no_known_use": false,
+  "first_vendor": null,
+  "sold_by": []
+ }
+]

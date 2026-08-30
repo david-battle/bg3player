@@ -1,0 +1,642 @@
+[
+ {
+  "result": "Antidote",
+  "type": "Potion",
+  "specific": "Salts of Mugwort",
+  "source": "Mugwort",
+  "generic": "Suspension",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.87"
+ },
+ {
+  "result": "Potion of Angelic Reprieve",
+  "type": "Potion",
+  "specific": "Essence of Unicorn Horn",
+  "source": "Unicorn Horn",
+  "generic": "Salt",
+  "craft_level": "",
+  "trade_level": "1",
+  "price_ratio": ""
+ },
+ {
+  "result": "Potion of Angelic Slumber",
+  "type": "Potion",
+  "specific": "Essence of Planetar Feather",
+  "source": "Planetar Feather",
+  "generic": "Suspension",
+  "craft_level": "",
+  "trade_level": "",
+  "price_ratio": ""
+ },
+ {
+  "result": "Potion of Animal Speaking",
+  "type": "Potion",
+  "specific": "Essence of Acorn Truffle",
+  "source": "Acorn Truffle",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "1.08"
+ },
+ {
+  "result": "Potion of Feather Fall",
+  "type": "Potion",
+  "specific": "Sublimate of Autumn Crocus",
+  "source": "Autumncrocus",
+  "generic": "Essence",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "1.08"
+ },
+ {
+  "result": "Potion of Flying",
+  "type": "Potion",
+  "specific": "Sublimate of Eagle Feathers",
+  "source": "Eagle Feather",
+  "generic": "Essence",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "0.53"
+ },
+ {
+  "result": "Potion of Glorious Vaulting",
+  "type": "Potion",
+  "specific": "Sublimate of Wispweed",
+  "source": "Wispweed",
+  "generic": "Ashes",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "1.08"
+ },
+ {
+  "result": "Potion of Healing",
+  "type": "Potion",
+  "specific": "Salts of Rogue's Morsel",
+  "source": "Rogue's Morsel",
+  "generic": "Suspension",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.67"
+ },
+ {
+  "result": "Potion of Greater Healing",
+  "type": "Potion",
+  "specific": "Ashes of Balsam",
+  "source": "Balsam",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.48"
+ },
+ {
+  "result": "Potion of Superior Healing",
+  "type": "Potion",
+  "specific": "Salts of Musk Creeper",
+  "source": "Yellow Musk Creeper Petals",
+  "generic": "Suspension",
+  "craft_level": "6",
+  "trade_level": "8",
+  "price_ratio": "0.49"
+ },
+ {
+  "result": "Potion of Supreme Healing",
+  "type": "Potion",
+  "specific": "Sublimate of Ki-Rin Hair",
+  "source": "Ki-Rin Hair",
+  "generic": "Ashes",
+  "craft_level": "6",
+  "trade_level": "11",
+  "price_ratio": "0.56"
+ },
+ {
+  "result": "Potion of Invisibility",
+  "type": "Potion",
+  "specific": "Ashes of Imp Patagium",
+  "source": "Imp Patagium",
+  "generic": "Essence",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "1.97"
+ },
+ {
+  "result": "Potion of Mind Reading",
+  "type": "Potion",
+  "specific": "Suspension of Mergrass",
+  "source": "Mergrass",
+  "generic": "Sublimate",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.95"
+ },
+ {
+  "result": "Potion of Speed",
+  "type": "Potion",
+  "specific": "Ashes of Hyena Ear",
+  "source": "Hyena Ear",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.95"
+ },
+ {
+  "result": "Remedial Potion",
+  "type": "Potion",
+  "specific": "Salts of Xorn Scales",
+  "source": "Xorn Scales",
+  "generic": "Suspension",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "1.19"
+ },
+ {
+  "result": "Elixir of Arcane Cultivation",
+  "type": "Elixir",
+  "specific": "Vitriol of Weavemoss",
+  "source": "Weavemoss",
+  "generic": "Sublimate",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.95"
+ },
+ {
+  "result": "Greater Elixir of Arcane Cultivation",
+  "type": "Elixir",
+  "specific": "Suspension of Laculite",
+  "source": "Laculite",
+  "generic": "Vitriol",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "0.71"
+ },
+ {
+  "result": "Superior Elixir of Arcane Cultivation",
+  "type": "Elixir",
+  "specific": "Solution of Night Orchid",
+  "source": "Night Orchid",
+  "generic": "Vitriol",
+  "craft_level": "9",
+  "trade_level": "6",
+  "price_ratio": "0.98"
+ },
+ {
+  "result": "Supreme Elixir of Arcane Cultivation",
+  "type": "Elixir",
+  "specific": "Essence of Beholder Eye",
+  "source": "Beholder Iris",
+  "generic": "Suspension",
+  "craft_level": "9",
+  "trade_level": "9",
+  "price_ratio": "1.11"
+ },
+ {
+  "result": "Elixir of Barkskin",
+  "type": "Elixir",
+  "specific": "Salts of Tree Bark",
+  "source": "Wood Bark",
+  "generic": "Suspension",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.83"
+ },
+ {
+  "result": "Elixir of Battlemage's Power",
+  "type": "Elixir",
+  "specific": "Suspension of Gauth Eye",
+  "source": "Gauth Eyestalk",
+  "generic": "Sublimate",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "1.14"
+ },
+ {
+  "result": "Elixir of Bloodlust",
+  "type": "Elixir",
+  "specific": "Ashes of Worg Fang",
+  "source": "Worg Fang",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.93"
+ },
+ {
+  "result": "Elixir of Darkvision",
+  "type": "Elixir",
+  "specific": "Essence of Crystalline Lens",
+  "source": "Crystalline Lens",
+  "generic": "Salt",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "0.93"
+ },
+ {
+  "result": "Elixir of Guileful Movement",
+  "type": "Elixir",
+  "specific": "Suspension of Ochre Jelly",
+  "source": "Ochre Jelly Slime",
+  "generic": "Sublimate",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "1.03"
+ },
+ {
+  "result": "Elixir of Heroism",
+  "type": "Elixir",
+  "specific": "Sublimate of Pegasus Feathers",
+  "source": "Pegasus Feather",
+  "generic": "Ashes",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.91"
+ },
+ {
+  "result": "Elixir of Peerless Focus",
+  "type": "Elixir",
+  "specific": "Sublimate of Belladonna",
+  "source": "Belladonna",
+  "generic": "Ashes",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.95"
+ },
+ {
+  "result": "Elixir of Fire Resistance",
+  "type": "Elixir",
+  "specific": "Ashes of Dragon Egg Mushroom",
+  "source": "Dragon Egg Mushroom",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "1.08"
+ },
+ {
+  "result": "Elixir of Lightning Resistance",
+  "type": "Elixir",
+  "specific": "Salts of Copper Shavings",
+  "source": "Broken Machinery",
+  "generic": "Suspension",
+  "craft_level": "",
+  "trade_level": "1",
+  "price_ratio": "1.33"
+ },
+ {
+  "result": "Elixir of Necrotic Resistance",
+  "type": "Elixir",
+  "specific": "Vitriol of Oleander",
+  "source": "Black Oleander",
+  "generic": "Sublimate",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "1.39"
+ },
+ {
+  "result": "Elixir of Poison Resistance",
+  "type": "Elixir",
+  "specific": "Suspension of Muddy Goo",
+  "source": "Mud Mephit Wing",
+  "generic": "Sublimate",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "1.07"
+ },
+ {
+  "result": "Elixir of Psychic Resistance",
+  "type": "Elixir",
+  "specific": "Suspension of Cerebrospinal Fluid",
+  "source": "Intellect Devourer Cerebellum",
+  "generic": "Sublimate",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "1.85"
+ },
+ {
+  "result": "Elixir of Universal Resistance",
+  "type": "Elixir",
+  "specific": "Vitriol of Divine Miasma",
+  "source": "Divine Bone Shard",
+  "generic": "Sublimate",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "0.58"
+ },
+ {
+  "result": "Elixir of See Invisibility",
+  "type": "Elixir",
+  "specific": "Suspension of Nothic Eye",
+  "source": "Nothic Eye",
+  "generic": "Vitriol",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "0.83"
+ },
+ {
+  "result": "Elixir of Cloud Giant Strength",
+  "type": "Elixir",
+  "specific": "Salts of Cloud Giant Fingernails",
+  "source": "Cloud Giant Finger",
+  "generic": "Suspension",
+  "craft_level": "6",
+  "trade_level": "9",
+  "price_ratio": "1.11"
+ },
+ {
+  "result": "Elixir of Hill Giant Strength",
+  "type": "Elixir",
+  "specific": "Salts of Hill Giant Fingernails",
+  "source": "Hill Giant Finger",
+  "generic": "Suspension",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.83"
+ },
+ {
+  "result": "Elixir of the Colossus",
+  "type": "Elixir",
+  "specific": "Salts of Chasm Creeper",
+  "source": "Chasm Creeper",
+  "generic": "Suspension",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "0.83"
+ },
+ {
+  "result": "Elixir of Viciousness",
+  "type": "Elixir",
+  "specific": "Vitriol of Shadowroot Sac",
+  "source": "Shadowroot Sac",
+  "generic": "Ashes",
+  "craft_level": "",
+  "trade_level": "6",
+  "price_ratio": "1.04"
+ },
+ {
+  "result": "Elixir of Vigilance",
+  "type": "Elixir",
+  "specific": "Sublimate of Bloodstained Hook",
+  "source": "Hook",
+  "generic": "Ashes",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "1.19"
+ },
+ {
+  "result": "Tadpole Elixir",
+  "type": "Elixir",
+  "specific": "Sublimate of Tongue of Madness",
+  "source": "Tongue of Madness",
+  "generic": "Essence",
+  "craft_level": "6",
+  "trade_level": "",
+  "price_ratio": "0.91"
+ },
+ {
+  "result": "Alchemist's Fire",
+  "type": "Grenade",
+  "specific": "Ashes of Fire Amber",
+  "source": "Fire Amber",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "1.08"
+ },
+ {
+  "result": "Flashblinder",
+  "type": "Grenade",
+  "specific": "Sublimate of Behir Scales",
+  "source": "Behir Scales",
+  "generic": "Ashes",
+  "craft_level": "9",
+  "trade_level": "1",
+  "price_ratio": "1.13"
+ },
+ {
+  "result": "Fungal Bamboozler",
+  "type": "Grenade",
+  "specific": "Essence of Timmask Spores",
+  "source": "Timmask Spores",
+  "generic": "Salt",
+  "craft_level": "6",
+  "trade_level": "",
+  "price_ratio": "1.33"
+ },
+ {
+  "result": "Hag's Bane",
+  "type": "Grenade",
+  "specific": "Ashes of Dried Fey Flower",
+  "source": "",
+  "generic": "Essence",
+  "craft_level": "",
+  "trade_level": "",
+  "price_ratio": ""
+ },
+ {
+  "result": "Haste Spore Grenade",
+  "type": "Grenade",
+  "specific": "Sublimate of Haste Spores",
+  "source": "Hastening Spores",
+  "generic": "Essence",
+  "craft_level": "6",
+  "trade_level": "",
+  "price_ratio": "1.39"
+ },
+ {
+  "result": "Hearthlight Bomb",
+  "type": "Grenade",
+  "specific": "Essence of Nightlight",
+  "source": "Nightlight Frond",
+  "generic": "Suspension",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.87"
+ },
+ {
+  "result": "Noxious Spore Grenade",
+  "type": "Grenade",
+  "specific": "Sublimate of Poison Spores",
+  "source": "Poison Spore",
+  "generic": "Ashes",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "1.07"
+ },
+ {
+  "result": "Web Grenade",
+  "type": "Grenade",
+  "specific": "Suspension of Spider Silk",
+  "source": "Silk Gland",
+  "generic": "Vitriol",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.67"
+ },
+ {
+  "result": "Arsonist's Oil",
+  "type": "Coating",
+  "specific": "Sublimate of Frosted Ears",
+  "source": "Frosted Ear",
+  "generic": "Ashes",
+  "craft_level": "6",
+  "trade_level": "1",
+  "price_ratio": "0.93"
+ },
+ {
+  "result": "Basic Poison",
+  "type": "Coating",
+  "specific": "Vitriol of Bonecap",
+  "source": "Bonecap",
+  "generic": "Ashes",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.95"
+ },
+ {
+  "result": "Crawler Mucus",
+  "type": "Coating",
+  "specific": "Salts of Carrion Crawler Tentacle",
+  "source": "Carrion Crawler Tentacle",
+  "generic": "Vitriol",
+  "craft_level": "",
+  "trade_level": "9",
+  "price_ratio": "0.88"
+ },
+ {
+  "result": "Diluted Oil of Sharpness",
+  "type": "Coating",
+  "specific": "Salts of Viridian Crystal",
+  "source": "Viridian Crystal",
+  "generic": "Vitriol",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.69"
+ },
+ {
+  "result": "Drow Poison",
+  "type": "Coating",
+  "specific": "Essence of Swarming Toadstool",
+  "source": "Swarming Toadstool",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.91"
+ },
+ {
+  "result": "Malice",
+  "type": "Coating",
+  "specific": "Vitriol of Lolth's Candle",
+  "source": "Lolth's Candle",
+  "generic": "Ashes",
+  "craft_level": "6",
+  "trade_level": "9",
+  "price_ratio": "1.11"
+ },
+ {
+  "result": "Oil of Accuracy",
+  "type": "Coating",
+  "specific": "Ashes of Daggerroot",
+  "source": "Daggerroot",
+  "generic": "Salt",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.95"
+ },
+ {
+  "result": "Oil of Bane",
+  "type": "Coating",
+  "specific": "Vitriol of Putrefied Tumour",
+  "source": "Putrefied Tumour",
+  "generic": "Sublimate",
+  "craft_level": "9",
+  "trade_level": "6",
+  "price_ratio": "1.03"
+ },
+ {
+  "result": "Oil of Combustion",
+  "type": "Coating",
+  "specific": "Ashes of Mephit Magma",
+  "source": "Heart-Shaped Rock",
+  "generic": "Essence",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "0.91"
+ },
+ {
+  "result": "Oil of Diminution",
+  "type": "Coating",
+  "specific": "Essence of Sylvan Stone",
+  "source": "Sylvan Stone",
+  "generic": "Suspension",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.83"
+ },
+ {
+  "result": "Oil of Freezing",
+  "type": "Coating",
+  "specific": "Suspension of Frost Salamander Tongue",
+  "source": "Frost Salamander Tongue",
+  "generic": "Sublimate",
+  "craft_level": "6",
+  "trade_level": "",
+  "price_ratio": "1.04"
+ },
+ {
+  "result": "Purple Worm Toxin",
+  "type": "Coating",
+  "specific": "Suspension of Purple Worm Slime",
+  "source": "Purple Worm Gullet",
+  "generic": "Vitriol",
+  "craft_level": "9",
+  "trade_level": "6",
+  "price_ratio": "1.07"
+ },
+ {
+  "result": "Serpent Fang Toxin",
+  "type": "Coating",
+  "specific": "Suspension of Snake Venom",
+  "source": "Venomous Fang",
+  "generic": "Vitriol",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "0.83"
+ },
+ {
+  "result": "Simple Toxin",
+  "type": "Coating",
+  "specific": "Suspension of Bullywug Trumpet",
+  "source": "Bullywug Trumpet",
+  "generic": "Sublimate",
+  "craft_level": "1",
+  "trade_level": "1",
+  "price_ratio": "0.93"
+ },
+ {
+  "result": "Thisobald's Brewed-Up Bellyglummer",
+  "type": "Coating",
+  "specific": "Salts of Corpse Rose",
+  "source": "Corpse Rose",
+  "generic": "Suspension",
+  "craft_level": "9",
+  "trade_level": "",
+  "price_ratio": "0.37"
+ },
+ {
+  "result": "Wizardsbane Oil",
+  "type": "Coating",
+  "specific": "Essence of Gremishka Tail",
+  "source": "Gremishka Tail",
+  "generic": "Suspension",
+  "craft_level": "",
+  "trade_level": "1",
+  "price_ratio": "0.95"
+ },
+ {
+  "result": "Wyvern Toxin",
+  "type": "Coating",
+  "specific": "Ashes of Wyvern Stinger",
+  "source": "Wyvern Stinger",
+  "generic": "Salt",
+  "craft_level": "6",
+  "trade_level": "6",
+  "price_ratio": "1.14"
+ }
+]
