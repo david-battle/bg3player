@@ -2,10 +2,9 @@
 
 ## Verified State
 
-- Branch `main`; local commits only. Remote `origin` is configured to
-  `https://github.com/david-battle/bg3player.git` (added by the assistant); the
-  user pushes manually with `git push -u origin main` — `push` is the user's
-  script that pushes all their repos, do not run it for them.
+- Branch `main`; pushed to `origin` (https://github.com/david-battle/bg3player,
+  public, created this session). Upstream is set, so the user's `push` script
+  (plain `git push` per repo) works — the user runs it, not the assistant.
 - The worktree is clean after this session's commit.
 
 ## Completed Work (2026-08-30)
@@ -51,7 +50,7 @@ from **bg3.wiki** data, in `/home/dlbattle/bg3player`.
 
 ## Natural Next Action
 
-1. The user runs `git push -u origin main` when ready.
+1. The user runs their `push` script (or `git push`) to publish new commits.
 2. Optionally fill in acts/acquisition for the 56 undocumented items
    (`classify_missing.py` `OVERRIDES`).
 3. Next phase: consumables (potions, scrolls, elixirs, arrows, coatings,
