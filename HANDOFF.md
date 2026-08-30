@@ -13,7 +13,7 @@
 Built a machine-curated **magic equipment** knowledge base for Baldur's Gate 3
 from **bg3.wiki** data, in `/home/dlbattle/bg3player`.
 
-- **740 obtainable items** covered (plus 18 not obtainable in the current
+- **739 obtainable items** covered (plus 18 not obtainable in the current
   game), including items bg3.wiki's own per-act lists miss (e.g. Balduran's
   Giantslayer, the Helldusk set, Markoheshkir, Helm of Balduran, Orphic Hammer).
 - Pipeline (all Python, in `scripts/`): `fetch_act_lists.py` -> base per-act

@@ -4,7 +4,7 @@ A machine-curated, plain-text reference for the **magic equipment** of
 *Baldur's Gate 3* (Prologue through Act Three), built for use by an AI
 assistant that helps with gear selection and "where do I get X" questions.
 
-Covers **740 obtainable items** (plus a short list of items that are not
+Covers **739 obtainable items** (plus a short list of items that are not
 obtainable in the current game). This includes items the wiki's own per-act
 list pages miss (e.g. Balduran's Giantslayer, Helldusk set, Markoheshkir).
 
