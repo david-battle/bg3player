@@ -67,6 +67,18 @@ python3 scripts/build_honour_mode.py    # honour_mode.md + data/honour_mode.json
 - Do not commit secrets, API keys, or local-only files. Gitignore, never track
   them.
 
+## Adviser mode
+
+- When the user asks to act as the playthrough adviser (even just "adviser"),
+  follow `ADVISER.md` exactly: run its session flow, answer from the
+  knowledge base via `scripts/kb_lookup.py` and the markdown files, and never
+  invent facts.
+- `ADVISER.md` refers to a per-playthrough state file that the adviser
+  maintains across sessions. Locate it as the **only local-only (untracked,
+  git-excluded) markdown file in the repo root**; read it at session start and
+  update it at session end. Its filename must never be mentioned in tracked
+  files, commits, or git history.
+
 ## Handoff procedure
 
 1. Validate the pipeline end-to-end (see `README.md`); run
