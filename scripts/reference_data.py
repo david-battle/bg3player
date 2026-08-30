@@ -14,7 +14,8 @@ DELAY = 0.35
 HTMLDIR = "data/raw_html_ref"
 
 # Master list pages (one fetch each).
-MASTER_PAGES = ["Feats", "Conditions", "Companions", "Permanent bonuses", "Races"]
+MASTER_PAGES = ["Feats", "Conditions", "Companions", "Permanent bonuses",
+                "Races", "Achievements", "Difficulty"]
 
 # Companion wiki pages (origins + non-origin companions).
 COMPANION_PAGES = [

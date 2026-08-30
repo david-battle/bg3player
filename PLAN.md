@@ -46,6 +46,9 @@ master JSON. This is a plan document, not a spec; adjust fields while building.
   `data/classes.json`), races (`races.md`, `data/races.json`), backgrounds
   (`backgrounds.md`, `data/backgrounds.json`), illithid powers
   (`illithid_powers.md`, `data/illithid_powers.json`). Phase 2 complete.
+- Shipped: Phase 3 — achievements (`achievements.md`, `data/achievements.json`)
+  and difficulties/Honour Mode (`honour_mode.md`, `data/honour_mode.json`).
+  Phase 3 complete.
 
 ## Category overview
 
@@ -177,13 +180,24 @@ page (e.g. Blessed, Weakened, Deafened) are omitted rather than guessed.
 
 ## Phase 3 — Completion reference
 
-### 3a. Achievements (`achievements.md`)
+### 3a. Achievements (`achievements.md`) — DONE
 All ~54 achievements: unlock condition, act-locked/missable flags,
 difficulty-specific ones. Source: bg3.wiki achievements.
+Shipped: all 54 achievements (name, unlock condition, hidden flag) from the
+wiki's Achievements table; 29 are hidden. Act/missable flags are not invented
+— the description is the unlock condition; the Honour-only Foehammer and
+Tactician's Critical Hit are cross-referenced from `honour_mode.md`. The
+in-game golden D20 reward is noted there too.
 
-### 3b. Honour Mode / difficulty (`honour_mode.md`)
+### 3b. Honour Mode / difficulty (`honour_mode.md`) — DONE
 Legendary Actions, single-save rules, Tactician/Honour differences, custom-mode
 options. Small file; only the mechanics, not full boss guides.
+Shipped: parsed from the wiki's Difficulty page (Honour Mode redirects there):
+Explorer / Balanced / Tactician / Honour / Custom mode descriptions (Legendary
+Actions, single-save conditions incl. the ALT+F4 rule, death -> custom-mode vs
+delete-save choice, once-only restoration pods), the full 20-setting custom
+mode table with each setting's default per difficulty, and the worked example
+of enemy stat changes. Only mechanics; no boss guides.
 
 ## Phase 4 — Depth (planned, deferred)
 
@@ -212,6 +226,7 @@ item source lists (equipment + consumables) prove sufficient.
    conditions (smallest, highest build-advice value), then classes, races,
    backgrounds, illithid powers. **Complete (all of Phase 2 shipped).**
 3. Phase 3 (achievements, honour mode) — small, can slot in anytime.
+   **Complete.**
 4. Phase 4 only if the source lists prove insufficient.
 
 ## Out of scope (not planned)

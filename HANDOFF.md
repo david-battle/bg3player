@@ -89,6 +89,24 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 - `kb_lookup.py` extended with `class`, `subclass`, `race`, `background`,
   `power` subcommands.
 
+### Part 5 — Phase 3 (achievements, honour mode)
+- **Achievements** (54, 29 hidden): name + unlock condition + hidden flag,
+  parsed from the wiki's Achievements table. Act/missable flags are not
+  invented; the description is the condition. Honour-only Foehammer and
+  Tactician's Critical Hit are cross-referenced from `honour_mode.md`.
+- **Difficulties / Honour Mode**: parsed from the wiki's Difficulty page
+  (Honour Mode redirects there) — Explorer/Balanced/Tactician/Honour/Custom
+  descriptions (Legendary Actions, single-save rules incl. the ALT+F4 case,
+  death -> Custom-mode vs delete-save, once-only restoration pods, rewards),
+  the full 20-setting custom-mode table with per-difficulty defaults
+  (colspan-aware parse; setting names from image alt text), and the worked
+  enemy-stat example. Mechanics only, no boss guides.
+- New builders: `build_achievements.py`, `build_honour_mode.py`; the two pages
+  added to `MASTER_PAGES` in `reference_data.py` so `fetch_reference.py` caches
+  them. Deliverables: `knowledge_base/reference/achievements.md` +
+  `honour_mode.md`; masters `data/achievements.json` + `data/honour_mode.json`.
+- `kb_lookup.py` extended with `achievement` and `difficulty` subcommands.
+
 ## Validation
 
 - Full pipeline re-run clean end-to-end (cached, no network needed).
@@ -112,6 +130,12 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   Sworn Drow has Drow Magic; Halfling speed Slow; Sage background -> Gale.
   The reference-pipeline refactor changed nothing in the existing outputs
   (feats/conditions/buffs/companions byte-identical).
+- Phase 3 counts: 54 achievements (29 hidden, no dupes), 5 difficulty modes +
+  20 custom settings (colspan-aware parse clean). Spot-checked: Foehammer
+  "Complete the game in Honour mode."; Honour single-save includes the ALT+F4
+  overwrite rule; Tactician grants the Critical Hit achievement; the custom
+  settings table expands Ruleset/Single Save/Proficiency Bonus correctly across
+  the four difficulty columns.
 - Vendor-extraction edge cases handled: "such as/including" phrasing, trailing
   prepositional fragments, "1x –" prefixes, level-gated vendors ("after
   Level 6"), Bixa Root (renamed copy of Mergrass) mapping.
@@ -141,10 +165,8 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. Commit the Phase 2 remainder; the user then runs their `push` script.
-2. Phase 3 (`PLAN.md`): achievements (`achievements.md`) and Honour Mode /
-   difficulty (`honour_mode.md`) — small, can slot in anytime.
-3. Optionally fill in acts/acquisition for the 56 undocumented items
+1. Commit the Phase 3 work; the user then runs their `push` script.
+2. Optionally fill in acts/acquisition for the 56 undocumented items
    (`classify_missing.py` `OVERRIDES`).
-4. Phase 4 (merchant catalog, quest index) only if the source lists prove
+3. Phase 4 (merchant catalog, quest index) only if the source lists prove
    insufficient.

@@ -19,6 +19,8 @@ knowledge base. Usage examples:
     kb race --name elf                # race/subrace traits (or list all)
     kb background --name noble        # skills + who starts with it
     kb power --tier elite             # illithid powers by tier
+    kb achievement --name foehammer   # achievement unlock conditions
+    kb difficulty --mode honour       # difficulty / honour-mode details
     kb buff --act two
     kb missables --act 2
 """
@@ -310,6 +312,37 @@ def cmd_power(args):
             print(f"  {p['description']}")
 
 
+def cmd_achievement(args):
+    ach = load("achievements.json")
+    if args.name:
+        ach = [a for a in ach if args.name.lower() in a["name"].lower()]
+    if not ach:
+        print("(no matching achievement)")
+    for a in ach[:args.limit]:
+        print(f"### {a['name']}")
+        print(f"  {a['description']}")
+        if a["hidden"]:
+            print("  (hidden until unlocked)")
+
+
+def cmd_difficulty(args):
+    d = load("honour_mode.json")
+    if args.mode:
+        modes = [m for m in d["modes"] if args.mode.lower() in m["name"].lower()]
+        for m in modes[:args.limit]:
+            print(f"## {m['name']} mode")
+            print(f"  {m['description']}")
+        return
+    for m in d["modes"]:
+        print(f"## {m['name']}: {m['description'][:90]}")
+    print("\n## Custom settings defaults")
+    cols = ["Explorer", "Balanced", "Tactician", "Honour"]
+    for s in d["custom_settings"]:
+        v = s["values"]
+        row = ", ".join(f"{c}={v.get(c, '')}" for c in cols)
+        print(f"  {s['setting']}: {row}")
+
+
 def main():
     p = argparse.ArgumentParser(prog="kb", description="BG3 knowledge base lookup")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -356,6 +389,12 @@ def main():
 
     sp = add("power", "illithid powers by tier or name")
     sp.add_argument("--name"); sp.add_argument("--tier")
+
+    sp = add("achievement", "achievement unlock conditions")
+    sp.add_argument("--name")
+
+    sp = add("difficulty", "difficulty / honour-mode details or settings")
+    sp.add_argument("--mode")
 
     sp = add("buff", "permanent buffs (optionally per act)")
     sp.add_argument("--act")

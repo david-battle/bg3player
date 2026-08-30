@@ -12,7 +12,8 @@ Covers **739 obtainable magic items** (plus a short list that are not
 obtainable in the current game), **305 consumables** plus the full alchemy
 recipe set, and a character reference (41 feats, 135 conditions, 11
 companions + 12 hirelings, 30 permanent buffs, 12 classes + 58 subclasses,
-31 race/subrace entries, 12 backgrounds, 39 illithid powers). This includes
+31 race/subrace entries, 12 backgrounds, 39 illithid powers, 54 achievements,
+difficulties incl. Honour Mode). This includes
 items the wiki's own per-act list pages miss (e.g. Balduran's Giantslayer,
 Helldusk set, Markoheshkir).
 
@@ -42,7 +43,9 @@ Helldusk set, Markoheshkir).
 | `knowledge_base/reference/races.md` | All playable races + subraces from the wiki's comparison table: base speed, proficiencies, features (incl. darkvision, spells). |
 | `knowledge_base/reference/backgrounds.md` | The 12 backgrounds: the two skill proficiencies each grants, plus who starts with each. |
 | `knowledge_base/reference/illithid_powers.md` | The full tadpole power tree (base, Act Three elite, full-ceremorphosis, story) with type, effect, recharge and prerequisites. |
-| `data/feats.json`, `data/conditions.json`, `data/permanent_buffs.json`, `data/companions.json`, `data/classes.json`, `data/races.json`, `data/backgrounds.json`, `data/illithid_powers.json` | Machine-readable masters for the character reference. |
+| `knowledge_base/reference/achievements.md` | All 54 achievements with unlock conditions (29 are hidden until earned). |
+| `knowledge_base/reference/honour_mode.md` | Difficulties (Explorer/Balanced/Tactician/Honour/Custom), Honour-mode Legendary Actions and single-save rules, and the custom-mode settings table. |
+| `data/feats.json`, `data/conditions.json`, `data/permanent_buffs.json`, `data/companions.json`, `data/classes.json`, `data/races.json`, `data/backgrounds.json`, `data/illithid_powers.json`, `data/achievements.json`, `data/honour_mode.json` | Machine-readable masters for the character reference. |
 
 ## How an AI should use it
 
@@ -102,8 +105,9 @@ remember where you are.
   cloaks, amulets, rings, instruments, clothing. Consumables cover potions,
   elixirs, scrolls, special arrows, coatings, grenades, alchemy, and camp
   supplies. The character reference covers feats, conditions, companions,
-  permanent buffs, classes and subclasses, races, backgrounds, and illithid
-  powers. **Not** covered: dyes, toolkits, quest items, barrels,
+  permanent buffs, classes and subclasses, races, backgrounds, illithid
+  powers, achievements and the difficulties/Honour Mode reference. **Not**
+  covered: dyes, toolkits, quest items, barrels,
   non-magic mundane gear, and the quest index (planned, deferred).
   (planned).
 - bg3.wiki's per-act "List of magic items" pages are **incomplete**; items they
@@ -154,7 +158,7 @@ python3 scripts/parse_consumables.py       # parse cache -> data/consumables_raw
 python3 scripts/build_alchemy.py           # alchemy + ingredient/vendor data
 python3 scripts/build_consumables.py       # consumables markdown + masters
 
-python3 scripts/fetch_reference.py         # reference page cache (feats, conditions, companions, buffs, classes, races, backgrounds, illithid)
+python3 scripts/fetch_reference.py         # reference page cache (feats, conditions, companions, buffs, classes, races, backgrounds, illithid, achievements, difficulty)
 python3 scripts/build_feats.py             # feats markdown + data/feats.json
 python3 scripts/build_conditions.py        # conditions glossary + data/conditions.json
 python3 scripts/build_permanent_buffs.py   # permanent buffs + data/permanent_buffs.json
@@ -163,6 +167,8 @@ python3 scripts/build_classes.py           # classes + subclasses + data/classes
 python3 scripts/build_races.py             # races + data/races.json
 python3 scripts/build_backgrounds.py       # backgrounds + data/backgrounds.json
 python3 scripts/build_illithid.py          # illithid powers + data/illithid_powers.json
+python3 scripts/build_achievements.py      # achievements + data/achievements.json
+python3 scripts/build_honour_mode.py       # difficulties/honour mode + data/honour_mode.json
 ```
 
 Fetches are cached in `data/raw_html/` (equipment), `data/raw_html_cons/`
