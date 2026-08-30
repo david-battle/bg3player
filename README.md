@@ -69,6 +69,22 @@ you the exact ingredient + generic extract family + the earliest vendor).
    condition pages; conditions with no dedicated wiki page (e.g. Blessed,
    Weakened, Deafened) are omitted rather than guessed.
 
+## Using it as a playthrough adviser
+
+`ADVISER.md` is the instruction set for running this repo as a live playthrough
+adviser (opencode pointed at this directory). Two extra pieces make that work:
+
+- `scripts/kb_lookup.py` — precise queries over the JSON masters, so the AI
+  answers with grounded facts instead of eyeballing markdown:
+  `python3 scripts/kb_lookup.py item --slot gloves --act 2 --effect "spell save"`
+  (see the script header for all commands).
+- A per-playthrough **state file** the AI maintains (party, act, decisions,
+  gear, open missables) so advice is continuous across sessions. The state file
+  is a local file, not part of the repo.
+
+The KB itself is static reference; the state file is what makes the adviser
+remember where you are.
+
 ## Scope and caveats
 
 - Magic equipment covers weapons, armour, shields, helmets, gloves, boots,
