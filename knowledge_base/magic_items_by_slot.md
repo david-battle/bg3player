@@ -5,7 +5,7 @@ Browsable index for gear-set planning. Each entry shows slot, rarity, the act(s)
 Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, Uncommon, Common. 'Act: unknown' = acquisition not documented on bg3.wiki.
 
 
-## Weapon (287 items)
+## Weapon (259 items)
 
 ### Devotee's Mace
 - Rarity: Legendary | Slot: Weapon (Maces) | Act: Act One, Act Two, Act Three
@@ -1295,120 +1295,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: Damage: 1d12 + 1 (2~13) + Strength modifier Slashing | Slay the Wicked: This weapon deals an additional 1d6 Slashing damage against Fiends and Undead. | Cleave: Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Prepare: Spend 6 m (20 ft) of your movement to deal an additional Strength modifier PhysicalDRS damage (minimum 1) on each successful melee weapon attack for the rest of the turn. (Recharge: Short rest.) | Profane Scourge: Strike with subjugating fury, adding your proficiency bonus to the damage roll. If you hit a fiend or undead creature, deal an additional 2d6 SlashingDRS damage and possibly Bane it. (Recharge: Short rest.)
 - How to get: Gur Camp X: 100 Y: -17: Carried by Ulma
 
-### The Clover
-- Rarity: Legendary | Slot: Weapon (Scimitars) | Act: unknown
-- Effect: Damage: 1d6 (1~6) + Strength or Dexterity modifier Slashing | True Strike: Cast as a cantrip (Recharge: Short rest.) | Organ Rearranger: Reduce the number you need to roll a Critical Hit while attacking by 1. This effect can stack. When you roll 2 damage or less, reroll the dice, taking the highest result. | Exploit Weakness: Creatures hit with this weapon receive Vulnerability to Piercing damage. | True Strike Riposte: When a creature misses you with a melee attack, you may retaliate and gain True Strike. | Flourish: Feint an attack to possibly throw your opponent Off Balance. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Armour Class +1 (Off-Hand Only)
 
-### Magical Hand Crossbow
-- Rarity: Very Rare | Slot: Weapon (Hand_Crossbows) | Act: unknown
-- Effect: Damage: 1d6 + 2 (3~8) + Dexterity modifier Piercing | Cunning Combo: When you shoot a target at close range, you can make an additional melee attack against it as a Reaction. | Piercing Shot: Deal regular damage and possibly inflict Gaping Wounds which cause extra damage on attacks. (Recharge: Short rest.) | Mobile Shot: After using Dash or Disengage this turn, you can make a ranged attack as a bonus action. (Recharge: Short rest.)
-
-### Vicious Shortsword
-- Rarity: Very Rare | Slot: Weapon (Shortswords) | Act: unknown
-- Effect: Damage: 1d6 + 10 (11~16) + Strength or Dexterity modifier Slashing | Dolor Amarus: When you land a Critical Hit with a weapon or unarmed attack, it deals an additional 7 damage. | Flourish: Feint an attack to possibly throw your opponent Off Balance. (Recharge: Short rest.) | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.)
-
-### Allandra's Whelm
-- Rarity: Rare | Slot: Weapon (Tridents) | Act: unknown
-- Effect: One-handed damage: 1d6 + 2 (3~8) + Strength modifier Piercing | Two-handed damage: 1d8 + 2 (3~10) + Strength modifier Piercing | Extra damage: 1d4 (1~4) Cold | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.) | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.) | Maiming Strike: Possibly Maims your target. They can't move. (Recharge: Short rest.) | Frigid Blade: You add your Proficiency Bonus as Cold Damage. When the attack hits, apply Frostbitten. The creature takes 1d4 Cold damage when making a weapon attack. (Recharge: Short rest.)
-
-### Arduous Flame Blade
-- Rarity: Rare | Slot: Weapon (Longswords) | Act: unknown
-- Effect: One-handed damage: 1d8 (1~8) + Strength modifier Slashing | Two-handed damage: 1d10 (1~10) + Strength modifier Slashing | Pommel Strike: Make a non-lethal attack against an enemy and possibly Daze them. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.) | Flaming Blade: Immolate your blade like a phoenix wing and strike a foe with its blazing steel. (Recharge: Short rest.)
-
-### Blood-Bound Blade
-- Rarity: Rare | Slot: Weapon (Longswords) | Act: unknown
-- Effect: One-handed damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Two-handed damage: 1d10 + 1 (2~11) + Strength modifier Slashing | Favoured Weapon: This weapon has a +1 bonus to damage and Attack Rolls. | Synchronicity: This weapon deals additional damage equal to your Proficiency Bonus. | Pommel Strike: Make a non-lethal attack against an enemy and possibly Daze them. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.) | This blade's magical powers only function if it is bound to an Eldritch Knight or is a Warlock's Pact Weapon.
-
-### Combination Axe
-- Rarity: Rare | Slot: Weapon (Battleaxes) | Act: unknown
-- Effect: One-handed damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Two-handed damage: 1d10 + 1 (2~11) + Strength modifier Slashing | Critical Virtuoso: When you score a Critical Hit you can spend a Bonus Action to make an additional attack. | Cleave: Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Maiming Strike: Possibly Maims your target. They can't move. (Recharge: Short rest.) | Press the Advantage: After scoring a critical hit, use your Bonus Action to make an additional attack.
-
-### Executioner Sword
-- Rarity: Rare | Slot: Weapon (Shortswords) | Act: unknown
-- Effect: Damage: 1d6 + 1 (2~7) + Strength or Dexterity modifier Piercing | Liberated Spellcasting: When you kill a creature, you can cast a Level 1 spell without expending a spell slot. | Flourish: Feint an attack to possibly throw your opponent Off Balance. (Recharge: Short rest.) | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.)
-
-### Flail of Dread Skulls
-- Rarity: Rare | Slot: Weapon (Flails) | Act: unknown
-- Effect: Damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Tenacity: When you miss a melee attack, you deal Strength Modifier Bludgeoning damage (minimum of 1) anyway. | Concussive Smash: Hit an enemy with all your might to deal damage and possibly Daze them. (Recharge: Short rest.) | Weakening Strike: Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. (Recharge: Short rest.)
-
-### Infernal Longsword
-- Rarity: Rare | Slot: Weapon (Longswords) | Act: unknown
-- Effect: One-handed damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Two-handed damage: 1d10 + 1 (2~11) + Strength modifier Slashing | Infernal Weapon: On a hit, this weapon deals an additional 3 Poison damage and can possibly Poison its target. | Pommel Strike: Make a non-lethal attack against an enemy and possibly Daze them. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.)
-
-### Infernal Warhammer
-- Rarity: Rare | Slot: Weapon (Warhammers) | Act: unknown
-- Effect: Damage: 1d8 + 1 (2~9) + Strength modifier Bludgeoning | Extra damage: 3 Poison | Infernal Weapon: On a hit, this weapon deals an additional 3 Poison damage and can possibly Poison its target. | Backbreaker: Put extra force behind your strike to possibly knock your enemy Prone. (Recharge: Short rest.) | Concussive Smash: Hit an enemy with all your might to deal damage and possibly Daze them. (Recharge: Short rest.) | Weakening Strike: Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. (Recharge: Short rest.)
-
-### Light Crossbow of Speed
-- Rarity: Rare | Slot: Weapon (Light_Crossbows) | Act: unknown
-- Effect: Damage: 1d8 + 1 (2~9) + Dexterity modifier Piercing | Piercing Shot: Deal regular damage and possibly inflict Gaping Wounds which cause extra damage on attacks. (Recharge: Short rest.) | Blink-of-an-eye Bolt: Make a ranged attack with your equipped weapon.
-
-### Planeslayer Flail
-- Rarity: Rare | Slot: Weapon (Flails) | Act: unknown
-- Effect: Damage: 1d8 + 2 (3~10) + Strength modifier Bludgeoning | Outer-Entity Slayer: When wielded against fey, fiends, or undead foes, this weapon has a +1d4 bonus to Damage and Attack Rolls. | Tenacity: When you miss a melee attack, you deal Strength Modifier Bludgeoning damage (minimum of 1) anyway. | Concussive Smash: Hit an enemy with all your might to deal damage and possibly Daze them. (Recharge: Short rest.) | Weakening Strike: Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. (Recharge: Short rest.)
-
-### Rebound Battleaxe
-- Rarity: Rare | Slot: Weapon (Battleaxes) | Act: unknown
-- Effect: One-handed damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Two-handed damage: 1d10 + 1 (2~11) + Strength modifier Slashing | Favoured Weapon: This weapon has a +1 bonus to damage and Attack Rolls. | It's All In The Wrists: This weapon has the Thrown property and deals an additional 1d4 Thunder damage when thrown. | Cleave: Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Maiming Strike: Possibly Maims your target. They can't move. (Recharge: Short rest.) | This blade's magical powers only function if it's Bound to an Eldritch Knight or is a Warlocks's Pact Weapon.
-
-### Render of Scrumptious Flesh
-- Rarity: Rare | Slot: Weapon (Longswords) | Act: unknown
-- Effect: One-handed damage: 1d8 + 2 (3~10) + Strength modifier Slashing | Two-handed damage: 1d10 + 2 (3~12) + Strength modifier Slashing | Extra damage: 1d4 (1~4) Necrotic | Pommel Strike: Make a non-lethal attack against an enemy and possibly Daze them. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.) | Part the Flesh: Thrust forward with diabolical precision, possibly stymying your target's ability to heal. (Recharge: Short rest.)
-
-### Enforcer Club
-- Rarity: Uncommon | Slot: Weapon (Clubs) | Act: unknown
-- Effect: Damage: 1d4 + 1 (2~5) + Strength modifier Bludgeoning | Non-Lethality: This weapon deals only Non-Lethal Damage. | Concussive Smash: Hit an enemy with all your might to deal damage and possibly Daze them. (Recharge: Short rest.) | Weakening Strike: Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. (Recharge: Short rest.) | Backbreaker: Put extra force behind your strike to possibly knock your enemy Prone. (Recharge: Short rest.)
-
-### Githyanki Longsword (Psionic)
-- Rarity: Uncommon | Slot: Weapon (Longswords) | Act: unknown
-- Effect: One-handed damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Two-handed damage: 1d10 + 1 (2~11) + Strength modifier Slashing | Githborn Psionic Weapon: When wielded by a githyanki this weapon deals an additional 1d4 Psychic damage. | Pommel Strike: Make a non-lethal attack against an enemy and possibly Daze them. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.)
-
-### Goblinbane Dagger
-- Rarity: Uncommon | Slot: Weapon (Daggers) | Act: unknown
-- Effect: Damage: 1d4 (1~4) + Strength or Dexterity modifier Piercing | Goblin's Undoing: Goblins have Disadvantage on Attack Rolls against the wielder. | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.)
-
-### Mind Sundering Dagger
-- Rarity: Uncommon | Slot: Weapon (Daggers) | Act: unknown
-- Effect: Damage: 1d4 + 1 (2~5) + Strength or Dexterity modifier Piercing | Extra damage: 1d4 (1~4) Psychic | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.)
-
-### Moonblade
-- Rarity: Uncommon | Slot: Weapon (Longswords) | Act: unknown
-- Effect: One-handed damage: 1d8 (1~8) + Strength modifier Slashing | Two-handed damage: 1d10 (1~10) + Strength modifier Slashing | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.) | Pommel Strike: Make a non-lethal attack against an enemy and possibly Daze them. (Recharge: Short rest.) | Melee Attack +1
-
-### Promise
-- Rarity: Uncommon | Slot: Weapon (Daggers) | Act: unknown
-- Effect: Damage: 1d4 + 1 (2~5) + Strength or Dexterity modifier Piercing | Shadow Blade: You have Advantage on Attack Rolls against Lightly or Heavily Obscured targets when using this blade. | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.)
-
-### Sanguine Blade
-- Rarity: Uncommon | Slot: Weapon (Rapiers) | Act: unknown
-- Effect: Damage: 1d8 + 1 (2~9) + Strength or Dexterity modifier Piercing | Scarlet Remittance: Gain a +1 bonus to Attack Rolls, damage, and Spell Save DC for every foe you slay, up to a maximum of +3. | Flourish: Feint an attack to possibly throw your opponent Off Balance. (Recharge: Short rest.) | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.) | Weakening Strike: Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. (Recharge: Short rest.) | Scarlet Regeneration: If you have a +3 bonus from Scarlet Remittance, consume it to recover 3d10 Hit Points (Recharge: Long rest).
-
-### Shadow Battleaxe
-- Rarity: Uncommon | Slot: Weapon (Battleaxes) | Act: unknown
-- Effect: One-handed damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Two-handed damage: 1d10 + 1 (2~11) + Strength modifier Slashing | Extra damage: 1d4 (1~4) Necrotic | Cleave: Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals. (Recharge: Short rest.) | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Maiming Strike: Possibly Maims your target. They can't move. (Recharge: Short rest.) | Bound Weapon
-
-### Singing Sword
-- Rarity: Uncommon | Slot: Weapon (Longswords) | Act: unknown
-- Effect: One-handed damage: 1d8 + 1 (2~9) + Strength modifier Slashing | Two-handed damage: 1d10 + 1 (2~11) + Strength modifier Slashing | Lacerate: Slash at your target's vital points to make it Bleed. (Recharge: Short rest.) | Rush Attack: Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. (Recharge: Short rest.) | Pommel Strike: Make a non-lethal attack against an enemy and possibly Daze them. (Recharge: Short rest.) | Phalar Aluve: Sing | Phalar Aluve: Shriek
-
-### Spiderstep Staff
-- Rarity: Uncommon | Slot: Weapon (Quarterstaves) | Act: unknown
-- Effect: One-handed damage: 1d6 (1~6) + Strength modifier Bludgeoning | Two-handed damage: 1d8 (1~8) + Strength modifier Bludgeoning | Spider Step: Immune to being Enwebbed. Your Movement Speed is not affected by Web surfaces. | Topple: Swipe at a creature to knock it Prone. (Recharge: Short rest.)
-
-### Steadfast Maul
-- Rarity: Uncommon | Slot: Weapon (Mauls) | Act: unknown
-- Effect: Damage: 2d6 + 1 (3~13) + Strength modifier Bludgeoning | Tenacity: When you miss a melee attack, you deal Strength Modifier Bludgeoning damage (minimum of 1) anyway. | Backbreaker: Put extra force behind your strike to possibly knock your enemy Prone. (Recharge: Short rest.) | Concussive Smash: Hit an enemy with all your might to deal damage and possibly Daze them. (Recharge: Short rest.) | Steadfast Strike: Slam into a foe, preventing them (and yourself) from being moved involuntarily. (Recharge: Short rest.)
-
-### Tough Sunrises
-- Rarity: Uncommon | Slot: Weapon (Morningstars) | Act: unknown
-- Effect: Damage: 1d8 + 1 (2~9) + Strength modifier Piercing | Tenacity: When you miss a melee attack, you deal Strength Modifier Bludgeoning damage (minimum of 1) anyway. | Heartstopper: Smash an enemy's chest in and possibly inflict Chest Trauma. (Recharge: Short rest.) | Concussive Smash: Hit an enemy with all your might to deal damage and possibly Daze them. (Recharge: Short rest.) | Dawnburst Strike: Deal additional Radiant damage equal to your proficiency bonus. On a hit, light erupts around you in a 3 m (10 ft) area. Enemies in the light must succeed a Constitution Saving Throw or be Blinded. (Recharge: Short rest.)
-
-### Verminsign
-- Rarity: Uncommon | Slot: Weapon (Rapiers) | Act: unknown
-- Effect: Damage: 1d8 + 1 (2~9) + Strength or Dexterity modifier Piercing | Piercing Strike: Stab an enemy and possibly inflict Gaping Wounds. (Recharge: Short rest.) | Weakening Strike: Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. (Recharge: Short rest.) | Flourish: Feint an attack to possibly throw your opponent Off Balance. (Recharge: Short rest.)
-
-
-## Light Armour (18 items)
+## Light Armour (17 items)
 
 ### Drow Studded Leather Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One
@@ -1495,12 +1383,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks.
 - How to get: Highberry's Home X: 20 Y: -34: Worn by Dolor the assassin
 
-### Torment Drinker Armour
-- Rarity: Rare | Slot: Light Armour (Light) | Act: unknown
-- Effect: AC 13 | Bolstering Critical: When scoring a Critical Hit or killing a hostile creature, wearer gains 15 temporary hit points.
 
-
-## Medium Armour (32 items)
+## Medium Armour (28 items)
 
 ### Adamantine Scale Mail
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act One
@@ -1641,24 +1525,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: AC 16 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Resistance to Fire damage
 - How to get: Forge of the Nine X: 5 Y: -7: Sold by Dammon
 
-### Githyanki Breastplate
-- Rarity: Rare | Slot: Medium Armour (Medium) | Act: unknown
-- Effect: AC 14
 
-### Nightsinger's Half-Plate
-- Rarity: Rare | Slot: Medium Armour (Medium) | Act: unknown
-- Effect: AC 17 | Superior Plate: You take 2 less Piercing damage. | Disadvantage on Stealth checks.
-
-### Ironwood Breastplate
-- Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: unknown
-- Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Advantage on Constitution Saving Throws.
-
-### Robust Chain Shirt
-- Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: unknown
-- Effect: AC 13 | Piercing Counter: When the wearer has 50% hit points or less and is damaged by a melee attack, they deal 1d4 Piercing to the attacker.
-
-
-## Heavy Armour (23 items)
+## Heavy Armour (22 items)
 
 ### Adamantine Splint Armour
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act One
@@ -1769,12 +1637,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: AC 18 | Frightened Immunity: You can't be Frightened | Illithid Protection: If the wearer is infested by a mind flayer tadpole, they gain +1 to Intelligence, Wisdom, and Charisma Saving Throws. | Disadvantage on Stealth checks.
 - How to get: Knights of the Shield Hideout X: -727 Y: 589: in a wardrobe during the quest Visit the Emperor's Old Hideout
 
-### Oathbreaker Knight Armour
-- Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: unknown
-- Effect: AC 19 | Disadvantage on Stealth checks.
 
-
-## Shield (27 items)
+## Shield (26 items)
 
 ### Adamantine Shield
 - Rarity: Rare | Slot: Shield | Act: Act One
@@ -1903,12 +1767,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: AC +2 | Shield: Cast as a level 1 spell (Recharge: Long rest.) | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get: Stormshore Tabernacle X: 796 Y: 1159: Can be found inside the Offerings to Helm Chest in the basement, which can in turn be reached by entering the secret hatch in the corner of the tabernacle
 
-### Enforcer Shield
-- Rarity: Uncommon | Slot: Shield | Act: unknown
-- Effect: AC +2 | Staunch Blessing: When a creature misses the wielder with an attack, they gain a +1d4 bonus to their next Attack Roll that deals non-lethal damage. This bonus is relinquished when the wielder deals lethal damage.
 
-
-## Helmet (56 items)
+## Helmet (52 items)
 
 ### Key of the Ancients
 - Rarity: Story Item | Slot: Helmet | Act: Act One
@@ -2169,24 +2029,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Rarity: Uncommon | Slot: Helmet | Act: Act Three
 - How to get: Carried by Orpheus if he is freed and joins the party during the assault on the Upper City.
 
-### Hat Of Uproarious Laughter
-- Rarity: Rare | Slot: Helmet | Act: unknown
-- Effect: Slippery Slapsticky: When knocked Prone, a hostile creature with an Intelligence of 5 or more within 9 m (30 ft) of user must succeed a Wisdom Saving Throw or become stricken with Laughter.
 
-### Helm of Arcane Gate
-- Rarity: Rare | Slot: Helmet | Act: unknown
-- Effect: Arcane Gate (+): Cast as a level 6 spell (Recharge: Long rest.)
-
-### Tightening Orbit Helm
-- Rarity: Rare | Slot: Helmet | Act: unknown
-- Effect: Tightening Orbit: Spend 1 turn of Force Conduit to pull every enemy in the radius toward you with damaging force. (Recharge: Short rest.) | Constitution Saving Throws +1
-
-### Enforcer Helmet
-- Rarity: Uncommon | Slot: Helmet | Act: unknown
-- Effect: Rejuvenating Takedown: Whenever the wearer knocks a creature unconscious, the wearer regains 1d6 Hit Points. | Constitution Saving Throws +1
-
-
-## Gloves (74 items)
+## Gloves (71 items)
 
 ### Abyss Beckoners
 - Rarity: Very Rare | Slot: Gloves | Act: Act One
@@ -2542,20 +2386,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: Sleight of Hand +2 | Adds a piece of Charcoal to the wearer's inventory with each item they steal. After stealing 20 times, the next theft adds a Coal Bucket instead, which inflicts the Burning condition upon the wearer for Duration: 1 turn.
 - How to get: Circus of the Last Days X: -68 Y: -73: Given as a consolation prize by Akabi after failing to win the jackpot at the Wheel of Fortune
 
-### Vampiric Gloves
-- Rarity: Very Rare | Slot: Gloves | Act: unknown
-- Effect: Vampiric Touch (+): Cast as a level 3 spell (Recharge: Long rest.)
 
-### Deadly Channeller Gloves
-- Rarity: Rare | Slot: Gloves | Act: unknown
-- Effect: Arcane Critical (+): Cast as a level 1 spell at will.
-
-### The Fork-Lightning Fingers
-- Rarity: Rare | Slot: Gloves | Act: unknown
-- Effect: Lightning Bolt (+): Cast as a level 3 spell (Recharge: Long rest.) | Lightning Strikes: Your unarmed attacks deal an additional 1d4 Lightning.
-
-
-## Boots (40 items)
+## Boots (36 items)
 
 ### Disintegrating Night Walkers
 - Rarity: Story Item | Slot: Boots | Act: Act One
@@ -2736,24 +2568,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: Scintillating: You gain a +1 bonus to Charisma Ability Checks and Saving Throws.
 - How to get: Wyrm's Rock Fortress X: -26 Y: 211: Worn by Enver Gortash
 
-### Gargoyle Boots
-- Rarity: Very Rare | Slot: Boots | Act: unknown
-- Effect: Gargoyle's Countenance: Cast as a level 4 spell (Recharge: Short rest.) | Dexterity Saving Throws +2
 
-### Briskwind Boots
-- Rarity: Rare | Slot: Boots | Act: unknown
-- Effect: Critical Swiftness: After scoring a Critical Hit or killing a hostile creature, movement speed is restored to maximum.
-
-### Shadowstep Boots
-- Rarity: Uncommon | Slot: Boots | Act: unknown
-- Effect: Shadow Teleportation: Teleport to an unoccupied, obscured spot. (Recharge: Short rest.)
-
-### Tenacious Boots
-- Rarity: Uncommon | Slot: Boots | Act: unknown
-- Effect: Stand Like Stone: Spend 1 turn of Force Conduit to become a strong bulwark that cannot be moved unwillingly (Recharge: Short rest. | Athletics +1
-
-
-## Cloak (18 items)
+## Cloak (17 items)
 
 ### The Deathstalker Mantle
 - Rarity: Rare | Slot: Cloak | Act: Act One
@@ -2838,11 +2654,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Effect: Dazing Echo: When a creature with Reverberation deals damage to the wearer, the creature needs to make a DC 13 Constitution Saving Throw or become Dazed.
 - How to get: Moonrise Towers X: -128 Y: -193: Sold by Araj Oblodra on the main floor
 
-### Cloak of Avarice
-- Rarity: Rare | Slot: Cloak | Act: unknown
 
-
-## Amulet (60 items)
+## Amulet (55 items)
 
 ### Bloody Amulet
 - Rarity: Story Item | Slot: Amulet | Act: Act One
@@ -3114,28 +2927,8 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Rarity: Uncommon | Slot: Amulet | Act: Act Three
 - How to get: Carried by Zanner Toobin in the Steel Watch Foundry, Lower City
 
-### Dauntless Amulet
-- Rarity: Rare | Slot: Amulet | Act: unknown
-- Effect: Dauntless: You can't be Frightened or afflicted with other emotion-altering conditions. | Intelligence Saving Throws +1
 
-### Kruznabir's Asylum Amulet
-- Rarity: Rare | Slot: Amulet | Act: unknown
-- Effect: Crown of Madness (+): Cast as a level 2 spell (Recharge: Long rest.)
-
-### Synaptic Needle Amulet
-- Rarity: Rare | Slot: Amulet | Act: unknown
-- Effect: Mind Tax: Cleave into a Charmed or Frightened foe's brain tissue and invigorate your body. (Recharge: Short rest.)
-
-### Treacleflow Amulet
-- Rarity: Rare | Slot: Amulet | Act: unknown
-- Effect: Rampart Aura: Costs Force Conduit to remain active. All entities with or in this aura have their movement speed halved.
-
-### Wakeful Amulet
-- Rarity: Uncommon | Slot: Amulet | Act: unknown
-- Effect: Wakefulness: You can't be unwillingly put to Sleep.
-
-
-## Ring (66 items)
+## Ring (63 items)
 
 ### Guiding Light
 - Rarity: Story Item | Slot: Ring | Act: Act One
@@ -3449,18 +3242,6 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Rarity: Common | Slot: Ring | Act: Act Three
 - How to get: Carried by Derryth Bonecloak
 
-### A Sparking Promise
-- Rarity: Rare | Slot: Ring | Act: unknown
-- Effect: Ensnaring Shock: Consume 4 of your Lightning Charges to mark a foe. When the target moves create an electrical blast with Range: 2 m (6.5 ft) radius that deals 1d4 Lightning. (Recharge: Short rest.)
-
-### Hag's Ring
-- Rarity: Uncommon | Slot: Ring | Act: unknown
-- Effect: Vicious Mockery: Cast as a cantrip at will.
-
-### Ring of Crabsight
-- Rarity: Uncommon | Slot: Ring | Act: unknown
-- Effect: Perception +2
-
 
 ## Instrument (7 items)
 
@@ -3493,7 +3274,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - How to get: Chromatic Scale: Can be purchased from Thomas C. Quirkilious
 
 
-## Clothing (30 items)
+## Clothing (29 items)
 
 ### Infernal Robe
 - Rarity: Very Rare | Slot: Clothing | Act: Act One
@@ -3638,10 +3419,6 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 - Rarity: Uncommon | Slot: Clothing | Act: Act Three
 - Effect: AC 10 | Grievous Retribution: When an enemy damages the wearer, the wearer gains Wrath for 2 turns.
 - How to get: Heapside Prison X: -1266 Y: 744: On a table in the south-eastern room
-
-### Robe of Spell Resistance
-- Rarity: Rare | Slot: Clothing | Act: unknown
-- Effect: AC 10 | Saving Throws +2
 
 
 ## Camp Clothing (1 items)

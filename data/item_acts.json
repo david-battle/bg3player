@@ -65,7 +65,8 @@
  },
  "Nightsinger's Half-Plate": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Spurred Band": {
   "acts": [
@@ -90,15 +91,18 @@
  },
  "Verminsign": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Steadfast Maul": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; shares the Shattered Flail's Tenacity mechanic (unfinished/EA-era)."
  },
  "Executioner Sword": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "The Real Sparky Sparkswall": {
   "acts": [
@@ -228,7 +232,8 @@
  },
  "Render of Scrumptious Flesh": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Breaching Pikestaff": {
   "acts": [
@@ -238,7 +243,8 @@
  },
  "Enforcer Helmet": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Unobtainable; appears in Dammon's Act Two treasure table with quantity 0."
  },
  "Springstep Boots": {
   "acts": [
@@ -303,7 +309,8 @@
  },
  "Helm of Arcane Gate": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Speedy Reply": {
   "acts": [
@@ -715,7 +722,8 @@
  },
  "Magical Hand Crossbow": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Lightning Jabber": {
   "acts": [
@@ -770,7 +778,8 @@
  },
  "Blood-Bound Blade": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Harmonium Halberd": {
   "acts": [
@@ -830,7 +839,8 @@
  },
  "Shadow Battleaxe": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Cold Snap": {
   "acts": [
@@ -897,7 +907,8 @@
  },
  "Spiderstep Staff": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Cut content; unused - intended for Minthara's trial."
  },
  "Bonespike Gloves": {
   "acts": [
@@ -907,7 +918,8 @@
  },
  "Planeslayer Flail": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; shares the Shattered Flail's Tenacity mechanic (unfinished/EA-era)."
  },
  "Knife of the Undermountain King": {
   "acts": [
@@ -941,7 +953,8 @@
  },
  "Tough Sunrises": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; shares the Shattered Flail's Tenacity mechanic (unfinished/EA-era)."
  },
  "Sword of Chaos": {
   "acts": [
@@ -991,7 +1004,8 @@
  },
  "Infernal Warhammer": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Scale Mail +1": {
   "acts": [
@@ -1055,7 +1069,8 @@
  },
  "Shadowstep Boots": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Shadow Blade Ring": {
   "acts": [
@@ -1083,15 +1098,18 @@
  },
  "Vampiric Gloves": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Cut content; intended for an unfinished Cazador's Palace area."
  },
  "Vicious Shortsword": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Enforcer Shield": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Unobtainable; appears in Dammon's Act Two treasure table with quantity 0."
  },
  "Till Death Do Us Part": {
   "acts": [
@@ -1179,7 +1197,8 @@
  },
  "Oathbreaker Knight Armour": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Not lootable; the Oathbreaker Knight's armour is a visual override."
  },
  "Ring of Regeneration": {
   "acts": [
@@ -1193,7 +1212,8 @@
  },
  "Rebound Battleaxe": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Haste Helm": {
   "acts": [
@@ -1203,7 +1223,8 @@
  },
  "Deadly Channeller Gloves": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "The Watersparkers": {
   "acts": [
@@ -1261,7 +1282,8 @@
  },
  "Robust Chain Shirt": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Replaced; originally Sergeant Thrinn's reward, substituted with Armour of Uninhibited Kushigo."
  },
  "Sharpened Snare Cuirass": {
   "acts": [
@@ -1320,7 +1342,8 @@
  },
  "Light Crossbow of Speed": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Legacy item from Baldur's Gate 1/2; no documented acquisition in BG3."
  },
  "Spear of Night": {
   "acts": [
@@ -1450,7 +1473,8 @@
  },
  "Githyanki Breastplate": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Firzu's Ring of Trading": {
   "acts": [
@@ -1620,7 +1644,8 @@
  },
  "Promise": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Hr'a'cknir Bracers": {
   "acts": [
@@ -1696,7 +1721,8 @@
  },
  "Goblinbane Dagger": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Everburn Blade": {
   "acts": [
@@ -1706,7 +1732,8 @@
  },
  "Flail of Dread Skulls": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Cut content; appears to be an earlier, unfinished version of the Shattered Flail."
  },
  "Club of Hill Giant Strength": {
   "acts": [
@@ -1752,7 +1779,8 @@
  },
  "Enforcer Club": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Unobtainable; appears in Dammon's Act Two treasure table with quantity 0."
  },
  "Duke Ravengard's Longsword": {
   "acts": [
@@ -1823,7 +1851,8 @@
  },
  "A Sparking Promise": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Surgeon's Subjugation Amulet": {
   "acts": [
@@ -1858,7 +1887,8 @@
  },
  "Moonblade": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Amulet of Bhaal": {
   "acts": [
@@ -1874,7 +1904,8 @@
  },
  "Combination Axe": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Greataxe +2": {
   "acts": [
@@ -2369,7 +2400,8 @@
  },
  "Ironwood Breastplate": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Rapier +1": {
   "acts": [
@@ -2382,11 +2414,13 @@
  },
  "Arduous Flame Blade": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Singing Sword": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Cut content; appears to be an earlier version of Phalar Aluve (grants neither Sing nor Shriek)."
  },
  "Darkfire Shortbow": {
   "acts": [
@@ -2788,7 +2822,8 @@
  },
  "Robe of Spell Resistance": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "The Blood of Lathander": {
   "acts": [
@@ -2798,7 +2833,8 @@
  },
  "Kruznabir's Asylum Amulet": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Sylvan Scimitar": {
   "acts": [
@@ -2855,7 +2891,8 @@
  },
  "Synaptic Needle Amulet": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Gloves of Soul Catching": {
   "acts": [
@@ -2985,7 +3022,8 @@
  },
  "Hag's Ring": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Vicious Shortbow": {
   "acts": [
@@ -3113,7 +3151,8 @@
  },
  "Briskwind Boots": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Necklace of Elemental Augmentation": {
   "acts": [
@@ -3205,7 +3244,8 @@
  },
  "Tenacious Boots": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Light Crossbow +1": {
   "acts": [
@@ -3221,7 +3261,8 @@
  },
  "Wakeful Amulet": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Derivation Cloak": {
   "acts": [
@@ -3237,7 +3278,8 @@
  },
  "Allandra's Whelm": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Charge-Bound Warhammer": {
   "acts": [
@@ -3363,7 +3405,8 @@
  },
  "Cloak of Avarice": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Flawed Helldusk Helmet": {
   "acts": [
@@ -3472,7 +3515,8 @@
  },
  "Mind Sundering Dagger": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Spellthief": {
   "acts": [
@@ -3548,7 +3592,8 @@
  },
  "Hat Of Uproarious Laughter": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Trident +2": {
   "acts": [
@@ -3593,7 +3638,8 @@
  },
  "Torment Drinker Armour": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Elegant Studded Leather": {
   "acts": [
@@ -3628,7 +3674,8 @@
  },
  "Sanguine Blade": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Fetish of Callarduran Smoothhands": {
   "acts": [
@@ -3858,7 +3905,8 @@
  },
  "Ring of Crabsight": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "Cut content; intended for an unfinished/cut quest."
  },
  "Emblazoned Plate of the Marshal": {
   "acts": [
@@ -3886,7 +3934,8 @@
  },
  "Gargoyle Boots": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Silver Sword of the Astral Plane": {
   "acts": [
@@ -3971,11 +4020,13 @@
  },
  "Infernal Longsword": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Githyanki Longsword (Psionic)": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Poisoner's Ring": {
   "acts": [
@@ -4006,7 +4057,8 @@
  },
  "Treacleflow Amulet": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Exterminator's Axe": {
   "acts": [
@@ -4149,7 +4201,8 @@
  },
  "Dauntless Amulet": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Scarab of Protection": {
   "acts": [
@@ -4326,7 +4379,8 @@
  },
  "The Fork-Lightning Fingers": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Spell Savant Amulet": {
   "acts": [
@@ -4431,7 +4485,8 @@
  },
  "The Clover": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; appears to be an unfinished variant sharing the Knife of the Undermountain King's Organ Rearranger passive."
  },
  "Spidersilk Armour": {
   "acts": [
@@ -4447,7 +4502,8 @@
  },
  "Tightening Orbit Helm": {
   "acts": [],
-  "source": "unknown"
+  "source": "excluded",
+  "note": "No documented acquisition; not found in the current game."
  },
  "Frost Prince": {
   "acts": [

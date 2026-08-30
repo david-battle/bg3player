@@ -32,7 +32,7 @@ master JSON. This is a plan document, not a spec; adjust fields while building.
 
 ## Current state
 
-- Shipped: magic equipment KB — `knowledge_base/magic_items_*.md` (739 items,
+- Shipped: magic equipment KB — `knowledge_base/magic_items_*.md` (683 items,
   by-slot browse + per-act detail + merchant stock + undocumented), master in
   `data/items.json`, pipeline in `scripts/*.py`. Pushed to
   `github.com/david-battle/bg3player` (main).

@@ -110,8 +110,8 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 ## Validation
 
 - Full pipeline re-run clean end-to-end (cached, no network needed).
-- Equipment counts consistent: 225 / 162 / 201 act-file entries; 739 items in
-  master; 18 excluded; 56 documented as "acquisition not documented".
+- Equipment counts consistent: 225 / 162 / 201 act-file entries; 683 items in
+  master; 74 excluded; 0 documented as "acquisition not documented".
 - Consumable counts: 305 items in master (39 potions + 44 elixirs + 137 scrolls
   + 28 arrows + 21 coatings + 36 grenades; Elixir of Universal Resistance is
   dual-categorized, counted once). 116 have act(s) from vendor/location
@@ -154,9 +154,11 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   `data/raw_html_ref/` (reference), `data/items_raw/` and
   `data/consumables_raw/` are gitignored regenerable caches. The cache trees
   are kept separate so the pipelines never cross-contaminate.
-- 56 equipment items are listed as "acquisition not documented" (bg3.wiki
-  lacks the info); the user — an experienced player — may want to fill these in
-  by hand. 29 alchemy ingredients have no documented vendor (world-loot only).
+- The former 56 "acquisition not documented" equipment items were reviewed with
+  the user (an experienced player, who recognized none of them) and moved to
+  `EXCLUDED` in `classify_missing.py` as not obtainable in the current game;
+  bg3.wiki's own notes flag 14 of them as cut/unfinished/replaced content. 29
+  alchemy ingredients still have no documented vendor (world-loot only).
 - Consumable acts derive from vendor/location text; many consumables are
   genuinely sold throughout the game, hence "Act: unknown".
 - Not covered: dyes, toolkits, quest items, barrels, food items individually.
@@ -165,8 +167,6 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. Commit the Phase 3 work; the user then runs their `push` script.
-2. Optionally fill in acts/acquisition for the 56 undocumented items
-   (`classify_missing.py` `OVERRIDES`).
-3. Phase 4 (merchant catalog, quest index) only if the source lists prove
+1. Commit this work; the user then runs their `push` script.
+2. Phase 4 (merchant catalog, quest index) only if the source lists prove
    insufficient.

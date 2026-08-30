@@ -1,53 +1,5 @@
 [
   {
-    "name": "A Sparking Promise",
-    "title": "A Sparking Promise",
-    "url": "https://bg3.wiki/wiki/A_Sparking_Promise",
-    "rarity": "Rare",
-    "slot": "Ring",
-    "subtype": null,
-    "description": "A Sparking Promise is a rare Ring. It grants a cantrip which can electrify surfaces the target walks on.",
-    "quote": "A year into their union, Lenore, cleric of Mystra, gifted the gnome inventor Yrre an invention of her own devising - a ring that held a spell of sparks. Eventually, the touch of Lenore's hand faded to a glinting memory, but the ring's tingling grip remained resolute.",
-    "properties": [
-      [
-        "Ensnaring Shock",
-        "Consume 4 of your Lightning Charges to mark a foe. When the target moves create an electrical blast with Range: 2 m (6.5 ft) radius that deals 1d4Lightning. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Rings"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.05 kg (0.1 lb)"
-      ],
-      [
-        "Price",
-        "190 gp / 580 gpHHonour"
-      ],
-      [
-        "Details",
-        "UID\nMAG_ChargedLightning_EnsnaringShock_Ring\nUUID\n5c8235c3-1aad-4b6d-bd0c-9753c77da5d2\nStats\nMAG_ChargedLightning_EnsnaringShock_Ring"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Rings",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Abdel's Trusted Shield",
     "title": "Abdel's Trusted Shield",
     "url": "https://bg3.wiki/wiki/Abdel%27s_Trusted_Shield",
@@ -1231,71 +1183,6 @@
     ]
   },
   {
-    "name": "Allandra's Whelm",
-    "title": "Allandra's Whelm",
-    "url": "https://bg3.wiki/wiki/Allandra%27s_Whelm",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Tridents",
-    "description": "Allandra's Whelm is a rare, moderately enchanted (+2) variant of the Tridents family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage. Its design lends itself well to be thrown at enemies as a projectile.",
-    "quote": "When Allandra was a girl, she saw a hot spall of matter fire through the sky. She wished upon this falling star, but instead of getting an answer from the sky, she got one from the sea in the voice of Umberlee, goddess of the endless fathom.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d6 + 2 (3~8) + Strength modifier Piercing"
-      ],
-      [
-        "Two-handed damage",
-        "1d8 + 2 (3~10) + Strength modifier Piercing"
-      ],
-      [
-        "Extra damage",
-        "1d4 (1~4) Cold"
-      ],
-      [
-        "Details",
-        "Tridents"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ],
-      [
-        "Maiming Strike",
-        "Possibly Maims your target. They can't move. ( Recharge: Short rest.)"
-      ],
-      [
-        "Frigid Blade",
-        "You add your Proficiency Bonus as Cold Damage. \nWhen the attack hits, apply Frostbitten. The creature takes 1d4Cold damage when making a weapon attack. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [
-      "The spell applies Frostbitten, but the tooltip appears to invoke Frostbite."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Weapon_pages_with_galleries",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Tridents",
-      "Rare_items",
-      "Cold_Damage"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Ambusher",
     "title": "Ambusher",
     "url": "https://bg3.wiki/wiki/Ambusher",
@@ -2303,62 +2190,6 @@
       "Act Two"
     ],
     "act_source": "location",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Arduous Flame Blade",
-    "title": "Arduous Flame Blade",
-    "url": "https://bg3.wiki/wiki/Arduous_Flame_Blade",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Longswords",
-    "description": "Arduous Flame Blade is a rare, lightly enchanted (+1) variant of the Longswords family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "The extent of cultural idolatry amongst members of the Flaming Fist is anyone's guess, but fascination with fire is plain and unambiguously obsessive.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 (1~8) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 (1~10) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Longswords"
-      ],
-      [
-        "Pommel Strike",
-        "Make a non-lethal attack against an enemy and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Flaming Blade",
-        "Immolate your blade like a phoenix wing and strike a foe with its blazing steel. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Longswords",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
     "act_note": null,
     "list_rows": []
   },
@@ -4658,75 +4489,6 @@
     ]
   },
   {
-    "name": "Blood-Bound Blade",
-    "title": "Blood-Bound Blade",
-    "url": "https://bg3.wiki/wiki/Blood-Bound_Blade",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Longswords",
-    "description": "Blood-Bound Blade is a rare, lightly enchanted (+1) special variant of the Longswords family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "This weapon was wielded by the lionlike eldritch knight Cypress of the Starfeller clan, who took on challenges of the heart and mind with palpable brilliance, and fought with a skill and heated intensity that was almost solar.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 1 (2~11) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Longswords"
-      ],
-      [
-        "Favoured Weapon",
-        "This weapon has a +1 bonus to damage and Attack Rolls."
-      ],
-      [
-        "Synchronicity",
-        "This weapon deals additional damage equal to your Proficiency Bonus."
-      ],
-      [
-        "Pommel Strike",
-        "Make a non-lethal attack against an enemy and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "This blade's magical powers only function if it is bound to an Eldritch Knight or is a Warlock's Pact Weapon."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This weapon gains the condition Arcanely Honed if it's the target of Weapon Bond or Bind Pact Weapon."
-    ],
-    "bugs": [
-      "If this weapon is bound by an Eldritch Knight or Pact of the Blade Warlock, the weapon will retain its Favoured Weapon passive until the next long rest, as well as the bonus damage from Synchronicity, even if the character binds another weapon. The weapon will even retain this passive if the weapon is used by another character, different from the one who bound it."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Longswords",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Blooded Greataxe",
     "title": "Blooded Greataxe",
     "url": "https://bg3.wiki/wiki/Blooded_Greataxe",
@@ -7013,54 +6775,6 @@
     "list_rows": []
   },
   {
-    "name": "Briskwind Boots",
-    "title": "Briskwind Boots",
-    "url": "https://bg3.wiki/wiki/Briskwind_Boots",
-    "rarity": "Rare",
-    "slot": "Boots",
-    "subtype": null,
-    "description": "The Briskwind Boots is a rare pair of Boots that allows the wearer to regain all movement speed upon landing a critical hit or killing a hostile creature.",
-    "quote": "The wind seems to lap encouragingly at the heels of these boots, no matter which direction they take.",
-    "properties": [
-      [
-        "Critical Swiftness",
-        "After scoring a Critical Hit or killing a hostile creature, movement speed is restored to maximum."
-      ],
-      [
-        "Details",
-        "Boots"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.55 kg (1.1 lb)"
-      ],
-      [
-        "Price",
-        "190 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Critical_CriticalSwiftness_Boots\nUUID\n93cc1480-9fe1-4e76-8c0b-0ad3caf35285\nStats\nMAG_Critical_CriticalSwiftness_Boots"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Boots",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Broodmother's Revenge",
     "title": "Broodmother's Revenge",
     "url": "https://bg3.wiki/wiki/Broodmother%27s_Revenge",
@@ -9216,50 +8930,6 @@
     ]
   },
   {
-    "name": "Cloak of Avarice",
-    "title": "Cloak of Avarice",
-    "url": "https://bg3.wiki/wiki/Cloak_of_Avarice",
-    "rarity": "Rare",
-    "slot": "Cloak",
-    "subtype": null,
-    "description": "The Cloak of Avarice is a rare cloak.",
-    "quote": "For one to wear this heavy cloak woven of errant, unused gold, one's pockets must hang even heavier still.",
-    "properties": [
-      [
-        "Details",
-        "Cloaks"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.5 kg (1 lb)"
-      ],
-      [
-        "Price",
-        "160 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Toll_Collector_Cloak\nUUID\nc7774285-21b3-44fc-bae0-0b893a6a3549\nStats\nMAG_Toll_Collector_Cloak"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Cloaks",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Cloak of Cunning Brume",
     "title": "Cloak of Cunning Brume",
     "url": "https://bg3.wiki/wiki/Cloak_of_Cunning_Brume",
@@ -10123,68 +9793,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Combination Axe",
-    "title": "Combination Axe",
-    "url": "https://bg3.wiki/wiki/Combination_Axe",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Battleaxes",
-    "description": "Combination Axe is a rare, lightly enchanted (+1) variant of the Battleaxes family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "The intricate engravings on this axe's blade and handle make plain the skill of its smith.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 1 (2~11) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Battleaxes"
-      ],
-      [
-        "Critical Virtuoso",
-        "When you score a Critical Hit you can spend a Bonus Action to make an additional attack."
-      ],
-      [
-        "Cleave",
-        "Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Maiming Strike",
-        "Possibly Maims your target. They can't move. ( Recharge: Short rest.)"
-      ],
-      [
-        "Press the Advantage",
-        "After scoring a critical hit, use your Bonus Action to make an additional attack."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This weapon action requires and consumes the Critical Hit! condition which is applied for 1 turn by landing a critical hit with the Combination Axe."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Battleaxes",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Comeback Handaxe",
@@ -12440,109 +12048,6 @@
     "list_rows": []
   },
   {
-    "name": "Dauntless Amulet",
-    "title": "Dauntless Amulet",
-    "url": "https://bg3.wiki/wiki/Dauntless_Amulet",
-    "rarity": "Rare",
-    "slot": "Amulet",
-    "subtype": null,
-    "description": "Dauntless Amulet is a rare Amulet that prevents the wearer from being Frightened.",
-    "quote": "Flowing through your chest, threads of whiskey-like warmth - they spread and spread, and who could lay you low, you champion in hopeful hours?",
-    "properties": [
-      [
-        "Dauntless",
-        "You can't be Frightened or afflicted with other emotion-altering conditions."
-      ],
-      [
-        "Details",
-        "Amulets"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.05 kg (0.1 lb)"
-      ],
-      [
-        "Price",
-        "125 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_LC_Cyric_FearImmunity_Amulet\nUUID\na67c7aa5-7b3f-4222-a655-6e4217d3b8e6"
-      ],
-      [
-        "Details",
-        "Intelligence Saving Throws +1"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "Dauntless prevents any condition in the Frightened or Fleeing status groups, as well as Hideous Laughter."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Amulets",
-      "Rare_items",
-      "Misc_pages_without_images"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Deadly Channeller Gloves",
-    "title": "Deadly Channeller Gloves",
-    "url": "https://bg3.wiki/wiki/Deadly_Channeller_Gloves",
-    "rarity": "Rare",
-    "slot": "Gloves",
-    "subtype": null,
-    "description": "Deadly Channeller Gloves are a rare pair of Gloves that temporarily lower the user's critical hit threshold.",
-    "quote": "A message stitched in gold lettering on the inside of the right-hand glove implies these were a birthday present.",
-    "properties": [
-      [
-        "Arcane Critical ( + )",
-        "Cast as a level 1 spell at will."
-      ],
-      [
-        "Details",
-        "Gloves"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.5 kg (1 lb)"
-      ],
-      [
-        "Price",
-        "240 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Critical_ArcanicCritical_Gloves\nUUID\ne07fb5cb-4276-4ecd-8758-7bb9b172372b"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Gloves",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Debtor's Attire",
     "title": "Debtor's Attire",
     "url": "https://bg3.wiki/wiki/Debtor%27s_Attire",
@@ -14477,179 +13982,6 @@
     ]
   },
   {
-    "name": "Enforcer Club",
-    "title": "Enforcer Club",
-    "url": "https://bg3.wiki/wiki/Enforcer_Club",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Clubs",
-    "description": "Enforcer Club is an uncommon, lightly enchanted (+1) variant of the Clubs family of weapons. It is a simple melee weapon wielded in one hand. It is a light weapon that anyone can dual-wield without special training.",
-    "quote": "Sometimes the blunt application of fear (and, admittedly, some winging elbows) is the difference between continued chaos and the re-establishment of order.",
-    "properties": [
-      [
-        "Damage",
-        "1d4 + 1 (2~5) + Strength modifier Bludgeoning"
-      ],
-      [
-        "Details",
-        "Clubs"
-      ],
-      [
-        "Non-Lethality",
-        "This weapon deals only Non-Lethal Damage."
-      ],
-      [
-        "Concussive Smash",
-        "Hit an enemy with all your might to deal damage and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Weakening Strike",
-        "Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. ( Recharge: Short rest.)"
-      ],
-      [
-        "Backbreaker",
-        "Put extra force behind your strike to possibly knock your enemy Prone. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This item appears in Dammon's Act 2 treasure table, but with a quantity of 0"
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Pages_with_an_explicit_charlink_alias",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Simple_weapons",
-      "Clubs",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Enforcer Helmet",
-    "title": "Enforcer Helmet",
-    "url": "https://bg3.wiki/wiki/Enforcer_Helmet",
-    "rarity": "Uncommon",
-    "slot": "Helmet",
-    "subtype": null,
-    "description": "Enforcer Helm is an uncommon Helmet that heals the wearer when knocking out creatures.",
-    "quote": "The brutish thuggery of the Enforcer's position is summarised in this helmet's design.",
-    "properties": [
-      [
-        "Rejuvenating Takedown",
-        "Whenever the wearer knocks a creature unconscious, the wearer regains 1d6Hit Points."
-      ],
-      [
-        "Details",
-        "Helmets"
-      ],
-      [
-        "Required Proficiency",
-        "Medium Armour"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "1 kg (2 lb)"
-      ],
-      [
-        "Price",
-        "115 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Enforcer_RejunevatingKnock_Helmet\nUUID\ne9d1d363-5ebc-41ef-bb87-0db20780765d\nStats\nMAG_Enforcer_RejunevatingKnock_Helmet"
-      ],
-      [
-        "Details",
-        "Constitution Saving Throws +1"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This item appears in Dammon's Act Two treasure table, but with a quantity of 0"
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Pages_with_an_explicit_charlink_alias",
-      "Helmets",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Enforcer Shield",
-    "title": "Enforcer Shield",
-    "url": "https://bg3.wiki/wiki/Enforcer_Shield",
-    "rarity": "Uncommon",
-    "slot": "Shield",
-    "subtype": null,
-    "description": "Enforcer Shield is an uncommon Shield.",
-    "quote": "The shield is so battered, its metallic portions have the look of a creased grey shirt. However, underneath those folds of steel, scintillas of arcane light glimmer, echoing the hidden power of the Enforcers.",
-    "properties": [
-      [
-        "Armour class",
-        "+2"
-      ],
-      [
-        "Staunch Blessing",
-        "When a creature misses the wielder with an attack, they gain a +1d4 bonus to their next Attack Roll that deals non-lethal damage.\nThis bonus is relinquished when the wielder deals lethal damage."
-      ],
-      [
-        "Details",
-        "Shields"
-      ],
-      [
-        "Required Proficiency",
-        "Shields"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "2.7 kg (5.4 lb)"
-      ],
-      [
-        "Price",
-        "70 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Enforcer_NonLethalBlessing_Shield\nUUID\n35be7c52-fe89-4bec-9d15-0d7ddb94bf38"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This item appears in Dammon's Act 2 treasure table, but with a quantity of 0"
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Pages_with_an_explicit_charlink_alias",
-      "Shields",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Enraging Heart Garb",
     "title": "Enraging Heart Garb",
     "url": "https://bg3.wiki/wiki/Enraging_Heart_Garb",
@@ -15011,57 +14343,6 @@
       "Act Two"
     ],
     "act_source": "location",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Executioner Sword",
-    "title": "Executioner Sword",
-    "url": "https://bg3.wiki/wiki/Executioner_Sword",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Shortswords",
-    "description": "Executioner Sword is a rare, lightly enchanted (+1) variant of the Shortswords family of weapons. It is a martial melee weapon wielded in one hand. As a finesse weapon, it can benefit from the wielder's Dexterity and not just their Strength. It is a light weapon that anyone can dual-wield without special training.",
-    "quote": "Once there was a man who dreamed of unlocking every bit of his potential. It upset him when he couldn't; after all who can? When his daughter was born, she taught him about real dreams. She taught him with her eyes.",
-    "properties": [
-      [
-        "Damage",
-        "1d6 + 1 (2~7) + Strength or Dexterity modifier Piercing"
-      ],
-      [
-        "Details",
-        "Shortswords"
-      ],
-      [
-        "Liberated Spellcasting",
-        "When you kill a creature, you can cast a Level 1 spell without expending a spell slot."
-      ],
-      [
-        "Flourish",
-        "Feint an attack to possibly throw your opponent Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "Level 1 spells can be upcasted without expending a higher level spell slot, even if the caster has no spell slots remaining for that level."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Weapon_pages_with_galleries",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Shortswords",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
     "act_note": null,
     "list_rows": []
   },
@@ -16101,65 +15382,6 @@
     ]
   },
   {
-    "name": "Flail of Dread Skulls",
-    "title": "Flail of Dread Skulls",
-    "url": "https://bg3.wiki/wiki/Flail_of_Dread_Skulls",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Flails",
-    "description": "Flail of Dread Skulls is a rare, lightly enchanted (+1) variant of the Flails family of weapons. It is a martial melee weapon wielded in one hand.",
-    "quote": "Target must succeed a Wisdom Saving Throw. On failure, they are struck by Yeenoghu's curse. Depending on a dice roll, they will receive one of the following: Madness, 2d6 Psychic damage, or become Paralysed.",
-    "properties": [
-      [
-        "Damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Flails"
-      ],
-      [
-        "Tenacity",
-        "When you miss a melee attack, you deal Strength ModifierBludgeoning damage (minimum of 1) anyway."
-      ],
-      [
-        "Concussive Smash",
-        "Hit an enemy with all your might to deal damage and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Weakening Strike",
-        "Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This weapon looks to be an earlier version of the Shattered Flail",
-      "This weapon also looks to be unfinished.\nThe in-game quote is more like a description which is higly unusual.",
-      "The quote says it may deal Psychic damage or Paralyse. This is false it can only apply madness.",
-      "The Psychic damage is also not shown in the tooltip outside of the quote.",
-      "The calculation for the saving throw shown in the tooltip may be wrong, but always results in 13.\nIt may for example say 8 + 3 + 3 = 13 and state modifiers for other abilities than wisdom.",
-      "If a weapon action misses, using Tenacity does not trigger its effects.",
-      "As Tenacity deals weapon damage even if an attack misses, it can trigger many on-hit effects from equipment. For example, from the Gloves of Power, the Callous Glow Ring, weapon coatings, or any infusion from the Ring of Elemental Infusion."
-    ],
-    "bugs": [
-      "As Horde Breaker (Melee) rolls invisible, zero-damage weapon attacks against all enemies in the Horde Breaker area of effect, Tenacity can be prompted to trigger against them even if the first attack hits. It is therefore possible to score 2 hits in one attack: the full attack against the original Horde Breaker target and a Tenacity hit against another target."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Flails",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Flame Enamelled Armour",
     "title": "Flame Enamelled Armour",
     "url": "https://bg3.wiki/wiki/Flame_Enamelled_Armour",
@@ -16983,58 +16205,6 @@
     ]
   },
   {
-    "name": "Gargoyle Boots",
-    "title": "Gargoyle Boots",
-    "url": "https://bg3.wiki/wiki/Gargoyle_Boots",
-    "rarity": "Very Rare",
-    "slot": "Boots",
-    "subtype": null,
-    "description": "Gargoyle Boots are a very rare pair of Boots that lets the wearer cast Gargoyle's Countenance, granting them resistance to Bludgeoning, Slashing and Piercing damage.",
-    "quote": "These boots are heavy and slow to step in - perhaps due to the gargoyle spirit reportedly trapped within. While that legend's truth is debatable, the protection these boots offer against toe-stubbing is not.",
-    "properties": [
-      [
-        "Gargoyle's Countenance",
-        "Cast as a level 4 spell ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Boots"
-      ],
-      [
-        "Rarity",
-        "Very rare"
-      ],
-      [
-        "Weight",
-        "0.55 kg (1.1 lb)"
-      ],
-      [
-        "Price",
-        "640 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_BG_Gargoyle_Boots\nUUID\nb22318a2-5c8d-4886-b181-6602f3e4e535\nStats\nMAG_BG_Gargoyle_Boots"
-      ],
-      [
-        "Details",
-        "Dexterity Saving Throws +2"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Boots",
-      "Very_rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Gauntlet of the Tyrant",
     "title": "Gauntlet of the Tyrant",
     "url": "https://bg3.wiki/wiki/Gauntlet_of_the_Tyrant",
@@ -17588,59 +16758,6 @@
     ]
   },
   {
-    "name": "Githyanki Breastplate",
-    "title": "Githyanki Breastplate",
-    "url": "https://bg3.wiki/wiki/Githyanki_Breastplate",
-    "rarity": "Rare",
-    "slot": "Medium Armour",
-    "subtype": "Medium",
-    "description": "Githyanki Breastplate is a rare Medium Armour",
-    "quote": "Githyanki actually do have a comedy culture, and it's this: they attack anyone who makes them the butt of a joke.",
-    "properties": [
-      [
-        "Armour class",
-        "14"
-      ],
-      [
-        "Details",
-        "Medium Armour"
-      ],
-      [
-        "Required Proficiency",
-        "Medium Armour"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "9 kg (18 lb)"
-      ],
-      [
-        "Price",
-        "100 gp"
-      ],
-      [
-        "Details",
-        "UID\nARM_Breastplate_Githyanki\nUUID\n203f10e9-10d7-4252-ba73-4e726d552ae6\nStats\nARM_Breastplate_Body"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Medium_Armour",
-      "Rare_items",
-      "Equipment_pages_with_galleries"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Githyanki Crossbow",
     "title": "Githyanki Crossbow",
     "url": "https://bg3.wiki/wiki/Githyanki_Crossbow",
@@ -17874,64 +16991,6 @@
       "Act One"
     ],
     "act_source": "location",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Githyanki Longsword (Psionic)",
-    "title": "Githyanki Longsword (Psionic)",
-    "url": "https://bg3.wiki/wiki/Githyanki_Longsword_%28Psionic%29",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Longswords",
-    "description": "Githyanki Longsword (Psionic) is an uncommon, lightly enchanted (+1) variant of the Longswords family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "Every tip and edge on this elaborate sword is sharpened to a deadly perfection.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 1 (2~11) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Longswords"
-      ],
-      [
-        "Githborn Psionic Weapon",
-        "When wielded by a githyanki this weapon deals an additional 1d4Psychic damage."
-      ],
-      [
-        "Pommel Strike",
-        "Make a non-lethal attack against an enemy and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "The githyanki-exclusive bonuses from Githborn Psionic Weapon can also be enabled by being disguised as one. However, the wielder must be disguised before equipping the weapon for this to work."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Longswords",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
     "act_note": null,
     "list_rows": []
   },
@@ -19685,52 +18744,6 @@
     ]
   },
   {
-    "name": "Goblinbane Dagger",
-    "title": "Goblinbane Dagger",
-    "url": "https://bg3.wiki/wiki/Goblinbane_Dagger",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Daggers",
-    "description": "Goblinbane Dagger is an uncommon dagger that grants the wielder defensive capabilities against Goblins. Any goblin attacking the wielder of Goblinbane suffers from Disadvantage on its Attack Rolls.",
-    "quote": "\u2018No goblin will strike you down\u2019 is etched into this dagger's handle. When goblin assailants realised they couldn't kill the dagger's original owner, they gave him to the worgs, who made short work of him.",
-    "properties": [
-      [
-        "Damage",
-        "1d4 (1~4) + Strength or Dexterity modifier Piercing"
-      ],
-      [
-        "Details",
-        "Daggers"
-      ],
-      [
-        "Goblin's Undoing",
-        "Goblins have Disadvantage on Attack Rolls against the wielder."
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This dagger is identical to Worgfang except for its name."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Simple_weapons",
-      "Daggers",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Gold Wyrmling Staff",
     "title": "Gold Wyrmling Staff",
     "url": "https://bg3.wiki/wiki/Gold_Wyrmling_Staff",
@@ -20387,50 +19400,6 @@
       "Act Three"
     ],
     "act_source": "location",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Hag's Ring",
-    "title": "Hag's Ring",
-    "url": "https://bg3.wiki/wiki/Hag%27s_Ring",
-    "rarity": "Uncommon",
-    "slot": "Ring",
-    "subtype": null,
-    "description": "Hag's Ring is an uncommon Ring that grants the wearer access to Vicious Mockery",
-    "quote": "Grimy, discoloured, and revoltingly ugly. Auntie Ethel must have made it herself. Surprisingly, you feel no disgust. Instead it fills you with a longing, as if it's calling out for its like.",
-    "properties": [
-      [
-        "Vicious Mockery",
-        "Cast as a cantrip at will."
-      ],
-      [
-        "Details",
-        "Rings"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        ".05 kg (0.1 lb)"
-      ],
-      [
-        "Details",
-        "UID\nHAG_HagsRing\nUUID\n139a436b-120a-413e-a36e-c0e2c970439c"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Rings",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
     "act_note": null,
     "list_rows": []
   },
@@ -21550,54 +20519,6 @@
         "act": "Act One"
       }
     ]
-  },
-  {
-    "name": "Hat Of Uproarious Laughter",
-    "title": "Hat Of Uproarious Laughter",
-    "url": "https://bg3.wiki/wiki/Hat_Of_Uproarious_Laughter",
-    "rarity": "Rare",
-    "slot": "Helmet",
-    "subtype": null,
-    "description": "Hat Of Uproarious Laughter is a rare hat that tries to make targetted creatures fall on the floor laughting.",
-    "quote": "The insides of this hat have clasps, not for gloves or cards, but rather for a portable custard pie gag.",
-    "properties": [
-      [
-        "Slippery Slapsticky",
-        "When knocked Prone, a hostile creature with an Intelligence of 5 or more within 9 m (30 ft) of user must succeed a Wisdom Saving Throw or become stricken with Laughter."
-      ],
-      [
-        "Details",
-        "Helmets"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.5 kg (1 lb)"
-      ],
-      [
-        "Price",
-        "35 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Hat_Circushat\nUUID\n42aa49c5-8ad2-4c2d-bb60-16016fa53205\nStats\nMAG_Hat_Circushat"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Helmets",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Hat of Fire Acuity",
@@ -22844,54 +21765,6 @@
         "act": "Act One"
       }
     ]
-  },
-  {
-    "name": "Helm of Arcane Gate",
-    "title": "Helm of Arcane Gate",
-    "url": "https://bg3.wiki/wiki/Helm_of_Arcane_Gate",
-    "rarity": "Rare",
-    "slot": "Helmet",
-    "subtype": null,
-    "description": "The Helm of Arcane Gate is a rare Helmet that allows the wearer to cast Arcane Gate.",
-    "quote": "The skullcap inside the helm is embroidered with the likeness of a pair of gorgeous gateways, tethered by a cord of light.",
-    "properties": [
-      [
-        "Arcane Gate ( + )",
-        "Cast as a level 6 spell ( Recharge: Long rest.)"
-      ],
-      [
-        "Details",
-        "Helmets"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.55 kg (1.1 lb)"
-      ],
-      [
-        "Price",
-        "95 gp"
-      ],
-      [
-        "Details",
-        "UID\nUNI_ARM_OfTeleportation_Helm\nUUID\nfef0dda1-1d06-45b5-a302-a31e545b8ede\nStats\nUNI_ARM_OfTeleportation_Helm"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Helmets",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Helm of Balduran",
@@ -24338,65 +23211,6 @@
     ]
   },
   {
-    "name": "Infernal Longsword",
-    "title": "Infernal Longsword",
-    "url": "https://bg3.wiki/wiki/Infernal_Longsword",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Longswords",
-    "description": "Infernal Longsword is a rare, lightly enchanted (+1) variant of the Longswords family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "Precise infernal runes are woven into this weapon's filigree, implying a creator well-versed in hellish arcana.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 1 (2~11) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Longswords"
-      ],
-      [
-        "Infernal Weapon",
-        "On a hit, this weapon deals an additional 3Poison damage and can possibly Poison its target."
-      ],
-      [
-        "Pommel Strike",
-        "Make a non-lethal attack against an enemy and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [
-      "The roll for the Poisoned saving throw is not shown in the combat log for either a successful or failed save. Because it has a low DC 12 Constitution Saving Throw, this can give the impression that the poison effect does not work at all."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Longswords",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Infernal Mace",
     "title": "Infernal Mace",
     "url": "https://bg3.wiki/wiki/Infernal_Mace",
@@ -24848,65 +23662,6 @@
     ]
   },
   {
-    "name": "Infernal Warhammer",
-    "title": "Infernal Warhammer",
-    "url": "https://bg3.wiki/wiki/Infernal_Warhammer",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Warhammers",
-    "description": "Infernal Warhammer is a rare +1 Warhammer that deals an additional 3 Poison Damage on hit and has a chance to Poison targets it strikes.",
-    "quote": "Precise infernal runes are woven into this weapon's filigree, implying a creator well-versed in hellish arcana.",
-    "properties": [
-      [
-        "Damage",
-        "1d8 + 1 (2~9) + Strength modifier Bludgeoning"
-      ],
-      [
-        "Extra damage",
-        "3 Poison"
-      ],
-      [
-        "Details",
-        "Warhammers"
-      ],
-      [
-        "Infernal Weapon",
-        "On a hit, this weapon deals an additional 3Poison damage and can possibly Poison its target."
-      ],
-      [
-        "Backbreaker",
-        "Put extra force behind your strike to possibly knock your enemy Prone. ( Recharge: Short rest.)"
-      ],
-      [
-        "Concussive Smash",
-        "Hit an enemy with all your might to deal damage and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Weakening Strike",
-        "Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [
-      "The roll for the Poisoned saving throw is not shown in the combat log for either a successful or failed save. Because it has a low DC 12 Constitution Saving Throw, this can give the impression that the poison effect does not work at all."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Warhammers",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Intransigent Warhammer",
     "title": "Intransigent Warhammer",
     "url": "https://bg3.wiki/wiki/Intransigent_Warhammer",
@@ -25243,67 +23998,6 @@
         "act": "Act Two"
       }
     ]
-  },
-  {
-    "name": "Ironwood Breastplate",
-    "title": "Ironwood Breastplate",
-    "url": "https://bg3.wiki/wiki/Ironwood_Breastplate",
-    "rarity": "Uncommon",
-    "slot": "Medium Armour",
-    "subtype": "Medium",
-    "description": "Ironwood Breastplate is an uncommon Medium Armour that reduces Slashing damage by 1.",
-    "quote": "This armour's material has the coarse texture of a bramble patch, and the fragrance of a rose garden in springtime.",
-    "properties": [
-      [
-        "Armour class",
-        "15"
-      ],
-      [
-        "Superior Material",
-        "You take 1 less Slashing damage."
-      ],
-      [
-        "Details",
-        "Medium Armour"
-      ],
-      [
-        "Required Proficiency",
-        "Medium Armour"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "9 kg (18 lb)"
-      ],
-      [
-        "Price",
-        "200 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Druid_Ironwood_Armor\nUUID\ne17c0a45-e064-4a9f-8bcb-ba273440008d"
-      ],
-      [
-        "Details",
-        "Advantage on Constitution Saving Throws."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Medium_Armour",
-      "Uncommon_items",
-      "Equipment_pages_with_galleries"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Ironwood Club",
@@ -26744,54 +25438,6 @@
     ]
   },
   {
-    "name": "Kruznabir's Asylum Amulet",
-    "title": "Kruznabir's Asylum Amulet",
-    "url": "https://bg3.wiki/wiki/Kruznabir%27s_Asylum_Amulet",
-    "rarity": "Rare",
-    "slot": "Amulet",
-    "subtype": null,
-    "description": "Kruznabir's Asylum Amulet is a rare Amulet that lets the user cause their targets to go mad.",
-    "quote": "The bauble is emblazoned with fiendish words that, when translated, mean, 'May your throat be educated in new screams.'",
-    "properties": [
-      [
-        "Crown of Madness ( + )",
-        "Cast as a level 2 spell ( Recharge: Long rest.)"
-      ],
-      [
-        "Details",
-        "Amulets"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.05 kg (0.1 lb)"
-      ],
-      [
-        "Price",
-        "125 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_LC_HellishMadness_Amulet\nUUID\n52503330-69de-427a-a443-b49ab748fc1c\nStats\nMAG_LC_HellishMadness_Amulet"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Amulets",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Kurwin's Cauteriser",
     "title": "Kurwin's Cauteriser",
     "url": "https://bg3.wiki/wiki/Kurwin%27s_Cauteriser",
@@ -27290,52 +25936,6 @@
         "act": "Act One"
       }
     ]
-  },
-  {
-    "name": "Light Crossbow of Speed",
-    "title": "Light Crossbow of Speed",
-    "url": "https://bg3.wiki/wiki/Light_Crossbow_of_Speed",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Light_Crossbows",
-    "description": "Light Crossbow of Speed is a rare Light Crossbow.",
-    "quote": "Bolts slot into this crossbow with wonderful ease, as if eager to nestle against the stock, soon to fly.",
-    "properties": [
-      [
-        "Damage",
-        "1d8 + 1 (2~9) + Dexterity modifier Piercing"
-      ],
-      [
-        "Details",
-        "Light Crossbows"
-      ],
-      [
-        "Piercing Shot",
-        "Deal regular damage and possibly inflict Gaping Wounds which cause extra damage on attacks. ( Recharge: Short rest.)"
-      ],
-      [
-        "Blink-of-an-eye Bolt",
-        "Make a ranged attack with your equipped weapon."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "The Light Crossbow of Speed exists in Baldur's Gate and Baldur's Gate 2 - Shadows of Amn, also known as the The Army Scythe."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Ranged_weapons",
-      "Simple_weapons",
-      "Light_Crossbows",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Light Hammer +1",
@@ -28299,54 +26899,6 @@
     ]
   },
   {
-    "name": "Magical Hand Crossbow",
-    "title": "Magical Hand Crossbow",
-    "url": "https://bg3.wiki/wiki/Magical_Hand_Crossbow",
-    "rarity": "Very Rare",
-    "slot": "Weapon",
-    "subtype": "Hand_Crossbows",
-    "description": "Magical Hand Crossbow is a very rare +2 Hand Crossbow that allows the wielder to shoot a target at close range and then make a melee attack against it as a reaction.",
-    "quote": "The string of this crossbow, secured tightly against the stock, came from the lyre of a powerful bard who gave up his days as a magical minstrel for a more ascetic life.",
-    "properties": [
-      [
-        "Damage",
-        "1d6 + 2 (3~8) + Dexterity modifier Piercing"
-      ],
-      [
-        "Details",
-        "Hand Crossbows"
-      ],
-      [
-        "Cunning Combo",
-        "When you shoot a target at close range, you can make an additional melee attack against it as a Reaction."
-      ],
-      [
-        "Piercing Shot",
-        "Deal regular damage and possibly inflict Gaping Wounds which cause extra damage on attacks. ( Recharge: Short rest.)"
-      ],
-      [
-        "Mobile Shot",
-        "After using Dash or Disengage this turn, you can make a ranged attack as a bonus action. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Ranged_weapons",
-      "Martial_weapons",
-      "Hand_Crossbows",
-      "Very_rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Magical Pike",
     "title": "Magical Pike",
     "url": "https://bg3.wiki/wiki/Magical_Pike",
@@ -29089,50 +27641,6 @@
     ]
   },
   {
-    "name": "Mind Sundering Dagger",
-    "title": "Mind Sundering Dagger",
-    "url": "https://bg3.wiki/wiki/Mind_Sundering_Dagger",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Daggers",
-    "description": "Mind Sundering Dagger is an uncommon, lightly enchanted (+1) variant of the Daggers family of weapons. It is a simple melee weapon wielded in one hand. As a finesse weapon, it can benefit from the wielder's Dexterity and not just their Strength. It is a light weapon that anyone can dual-wield without special training. Its design lends itself well to be thrown at enemies as a projectile.",
-    "quote": "Light as thoughts themselves, this dagger is in the habit of rending them, causing significant pain, and occasional death.",
-    "properties": [
-      [
-        "Damage",
-        "1d4 + 1 (2~5) + Strength or Dexterity modifier Piercing"
-      ],
-      [
-        "Extra damage",
-        "1d4 (1~4) Psychic"
-      ],
-      [
-        "Details",
-        "Daggers"
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Simple_weapons",
-      "Daggers",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Monster Slayer Glaive",
     "title": "Monster Slayer Glaive",
     "url": "https://bg3.wiki/wiki/Monster_Slayer_Glaive",
@@ -29333,62 +27841,6 @@
         "act": "Act Two"
       }
     ]
-  },
-  {
-    "name": "Moonblade",
-    "title": "Moonblade",
-    "url": "https://bg3.wiki/wiki/Moonblade",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Longswords",
-    "description": "Moonblade is an uncommon special variant of the Longswords family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "This sacred elven blade once belonged to Ketheric Thorm. Selune's blessing shines silver along its cutting edge.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 (1~8) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 (1~10) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Longswords"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Pommel Strike",
-        "Make a non-lethal attack against an enemy and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Melee Attack +1"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Longswords",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Moondrop Pendant",
@@ -30496,67 +28948,6 @@
     "list_rows": []
   },
   {
-    "name": "Nightsinger's Half-Plate",
-    "title": "Nightsinger's Half-Plate",
-    "url": "https://bg3.wiki/wiki/Nightsinger%27s_Half-Plate",
-    "rarity": "Rare",
-    "slot": "Medium Armour",
-    "subtype": "Medium",
-    "description": "Nightsinger's Half-Plate is a rare Medium Armour that reduces Piercing damage by 2.",
-    "quote": "Shar's aspect winds its way through the patterns and pauldrons of this half plate, and any light cast nearby seems to almost quiver away from it, afraid. For even the light knows that the clank of this armour is swiftly followed by a Dark Justiciar's silent blade.",
-    "properties": [
-      [
-        "Armour class",
-        "17"
-      ],
-      [
-        "Superior Plate",
-        "You take 2 less Piercing damage."
-      ],
-      [
-        "Details",
-        "Medium Armour"
-      ],
-      [
-        "Required Proficiency",
-        "Medium Armour"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "12 kg (24 lb)"
-      ],
-      [
-        "Price",
-        "1100 gp"
-      ],
-      [
-        "Details",
-        "UID\nUNI_DarkJusticiarArmor_HalfPlate\nUUID\ndd3f1c98-cdf7-46f3-bb8b-5489dc3433ca\nStats\nARM_HalfPlate_Body_2"
-      ],
-      [
-        "Details",
-        "Disadvantage on Stealth checks."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Medium_Armour",
-      "Rare_items",
-      "Equipment_pages_with_galleries"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Nightsong's Armour",
     "title": "Nightsong's Armour",
     "url": "https://bg3.wiki/wiki/Nightsong%27s_Armour",
@@ -30865,64 +29256,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Oathbreaker Knight Armour",
-    "title": "Oathbreaker Knight Armour",
-    "url": "https://bg3.wiki/wiki/Oathbreaker_Knight_Armour",
-    "rarity": "Uncommon",
-    "slot": "Heavy Armour",
-    "subtype": "Heavy",
-    "description": "Oathbreaker Knight Armour is a set of Heavy Armour, worn by the Oathbreaker Knight.",
-    "quote": "",
-    "properties": [
-      [
-        "Armour class",
-        "19"
-      ],
-      [
-        "Details",
-        "Heavy Armour"
-      ],
-      [
-        "Required Proficiency",
-        "Heavy Armour"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "20 kg (40 lb)"
-      ],
-      [
-        "Price",
-        "3200 gp"
-      ],
-      [
-        "Details",
-        "UID\nARM_Plate_1_Oathbreaker\nUUID\nc67137ac-4ece-4652-aaab-14615aa25b20\nStats\nARM_Plate_Body_1"
-      ],
-      [
-        "Details",
-        "Disadvantage on Stealth checks."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This armour is visually similar to the armor worn by Oathbreaker Knight, but the Oathbreaker's is a visual override on Plate Armour whereas this armor is based on Plate Armour +1. There are also slight visual differences (for example, in the belt)."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Heavy_Armour",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Obsidian Laced Robe",
@@ -31835,64 +30168,6 @@
     "list_rows": []
   },
   {
-    "name": "Planeslayer Flail",
-    "title": "Planeslayer Flail",
-    "url": "https://bg3.wiki/wiki/Planeslayer_Flail",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Flails",
-    "description": "Planeslayer Flail is a rare, moderately enchanted (+2) variant of the Flails family of weapons. It is a martial melee weapon wielded in one hand.",
-    "quote": "Passed from hand to hand by those who hunt creatures from beyond the Material Plane, this flail has two words scrawled on it: 'No Trespassing.'",
-    "properties": [
-      [
-        "Damage",
-        "1d8 + 2 (3~10) + Strength modifier Bludgeoning"
-      ],
-      [
-        "Details",
-        "Flails"
-      ],
-      [
-        "Outer-Entity Slayer",
-        "When wielded against fey, fiends, or undead foes, this weapon has a +1d4 bonus to Damage and Attack Rolls."
-      ],
-      [
-        "Tenacity",
-        "When you miss a melee attack, you deal Strength ModifierBludgeoning damage (minimum of 1) anyway."
-      ],
-      [
-        "Concussive Smash",
-        "Hit an enemy with all your might to deal damage and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Weakening Strike",
-        "Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "If a weapon action misses, using Tenacity does not trigger its effects.",
-      "As Tenacity deals weapon damage even if an attack misses, it can trigger many on-hit effects from equipment. For example, from the Gloves of Power, the Callous Glow Ring, weapon coatings, or any infusion from the Ring of Elemental Infusion."
-    ],
-    "bugs": [
-      "As Horde Breaker (Melee) rolls invisible, zero-damage weapon attacks against all enemies in the Horde Breaker area of effect, Tenacity can be prompted to trigger against them even if the first attack hits. It is therefore possible to score 2 hits in one attack: the full attack against the original Horde Breaker target and a Tenacity hit against another target."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Flails",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Plate Armour +1",
     "title": "Plate Armour +1",
     "url": "https://bg3.wiki/wiki/Plate_Armour_%2B1",
@@ -32345,53 +30620,6 @@
         "act": "Act Two"
       }
     ]
-  },
-  {
-    "name": "Promise",
-    "title": "Promise",
-    "url": "https://bg3.wiki/wiki/Promise",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Daggers",
-    "description": "Promise is an uncommon, lightly enchanted (+1) variant of the Daggers family of weapons. It is a simple melee weapon wielded in one hand. As a finesse weapon, it can benefit from the wielder's Dexterity and not just their Strength. It is a light weapon that anyone can dual-wield without special training. Its design lends itself well to be thrown at enemies as a projectile.",
-    "quote": "A leafy pattern is carved into the dagger's blade. It glows faintly in the dark.",
-    "properties": [
-      [
-        "Damage",
-        "1d4 + 1 (2~5) + Strength or Dexterity modifier Piercing"
-      ],
-      [
-        "Details",
-        "Daggers"
-      ],
-      [
-        "Shadow Blade",
-        "You have Advantage on Attack Rolls against Lightly or Heavily Obscured targets when using this blade."
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "While active, Shadow Blade provides Advantage to both mainhand and off-hand equipped melee weapons.",
-      "Prior to Patch 8 Hotfix 1, Shadow Blade granted advantage to all attack rolls when active. This was changed to only melee weapon attacks."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Simple_weapons",
-      "Daggers",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Protective Plate",
@@ -33454,74 +31682,6 @@
     "list_rows": []
   },
   {
-    "name": "Rebound Battleaxe",
-    "title": "Rebound Battleaxe",
-    "url": "https://bg3.wiki/wiki/Rebound_Battleaxe",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Battleaxes",
-    "description": "Rebound Battleaxe is a rare, lightly enchanted (+1) special variant of the Battleaxes family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "This axe is so loyal, it will sometimes return to wielders it favours.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 1 (2~11) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Battleaxes"
-      ],
-      [
-        "Favoured Weapon",
-        "This weapon has a +1 bonus to damage and Attack Rolls."
-      ],
-      [
-        "It's All In The Wrists",
-        "This weapon has the Thrown property and deals an additional 1d4Thunder damage when thrown."
-      ],
-      [
-        "Cleave",
-        "Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Maiming Strike",
-        "Possibly Maims your target. They can't move. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "This blade's magical powers only function if it's Bound to an Eldritch Knight or is a Warlocks's Pact Weapon."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [
-      "If this weapon is bound by an Eldritch Knight or Pact of the Blade Warlock, the weapon will retain its Favoured Weapon passive until the next long rest even if the character binds another weapon. The weapon will even retain this passive if the weapon is used by another character, different from the one who bound it.",
-      "If this weapon is bound by an Eldritch Knight or Pact of the Blade Warlock, this weapon will permanently retain the thunder damage bonus from It's All In The Wrists while the thrown property will remain until the next long rest even if the character binds another weapon. The weapon will even retain this passive if the weapon is used by another character, different from the one who bound it."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Battleaxes",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Render of Mind and Body",
     "title": "Render of Mind and Body",
     "url": "https://bg3.wiki/wiki/Render_of_Mind_and_Body",
@@ -33591,67 +31751,6 @@
         "act": "Act Two"
       }
     ]
-  },
-  {
-    "name": "Render of Scrumptious Flesh",
-    "title": "Render of Scrumptious Flesh",
-    "url": "https://bg3.wiki/wiki/Render_of_Scrumptious_Flesh",
-    "rarity": "Rare",
-    "slot": "Weapon",
-    "subtype": "Longswords",
-    "description": "Render of Scrumptious Flesh is a rare, moderately enchanted (+2) variant of the Longswords family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "It might be your imagination, but when blood runs over the blade, you could swear you hear... slurping.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 2 (3~10) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 2 (3~12) + Strength modifier Slashing"
-      ],
-      [
-        "Extra damage",
-        "1d4 (1~4) Necrotic"
-      ],
-      [
-        "Details",
-        "Longswords"
-      ],
-      [
-        "Pommel Strike",
-        "Make a non-lethal attack against an enemy and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Part the Flesh",
-        "Thrust forward with diabolical precision, possibly stymying your target's ability to heal. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Weapon_pages_with_galleries",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Longswords",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Returning Pike",
@@ -34276,56 +32375,6 @@
         "act": "Act One"
       }
     ]
-  },
-  {
-    "name": "Ring of Crabsight",
-    "title": "Ring of Crabsight",
-    "url": "https://bg3.wiki/wiki/Ring_of_Crabsight",
-    "rarity": "Uncommon",
-    "slot": "Ring",
-    "subtype": null,
-    "description": "Ring of Crabsight is an uncommon Ring that grants +2 Perception.",
-    "quote": "Mud cakes the tiny letters of an inscription - 'A Cursed Sight Doth Dwell Beneath'.",
-    "properties": [
-      [
-        "Details",
-        "Rings"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "0.05 kg (0.1 lb)"
-      ],
-      [
-        "Price",
-        "40 gp"
-      ],
-      [
-        "Details",
-        "UID\nQUEST_CRA_HermitCrab_Armor_Ring_Of_Illusion_NOTAPPROUVED\nUUID\nd5c32289-4fcc-483c-885c-1b8ddd519d44\nStats\nCRA_HermitCrab_Ring"
-      ],
-      [
-        "Details",
-        "Perception +2"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This ring's UID suggests it was intended for an unfinished/cut quest."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Rings",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Ring of Elemental Infusion",
@@ -36151,54 +34200,6 @@
     ]
   },
   {
-    "name": "Robe of Spell Resistance",
-    "title": "Robe of Spell Resistance",
-    "url": "https://bg3.wiki/wiki/Robe_of_Spell_Resistance",
-    "rarity": "Rare",
-    "slot": "Clothing",
-    "subtype": null,
-    "description": "Robe of Spell Resistance is a rare Clothing that allows the wearer to resist the effects of spells.",
-    "quote": "Handed out to all students during orientation at the arcane universities of the world. However, a bit of enchanted cloth is a meagre defence against one's classmates.",
-    "properties": [
-      [
-        "Armour class",
-        "10"
-      ],
-      [
-        "Details",
-        "Clothing"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "1.8 kg (3.6 lb)"
-      ],
-      [
-        "Details",
-        "UID\nMAG_OfSpellResistance_Robe\nUUID\nc3309d8f-8cff-4418-b064-bca8bd77700c\nStats\nMAG_OfSpellResistance_Robe"
-      ],
-      [
-        "Details",
-        "Saving Throws +2"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Clothing",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Robe of Summer",
     "title": "Robe of Summer",
     "url": "https://bg3.wiki/wiki/Robe_of_Summer",
@@ -36407,66 +34408,6 @@
     "list_rows": []
   },
   {
-    "name": "Robust Chain Shirt",
-    "title": "Robust Chain Shirt",
-    "url": "https://bg3.wiki/wiki/Robust_Chain_Shirt",
-    "rarity": "Uncommon",
-    "slot": "Medium Armour",
-    "subtype": "Medium",
-    "description": "The Robust Chain Shirt is an uncommon Medium Armour that deals Piercing damage to enemies that damage the wearer with a melee attack while the wearer is greatly injured.",
-    "quote": "A multitude of names is embroidered on the inside collar - the lives of those this shirt has saved.",
-    "properties": [
-      [
-        "Armour class",
-        "13"
-      ],
-      [
-        "Piercing Counter",
-        "When the wearer has 50% hit points or less and is damaged by a melee attack, they deal 1d4Piercing to the attacker."
-      ],
-      [
-        "Details",
-        "Medium Armour"
-      ],
-      [
-        "Required Proficiency",
-        "Medium Armour"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "9 kg (18 lb)"
-      ],
-      [
-        "Price",
-        "300 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_LowHP_CounterOnDamage_ChainShirt\nUUID\n81cdbea7-3cd5-44a5-baa7-852c930bdf7b\nStats\nMAG_LowHP_CounterOnDamage_ChainShirt"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "Initially a reward given by Sergeant Thrinn for Find the Missing Boots, this armour was substituted for Armour of Uninhibited Kushigo."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Pages_with_an_explicit_charlink_alias",
-      "Medium_Armour",
-      "Uncommon_items",
-      "Equipment_pages_with_galleries"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Rupturing Blade",
     "title": "Rupturing Blade",
     "url": "https://bg3.wiki/wiki/Rupturing_Blade",
@@ -36667,64 +34608,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Sanguine Blade",
-    "title": "Sanguine Blade",
-    "url": "https://bg3.wiki/wiki/Sanguine_Blade",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Rapiers",
-    "description": "Sanguine Blade is an uncommon Rapier that grants better Attack Rolls, damage, and Spell Save DC for every foe slain (up to 3).",
-    "quote": "Blood enthrals and holds great dominion over people. Its wine-dark stain anoints even the pacifist in such troubled times as these.",
-    "properties": [
-      [
-        "Damage",
-        "1d8 + 1 (2~9) + Strength or Dexterity modifier Piercing"
-      ],
-      [
-        "Details",
-        "Rapiers"
-      ],
-      [
-        "Scarlet Remittance",
-        "Gain a +1 bonus to Attack Rolls, damage, and Spell Save DC for every foe you slay, up to a maximum of +3."
-      ],
-      [
-        "Flourish",
-        "Feint an attack to possibly throw your opponent Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ],
-      [
-        "Weakening Strike",
-        "Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. ( Recharge: Short rest.)"
-      ],
-      [
-        "Scarlet Regeneration",
-        "If you have a +3 bonus from Scarlet Remittance, consume it to recover 3d10Hit Points ( Recharge: Long rest)."
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "As of Patch 5, Scarlet Remittance only works when killing living, hostile targets. Previously, this feature would trigger on anything with a healthbar, including objects like crates and pouches.",
-      "A creature wielding a weapon with Scarlet Remittance loses the bonus when the passive feature becomes unequipped."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Rapiers",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Sarevok's Horned Helmet",
@@ -38162,66 +36045,6 @@
     ]
   },
   {
-    "name": "Shadow Battleaxe",
-    "title": "Shadow Battleaxe",
-    "url": "https://bg3.wiki/wiki/Shadow_Battleaxe",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Battleaxes",
-    "description": "Shadow Battleaxe is an uncommon battle axe.",
-    "quote": "Oliver would watch his father split logs with this, enjoying the thwacking sound. Sometimes, in that part of dusk when the light gets thin, he was drawn to his father's shadow, and would feel a stir of inexplicable dread.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 1 (2~11) + Strength modifier Slashing"
-      ],
-      [
-        "Extra damage",
-        "1d4 (1~4) Necrotic"
-      ],
-      [
-        "Details",
-        "Battleaxes"
-      ],
-      [
-        "Cleave",
-        "Swing your weapon in a large arc to attack up to 3 enemies at once. They each take half the damage your weapon usually deals. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Maiming Strike",
-        "Possibly Maims your target. They can't move. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Bound Weapon"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Battleaxes",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Shadow Blade Ring",
     "title": "Shadow Blade Ring",
     "url": "https://bg3.wiki/wiki/Shadow_Blade_Ring",
@@ -38509,55 +36332,6 @@
         "act": "Act Two"
       }
     ]
-  },
-  {
-    "name": "Shadowstep Boots",
-    "title": "Shadowstep Boots",
-    "url": "https://bg3.wiki/wiki/Shadowstep_Boots",
-    "rarity": "Uncommon",
-    "slot": "Boots",
-    "subtype": null,
-    "description": "Shadowstep Boots are an uncommon pair of Boots that allows the wearer to teleport to an obscured, unoccupied spot.",
-    "quote": "One of the relics of Deep Duerra's rebellious children. A mean-minded parent, Duerra quickly earned her children's enmity. In secret, the children devised a plan to escape their mother forever.",
-    "properties": [
-      [
-        "Shadow Teleportation",
-        "Teleport to an unoccupied, obscured spot. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Boots"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "0.55 kg (1.1 lb)"
-      ],
-      [
-        "Price",
-        "70 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Shadow_Shadowstep_Boots\nUUID\n6cae9a98-b75d-408e-ac59-d6bde6e4ab13\nStats\nMAG_Shadow_Shadowstep_Boots"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Boots",
-      "Uncommon_items",
-      "Relics_of_Deep_Duerra's_Rebellious_Children"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Shapeshifter Hat",
@@ -40412,71 +38186,6 @@
     ]
   },
   {
-    "name": "Singing Sword",
-    "title": "Singing Sword",
-    "url": "https://bg3.wiki/wiki/Singing_Sword",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Longswords",
-    "description": "Singing Sword is an uncommon, lightly enchanted (+1) special variant of the Longswords family of weapons. It is a martial melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "Each ring and clash of this sword is a dark melody from the last mortal orchestra in Elysium, Avernus, or both.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d8 + 1 (2~9) + Strength modifier Slashing"
-      ],
-      [
-        "Two-handed damage",
-        "1d10 + 1 (2~11) + Strength modifier Slashing"
-      ],
-      [
-        "Details",
-        "Longswords"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Rush Attack",
-        "Charge forward and attack the first enemy in your way, possibly pushing them Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Pommel Strike",
-        "Make a non-lethal attack against an enemy and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Phalar Aluve",
-        "Sing"
-      ],
-      [
-        "Phalar Aluve",
-        "Shriek"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This sword is likely an earlier version of Phalar Aluve with a few notable differences:\nThe sword lists Sing and Shriek as two separate class actions, but does not grant either when equipped.",
-      "The +1 Performance bonus is not present.",
-      "It does not count as a finesse weapon.",
-      "The description and UID imply a different backstory / history for the weapon."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Longswords",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Skybreaker",
     "title": "Skybreaker",
     "url": "https://bg3.wiki/wiki/Skybreaker",
@@ -41936,58 +39645,6 @@
     ]
   },
   {
-    "name": "Spiderstep Staff",
-    "title": "Spiderstep Staff",
-    "url": "https://bg3.wiki/wiki/Spiderstep_Staff",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Quarterstaves",
-    "description": "Spiderstep Staff is an uncommon variant of the Quarterstaves family of weapons. It is a simple melee weapon that can be wielded in one hand, or with both hands for extra damage.",
-    "quote": "Slightly sticky to the touch, this staff has excellent grip.",
-    "properties": [
-      [
-        "One-handed damage",
-        "1d6 (1~6) + Strength modifier Bludgeoning"
-      ],
-      [
-        "Two-handed damage",
-        "1d8 (1~8) + Strength modifier Bludgeoning"
-      ],
-      [
-        "Details",
-        "Quarterstaves"
-      ],
-      [
-        "Spider Step",
-        "Immune to being Enwebbed. Your Movement Speed is not affected by Web surfaces."
-      ],
-      [
-        "Topple",
-        "Swipe at a creature to knock it Prone. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "Visual effects tied to this item appear in MOO_Execution suggesting it was intended to appear during Minthara's trial.",
-      "Blocks Difficult Terrain: Web instead of the usual Difficult Terrain condition."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Pages_with_an_explicit_charlink_alias",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Simple_weapons",
-      "Quarterstaves",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Spineshudder Amulet",
     "title": "Spineshudder Amulet",
     "url": "https://bg3.wiki/wiki/Spineshudder_Amulet",
@@ -43038,64 +40695,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Steadfast Maul",
-    "title": "Steadfast Maul",
-    "url": "https://bg3.wiki/wiki/Steadfast_Maul",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Mauls",
-    "description": "Steadfast Maul is an uncommon, lightly enchanted Maul.",
-    "quote": "Steadfast Edwina of Icewind Dale wielded this maul for many years before pursuing her desired career of fiction writing. She wrote crime novels set in Waterdeep for thirty years, and died largely unrecognised. But happy.",
-    "properties": [
-      [
-        "Damage",
-        "2d6 + 1 (3~13) + Strength modifier Bludgeoning"
-      ],
-      [
-        "Details",
-        "Mauls"
-      ],
-      [
-        "Tenacity",
-        "When you miss a melee attack, you deal Strength ModifierBludgeoning damage (minimum of 1) anyway."
-      ],
-      [
-        "Backbreaker",
-        "Put extra force behind your strike to possibly knock your enemy Prone. ( Recharge: Short rest.)"
-      ],
-      [
-        "Concussive Smash",
-        "Hit an enemy with all your might to deal damage and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Steadfast Strike",
-        "Slam into a foe, preventing them (and yourself) from being moved involuntarily. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "If a weapon action misses, using Tenacity does not trigger its effects.",
-      "As Tenacity deals weapon damage even if an attack misses, it can trigger many on-hit effects from equipment. For example, from the Gloves of Power, the Callous Glow Ring, weapon coatings, or any infusion from the Ring of Elemental Infusion."
-    ],
-    "bugs": [
-      "As Horde Breaker (Melee) rolls invisible, zero-damage weapon attacks against all enemies in the Horde Breaker area of effect, Tenacity can be prompted to trigger against them even if the first attack hits. It is therefore possible to score 2 hits in one attack: the full attack against the original Horde Breaker target and a Tenacity hit against another target."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Mauls",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Steelforged Sword",
@@ -44875,54 +42474,6 @@
     ]
   },
   {
-    "name": "Synaptic Needle Amulet",
-    "title": "Synaptic Needle Amulet",
-    "url": "https://bg3.wiki/wiki/Synaptic_Needle_Amulet",
-    "rarity": "Rare",
-    "slot": "Amulet",
-    "subtype": null,
-    "description": "Synaptic Needle Amulet is a rare Amulet.",
-    "quote": "Fingering this amulet sends a spike of pleasure sliding through the brain - pleasure that could be turned to pain in an enemy's addled mind.",
-    "properties": [
-      [
-        "Mind Tax",
-        "Cleave into a Charmed or Frightened foe's brain tissue and invigorate your body. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Amulets"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.05 kg (0.1 lb)"
-      ],
-      [
-        "Price",
-        "125 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Illithid_MindTax_Amulet\nUUID\n28daf3e2-18c6-479d-82f6-54041596980e"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Amulets",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Syringe (+1)",
     "title": "Syringe (+1)",
     "url": "https://bg3.wiki/wiki/Syringe_%28%2B1%29",
@@ -45182,62 +42733,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Tenacious Boots",
-    "title": "Tenacious Boots",
-    "url": "https://bg3.wiki/wiki/Tenacious_Boots",
-    "rarity": "Uncommon",
-    "slot": "Boots",
-    "subtype": null,
-    "description": "Tenacious Boots are an uncommon medium-armour footwear that grants the wearer Athletics +1 and a spell to plant the wearer's feet to the ground.",
-    "quote": "Plant your feet firm as an oak, your roots determinate, your balance as precise as the contour of the moon.",
-    "properties": [
-      [
-        "Details",
-        "Boots"
-      ],
-      [
-        "Required Proficiency",
-        "Medium Armour"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "2 kg (4 lb)"
-      ],
-      [
-        "Price",
-        "90 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_ZOC_ForceConduitWhileSurounded_Boots\nUUID\ncde75746-e209-433b-838c-300e3c7d8306\nStats\nMAG_ZOC_ForceConduitWhileSurounded_Boots"
-      ],
-      [
-        "Stand Like Stone",
-        "Spend 1 turn of Force Conduit to become a strong bulwark that cannot be moved unwillingly ( Recharge: Short rest."
-      ],
-      [
-        "Details",
-        "Athletics +1"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Boots",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "The Amulet of Lost Voices",
@@ -45535,77 +43030,6 @@
     ]
   },
   {
-    "name": "The Clover",
-    "title": "The Clover",
-    "url": "https://bg3.wiki/wiki/The_Clover",
-    "rarity": "Legendary",
-    "slot": "Weapon",
-    "subtype": "Scimitars",
-    "description": "The Clover is a legendary, moderately enchanted (+2) special variant of the Scimitars family of weapons. It is a martial melee weapon wielded in one hand. As a finesse weapon, it can benefit from the wielder's Dexterity and not just their Strength. It is a light weapon that anyone can dual-wield without special training.",
-    "quote": "",
-    "properties": [
-      [
-        "Damage",
-        "1d6 (1~6) + Strength or Dexterity modifier Slashing"
-      ],
-      [
-        "Details",
-        "Scimitars"
-      ],
-      [
-        "True Strike",
-        "Cast as a cantrip ( Recharge: Short rest.)"
-      ],
-      [
-        "Organ Rearranger",
-        "Reduce the number you need to roll a Critical Hit while attacking by 1. This effect can stack. When you roll 2 damage or less, reroll the dice, taking the highest result."
-      ],
-      [
-        "Exploit Weakness",
-        "Creatures hit with this weapon receive Vulnerability to Piercing damage."
-      ],
-      [
-        "True Strike Riposte",
-        "When a creature misses you with a melee attack, you may retaliate and gain True Strike."
-      ],
-      [
-        "Flourish",
-        "Feint an attack to possibly throw your opponent Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Lacerate",
-        "Slash at your target's vital points to make it Bleed. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Armour Class +1 (Off-Hand Only)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "Organ Rearranger stacks with other passive effects that improve critical chance, including ranged attacks and spell attack rolls [3][4].",
-      "Organ Rearranger's damage reroll is only applied to melee weapon attacks. When dual-wielding melee weapons, both weapons will benefit.\nAll damage dice attached to an attack can be rerolled, not just the weapon's base damage die.",
-      "The damage reroll is not normally applied to any other attack type, including throw attacks using the Knife of the Undermountain King itself.\nHowever, Organ Rearranger's damage reroll does stack with itself (via a second Knife of the Undermountain King due to the King's Knife or Invoke Duplicity bugs) or dual wielding with Twist of Fortune. The improvement of the second reroll is smaller than the first one.",
-      "Exploit Weakness is only applied by Bloodthirst and only when used in melee combat; throwing this weapon does not apply the passive.",
-      "The retalitory attack granted by True Strike Riposte expends a Reaction resource."
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Weapon_pages_with_galleries",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Scimitars",
-      "Legendary_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "The Dancing Breeze",
     "title": "The Dancing Breeze",
     "url": "https://bg3.wiki/wiki/The_Dancing_Breeze",
@@ -45893,58 +43317,6 @@
         "act": "Act One"
       }
     ]
-  },
-  {
-    "name": "The Fork-Lightning Fingers",
-    "title": "The Fork-Lightning Fingers",
-    "url": "https://bg3.wiki/wiki/The_Fork-Lightning_Fingers",
-    "rarity": "Rare",
-    "slot": "Gloves",
-    "subtype": null,
-    "description": "The Fork-Lightning Fingers are a rare pair of gloves that give the wearer lightning damage to their unarmed attacks and the ability to cast Lightning Bolt as a level 3 spell once per Long Rest.",
-    "quote": "There's a technique specific to the monks who train along the Spine of the World. It doesn't have a name, but it does involve fists, lightning, and some extremely decimated pines.",
-    "properties": [
-      [
-        "Lightning Bolt ( + )",
-        "Cast as a level 3 spell ( Recharge: Long rest.)"
-      ],
-      [
-        "Lightning Strikes",
-        "Your unarmed attacks deal an additional 1d4Lightning."
-      ],
-      [
-        "Details",
-        "Gloves"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.5 kg (1 lb)"
-      ],
-      [
-        "Price",
-        "240 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Monk_Lightning_Gloves\nUUID\ne050d6c6-a228-4bc2-9794-9ae5c69345c7"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Gloves",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "The Graceful Cloth",
@@ -48148,58 +45520,6 @@
     ]
   },
   {
-    "name": "Tightening Orbit Helm",
-    "title": "Tightening Orbit Helm",
-    "url": "https://bg3.wiki/wiki/Tightening_Orbit_Helm",
-    "rarity": "Rare",
-    "slot": "Helmet",
-    "subtype": null,
-    "description": "Tightening Orbit Helm is a rare Helmet.",
-    "quote": "Keep your enemies close, and those you want to slit up closer.' - Popular nursery saying",
-    "properties": [
-      [
-        "Tightening Orbit",
-        "Spend 1 turn of Force Conduit to pull every enemy in the radius toward you with damaging force. ( Recharge: Short rest.)"
-      ],
-      [
-        "Details",
-        "Helmets"
-      ],
-      [
-        "Required Proficiency",
-        "Medium Armour"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "1 kg (2 lb)"
-      ],
-      [
-        "Details",
-        "UID\nMAG_ZOC_Force_Helmet\nUUID\n5ac19da8-48bf-4a75-b312-430c1ab7cb41\nStats\nMAG_ZOC_Force_Helmet"
-      ],
-      [
-        "Details",
-        "Constitution Saving Throws +1"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Helmets",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Till Death Do Us Part",
     "title": "Till Death Do Us Part",
     "url": "https://bg3.wiki/wiki/Till_Death_Do_Us_Part",
@@ -48424,171 +45744,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Torment Drinker Armour",
-    "title": "Torment Drinker Armour",
-    "url": "https://bg3.wiki/wiki/Torment_Drinker_Armour",
-    "rarity": "Rare",
-    "slot": "Light Armour",
-    "subtype": "Light",
-    "description": "Torment Drinker Armour is a rare Light Armour that grants temporary hit points when the wearer scores a Critical Hit or kills a creature.",
-    "quote": "Timid, god-fearing Cat Burroughs was dizzyingly happy when an angel courted her one summer. But in the autumn, when he shamefacedly revealed he was not an angel but an incubus of the Hells, Cat flew into a rage, slew him, and fashioned this armour from his wings and still-warm bones.",
-    "properties": [
-      [
-        "Armour class",
-        "13"
-      ],
-      [
-        "Bolstering Critical",
-        "When scoring a Critical Hit or killing a hostile creature, wearer gains 15 temporary hit points."
-      ],
-      [
-        "Details",
-        "Light Armour"
-      ],
-      [
-        "Required Proficiency",
-        "Light Armour"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "5.85 kg (11.7 lb)"
-      ],
-      [
-        "Price",
-        "260 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Critical_BolsteringCritical_Armor\nUUID\na0dfac7c-c6ea-44f1-a12d-b5e67887ae8e"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Light_Armour",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Tough Sunrises",
-    "title": "Tough Sunrises",
-    "url": "https://bg3.wiki/wiki/Tough_Sunrises",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Morningstars",
-    "description": "Tough Sunrises is an uncommon, lightly enchanted (+1) variant of the Morningstars family of weapons. It is a martial melee weapon wielded in one hand.",
-    "quote": "Sent by Lathander, the god of creativity and sunrises. Unfortunately, it was not received by the cleric who needed it at that crucial moment, but by a baffled librarian in Daggerford, who used it as a door stopper.",
-    "properties": [
-      [
-        "Damage",
-        "1d8 + 1 (2~9) + Strength modifier Piercing"
-      ],
-      [
-        "Details",
-        "Morningstars"
-      ],
-      [
-        "Tenacity",
-        "When you miss a melee attack, you deal Strength ModifierBludgeoning damage (minimum of 1) anyway."
-      ],
-      [
-        "Heartstopper",
-        "Smash an enemy's chest in and possibly inflict Chest Trauma. ( Recharge: Short rest.)"
-      ],
-      [
-        "Concussive Smash",
-        "Hit an enemy with all your might to deal damage and possibly Daze them. ( Recharge: Short rest.)"
-      ],
-      [
-        "Dawnburst Strike",
-        "Deal additional Radiant damage equal to your proficiency bonus. On a hit, light erupts around you in a 3 m (10 ft) area. Enemies in the light must succeed a Constitution Saving Throw or be Blinded. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "If a weapon action misses, using Tenacity does not trigger its effects.",
-      "As Tenacity deals weapon damage even if an attack misses, it can trigger many on-hit effects from equipment. For example, from the Gloves of Power, the Callous Glow Ring, weapon coatings, or any infusion from the Ring of Elemental Infusion."
-    ],
-    "bugs": [
-      "As Horde Breaker (Melee) rolls invisible, zero-damage weapon attacks against all enemies in the Horde Breaker area of effect, Tenacity can be prompted to trigger against them even if the first attack hits. It is therefore possible to score 2 hits in one attack: the full attack against the original Horde Breaker target and a Tenacity hit against another target.",
-      "The description in-game notes an incorrect DC 13 Constitution Saving Throw save. It requires a weapon action save with a +2 DC bonus.",
-      "Despite the in-game description stating only enemies in the light must save against becoming blinded, the blindness affects all creatures in the area, even allies.\nDue to a coding error, blindness does not affect the original target of the attack.",
-      "The additional Radiant damage is treated as a separate damage rider source even in Honour Mode."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Morningstars",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
-    "name": "Treacleflow Amulet",
-    "title": "Treacleflow Amulet",
-    "url": "https://bg3.wiki/wiki/Treacleflow_Amulet",
-    "rarity": "Rare",
-    "slot": "Amulet",
-    "subtype": null,
-    "description": "Treacleflow Amulet is a rare Amulet.",
-    "quote": "The air surrounding this lavishly decorated amulet is thick - like pushing your fingers through sap or syrup.",
-    "properties": [
-      [
-        "Rampart Aura",
-        "Costs Force Conduit to remain active. All entities with or in this aura have their movement speed halved."
-      ],
-      [
-        "Details",
-        "Amulets"
-      ],
-      [
-        "Rarity",
-        "Rare"
-      ],
-      [
-        "Weight",
-        "0.05 kg (0.1 lb)"
-      ],
-      [
-        "Price",
-        "125 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_ZOC_RampartAura_Amulet\nUUID\n20beaa42-f9fb-4b53-9c86-b971059b845b\nStats\nMAG_ZOC_RampartAura_Amulet"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Amulets",
-      "Rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Trepan (+1)",
@@ -49755,56 +46910,6 @@
     ]
   },
   {
-    "name": "Vampiric Gloves",
-    "title": "Vampiric Gloves",
-    "url": "https://bg3.wiki/wiki/Vampiric_Gloves",
-    "rarity": "Very Rare",
-    "slot": "Gloves",
-    "subtype": null,
-    "description": "Vampiric Gloves are a pair of Very Rare Gloves that grant the wearer the ability to cast a Vampiric Touch.",
-    "quote": "Little leech motifs adorn the pad of each finger. The leeches have rows of suckling, sharp teeth.",
-    "properties": [
-      [
-        "Vampiric Touch ( + )",
-        "Cast as a level 3 spell ( Recharge: Long rest.)"
-      ],
-      [
-        "Details",
-        "Gloves"
-      ],
-      [
-        "Rarity",
-        "Very rare"
-      ],
-      [
-        "Weight",
-        "0.5 kg (1 lb)"
-      ],
-      [
-        "Price",
-        "300 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_Vampiric_Gloves\nUUID\n51ce5b9a-e56a-40d6-9383-ad4ec7042acc\nStats\nMAG_Vampiric_Gloves"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "This item's presence in LOW_CazadorsPalace_Crypt_Treasure suggests it was intended for Cazador's Palace, potentially the unfinished subterranean puzzle area"
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Gloves",
-      "Very_rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
-  },
-  {
     "name": "Varsh Ko'kuu's Boots",
     "title": "Varsh Ko'kuu's Boots",
     "url": "https://bg3.wiki/wiki/Varsh_Ko%27kuu%27s_Boots",
@@ -49942,57 +47047,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Verminsign",
-    "title": "Verminsign",
-    "url": "https://bg3.wiki/wiki/Verminsign",
-    "rarity": "Uncommon",
-    "slot": "Weapon",
-    "subtype": "Rapiers",
-    "description": "Verminsign is an uncommon, lightly enchanted (+1) variant of the Rapiers family of weapons. It is a martial melee weapon wielded in one hand. As a finesse weapon, it can benefit from the wielder's Dexterity and not just their Strength.",
-    "quote": "Where most people see a bundle of interesting diseases in the common rat, members of the Zhentarim syndicate see a potential colleague.",
-    "properties": [
-      [
-        "Damage",
-        "1d8 + 1 (2~9) + Strength or Dexterity modifier Piercing"
-      ],
-      [
-        "Details",
-        "Rapiers"
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ],
-      [
-        "Weakening Strike",
-        "Target an enemy's hands with a non-lethal attack and possibly inflict Weak Grip. ( Recharge: Short rest.)"
-      ],
-      [
-        "Flourish",
-        "Feint an attack to possibly throw your opponent Off Balance. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "Mechanically identical to a Rapier +1[verify]"
-    ],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Articles_needing_verification",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Rapiers",
-      "Uncommon_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Very Heavy Greataxe",
@@ -50299,61 +47353,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Vicious Shortsword",
-    "title": "Vicious Shortsword",
-    "url": "https://bg3.wiki/wiki/Vicious_Shortsword",
-    "rarity": "Very Rare",
-    "slot": "Weapon",
-    "subtype": "Shortswords",
-    "description": "Vicious Shortsword is a very rare, moderately enchanted (+2) variant of the Shortswords family of weapons. It is a martial melee weapon wielded in one hand. As a finesse weapon, it can benefit from the wielder's Dexterity and not just their Strength. It is a light weapon that anyone can dual-wield without special training.",
-    "quote": "Despite its engravings, this lightweight sword is perfectly balanced - a flawless killing implement.",
-    "properties": [
-      [
-        "Damage",
-        "1d6 + 10 (11~16) + Strength or Dexterity modifier Slashing"
-      ],
-      [
-        "Details",
-        "Shortswords"
-      ],
-      [
-        "Dolor Amarus",
-        "When you land a Critical Hit with a weapon or unarmed attack,[See: Bugs] it deals an additional 7 damage."
-      ],
-      [
-        "Flourish",
-        "Feint an attack to possibly throw your opponent Off Balance. ( Recharge: Short rest.)"
-      ],
-      [
-        "Piercing Strike",
-        "Stab an enemy and possibly inflict Gaping Wounds. ( Recharge: Short rest.)"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [
-      "Dolor Amarus applies to all weapon attacks while a weapon with the feature is equipped, and it can be activated multiple times if multiple weapons with the passive are equipped. For example, if both Dolor Amarus daggers are equipped \u2013 or one dagger and the Vicious Battleaxe on a character with Dual Wielder \u2013 together with the Vicious Shortbow, when the wielder lands a critical hit, then +21 damage will be added, instead of +7.",
-      "Dolor Amarus also stacks on multiple damage riders, which could potentially lead to massive bonuses from different damage sources.",
-      "The name dolor amarus is Latin for \"harsh suffering\" or \"bitter sorrow\"."
-    ],
-    "bugs": [
-      "Despite the description, Dolor Amarus does not deal an additional 7 damage on unarmed attack critical hits (including Throw attacks)."
-    ],
-    "categories": [
-      "Unobtainable",
-      "Bugs",
-      "Equipment",
-      "Weapons",
-      "Melee_weapons",
-      "Martial_weapons",
-      "Shortswords",
-      "Very_rare_items"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Viconia's Priestess Robe",
@@ -50828,55 +47827,6 @@
         "act": "Act Three"
       }
     ]
-  },
-  {
-    "name": "Wakeful Amulet",
-    "title": "Wakeful Amulet",
-    "url": "https://bg3.wiki/wiki/Wakeful_Amulet",
-    "rarity": "Uncommon",
-    "slot": "Amulet",
-    "subtype": null,
-    "description": "Wakeful Amulet is an uncommon Amulet that prevents the user from being put to sleep.",
-    "quote": "While this doesn't prevent wilful rest, it does protect you from being put to sleep from such sources as hypnotism, copious alcohol usage, or, indeed, magic.",
-    "properties": [
-      [
-        "Wakefulness",
-        "You can't be unwillingly put to Sleep."
-      ],
-      [
-        "Details",
-        "Amulets"
-      ],
-      [
-        "Rarity",
-        "Uncommon"
-      ],
-      [
-        "Weight",
-        "0.05 kg (0.1 lb)"
-      ],
-      [
-        "Price",
-        "65 gp"
-      ],
-      [
-        "Details",
-        "UID\nMAG_WYRM_SleepImmunity_Amulet\nUUID\nd9ee5eb0-3fa8-4d9c-96d2-676798791095"
-      ]
-    ],
-    "where_to_find": [],
-    "notes": [],
-    "bugs": [],
-    "categories": [
-      "Unobtainable",
-      "Amulets",
-      "Uncommon_items",
-      "Misc_pages_without_images"
-    ],
-    "acts": [],
-    "act_source": "unknown",
-    "act_note": null,
-    "list_rows": []
   },
   {
     "name": "Wapira's Crown",

@@ -8,7 +8,7 @@ permanent buffs, classes, races, backgrounds, illithid powers) of *Baldur's Gate
 with gear selection, consumable choices, build advice, and "where do I get X"
 questions.
 
-Covers **739 obtainable magic items** (plus a short list that are not
+Covers **683 obtainable magic items** (plus a short list that are not
 obtainable in the current game), **305 consumables** plus the full alchemy
 recipe set, and a character reference (41 feats, 135 conditions, 11
 companions + 12 hirelings, 30 permanent buffs, 12 classes + 58 subclasses,
