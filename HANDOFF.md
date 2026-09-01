@@ -6,8 +6,10 @@
   public), so the user's `push` script (plain `git push` per repo) works — the
   user runs it, not the assistant.
 - Worktree is clean. All Phase 1-3 pipeline work, the adviser scaffolding
-  (ADVISER.md + kb_lookup.py), and the adviser-mode AGENTS.md note are committed
-  on `main`. Nothing pending to stage.
+  (ADVISER.md + kb_lookup.py), the adviser-mode AGENTS.md note, and the adviser
+  collection-discipline commit (`e497f6b`) are committed on `main`. Nothing
+  pending to stage. The local-only per-playthrough state file (`save_state.md`)
+  is untracked and updated with pending pickups for the next session.
 
 ## Completed Work (2026-08-30)
 
@@ -107,6 +109,26 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   `honour_mode.md`; masters `data/achievements.json` + `data/honour_mode.json`.
 - `kb_lookup.py` extended with `achievement` and `difficulty` subcommands.
 
+### Part 6 — Adviser collection discipline (2026-09-01)
+- **Problem:** the adviser was answering questions about magic items but not
+  directing their collection, even though the KB is built to say where items
+  are. It walked past Cap of Curing, Ring of Colour Spray, Komira's Locket and
+  the Silver Pendant in areas already visited, and wasn't refreshing party gear
+  or banking items for Gale's orb.
+- **Root cause:** `kb_lookup.py` could only search by name/slot/act/effect —
+  there was no way to ask "what magic items are in this area?", so the adviser
+  could not enumerate a room's items.
+- **Fix (commit `e497f6b`):** `kb_lookup.py` gains a `--where "<area>"`
+  location filter on `item` and `consumable` (matches `where_to_find` text,
+  which carries coordinates). `ADVISER.md` gains a **Collection discipline**
+  section: query each area before moving through it, direct every pickup by
+  name, track per-room checklists in the state file, bank low-value magic items
+  for Gale's artefact hunger, and review party gear proactively before fights.
+  Session flow now includes the area sweep and gear-review steps.
+- **State file** (local-only) updated: new "Pending pickups" section lists the
+  walked-past items with coordinates (all still reachable in Act One) and a
+  full-party gear review is first on the session's agenda.
+
 ## Validation
 
 - Full pipeline re-run clean end-to-end (cached, no network needed).
@@ -167,6 +189,12 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. All repo work is committed; the user runs their `push` script when convenient.
-2. Phase 4 (merchant catalog, quest index) only if the source lists prove
+1. The adviser work (`e497f6b`) is committed but **not pushed**; the user runs
+   their `push` script when convenient.
+2. Next playthrough session: recover the walked-past Act One items from the
+   state file's "Pending pickups" (Cap of Curing, Komira's Locket, Ring of
+   Colour Spray, Silver Pendant), run a full-party gear review, then continue
+   the Grove -> Blighted Village -> Risen Road -> Goblin Camp route per the
+   state file.
+3. Phase 4 (merchant catalog, quest index) only if the source lists prove
    insufficient.
