@@ -6,10 +6,12 @@
   public), so the user's `push` script (plain `git push` per repo) works — the
   user runs it, not the assistant.
 - Worktree is clean. All Phase 1-3 pipeline work, the adviser scaffolding
-  (ADVISER.md + kb_lookup.py), the adviser-mode AGENTS.md note, and the adviser
-  collection-discipline commit (`e497f6b`) are committed on `main`. Nothing
-  pending to stage. The local-only per-playthrough state file (`save_state.md`)
-  is untracked and updated with pending pickups for the next session.
+  (ADVISER.md + kb_lookup.py), the adviser-mode AGENTS.md note, the adviser
+  collection-discipline commit (`e497f6b`), and the quest/achievement
+  discipline commit are on `main`. Nothing pending to stage. The local-only
+  per-playthrough state file (`save_state.md`) is untracked and updated with
+  pending pickups and the new side-quest/achievement sections for the next
+  session.
 
 ## Completed Work (2026-08-30)
 
@@ -129,6 +131,28 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   walked-past items with coordinates (all still reachable in Act One) and a
   full-party gear review is first on the session's agenda.
 
+### Part 7 — Adviser quest & achievement discipline (2026-09-01)
+- **Problem:** the adviser was pushing the main story almost exclusively and
+  not surfacing side quests or named-NPC hooks (e.g. Rolan in the Grove). The
+  KB deliberately contains no quest data (PLAN.md decision #2), so the adviser
+  had no way to know side quests exist.
+- **Fix (general, no quest-specific edits):** `ADVISER.md` gains a **Quest &
+  achievement discipline** section that makes *discovery* the adviser's job:
+  solicit new side-quest hooks from the player each session (named NPCs met,
+  new quest-journal entries, dialogue offers), maintain them in a standing
+  `Open side quests / NPC hooks` checklist in the state file, and do not
+  advance past an area/act-transition/long-rest window until the open hooks
+  there are settled or consciously deferred. Achievement setup is tracked via
+  `kb achievement --limit 60` (all 54 unlock conditions) into a state-file
+  `Achievements in play` section, using only KB descriptions — nothing
+  inferred. Deliberately *not* a curated quest list, so the user never has to
+  feed the adviser quests.
+- The state-file layout template in `ADVISER.md` gains the two new sections;
+  the session-flow recap step now solicits quest hooks and checks
+  achievements. The local-only state file (`save_state.md`) gained the two
+  empty sections for the adviser to fill next session.
+- No pipeline or data changes: nothing regenerated.
+
 ## Validation
 
 - Full pipeline re-run clean end-to-end (cached, no network needed).
@@ -166,6 +190,9 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   merchants (Arron/Okta, Talli, Rivington vendors) verified via wiki List of
   Traders.
 - `git diff --check` clean.
+- Part 7 (quest/achievement discipline): `ADVISER.md`-only change; `kb_lookup.py`
+  unchanged and verified (`kb achievement --limit 60` prints all 54 conditions);
+  no pipeline or generated output touched.
 
 ## Operational Caveats
 
@@ -189,12 +216,15 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. The adviser work (`e497f6b`) is committed but **not pushed**; the user runs
-   their `push` script when convenient.
+1. The adviser work (`e497f6b`) and the quest/achievement discipline commit are
+   committed but **not pushed**; the user runs their `push` script when
+   convenient.
 2. Next playthrough session: recover the walked-past Act One items from the
    state file's "Pending pickups" (Cap of Curing, Komira's Locket, Ring of
    Colour Spray, Silver Pendant), run a full-party gear review, then continue
    the Grove -> Blighted Village -> Risen Road -> Goblin Camp route per the
-   state file.
+   state file. Per the new discipline, the adviser also solicits new side-quest
+   hooks and achievements in play at session start and populates the state
+   file's two new sections.
 3. Phase 4 (merchant catalog, quest index) only if the source lists prove
    insufficient.

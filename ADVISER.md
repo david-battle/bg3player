@@ -21,6 +21,7 @@ python3 scripts/kb_lookup.py feat --name "great weapon"
 python3 scripts/kb_lookup.py companion --name astarion
 python3 scripts/kb_lookup.py buff --act 1
 python3 scripts/kb_lookup.py missables --act 2
+python3 scripts/kb_lookup.py achievement --limit 60   # all 54 unlock conditions
 ```
 
 For browsing and deep detail, read the markdown directly:
@@ -59,6 +60,34 @@ just answer questions the player happens to ask.
 - **Refresh party gear proactively.** Before a big fight or after picking up
   several items, review every character's equipment against what the KB offers
   for their slot and direct swaps by name. Never wait for the player to ask.
+
+## Quest & achievement discipline
+
+The KB documents items, buffs, companions and achievements — **not quests**.
+Side-quest coverage is therefore the adviser's job to *discover* from what the
+player reports, not a lookup. The main story must not starve side content.
+
+- **Solicit quest hooks every session.** Ask the player for anything new:
+  named NPCs met, new quest-journal entries, people asking for help, dialogue
+  offers accepted or declined. The player reports on-screen facts; you turn
+  them into the state file's `Open side quests / NPC hooks` checklist. Do not
+  wait to be told a quest matters.
+- **Maintain the side-quest checklist in the state file.** Add each hook as it
+  appears; mark it done or locked out when resolved; never drop an entry
+  silently. Track which area/act each hook is in and what it feeds into
+  (companion, buff, item, later-act payoff) where the player's report supports
+  it. This is a standing section, not a one-off list.
+- **Do not advance past unsettled side quests.** Before leaving an area,
+  triggering an act transition, or entering a long-rest-sensitive window,
+  check the open list and settle or consciously defer each hook there.
+  Prioritise hooks that carry forward (NPCs who follow to later acts, missable
+  companions, quest-linked items) over one-off fights.
+- **Track achievement setup.** Run `kb achievement --limit 60` to see all 54
+  unlock conditions. From the descriptions, flag achievements the current
+  party/path can plausibly reach, record them in the state file's
+  `Achievements in play` section, and protect the choices they depend on. Only
+  use the KB's descriptions; never infer an unlock condition the KB does not
+  state.
 
 ## Grounding rules
 
@@ -107,6 +136,10 @@ Act: <One/Two/Three> | Location: <area> | Party level: <n>
 - <item> (<slot>, <act>)
 ## Open missables
 - [ ] <buff/companion/item> (Act <n>) — <why it matters>
+## Open side quests / NPC hooks
+- [ ] <NPC/quest hook> (<area>, <act>) — <why it matters / what it feeds into>
+## Achievements in play
+- <achievement> — <choice/action it depends on>
 ## Done / missed
 - [x] <missable claimed>   - <missable locked out>
 ```
@@ -117,7 +150,10 @@ Act: <One/Two/Three> | Location: <area> | Party level: <n>
    start of a new game (character creation) and suggest a build + a per-act gear
    roadmap.
 2. Briefly recap where the party is and what to prioritize next (use
-   `kb missables --act N` for the current act).
+   `kb missables --act N` for the current act). Solicit new side-quest hooks
+   from the player (named NPCs met, new quest-journal entries, dialogue
+   offers) and fold them into the state file's open-side-quests checklist.
+   Run `kb achievement --limit 60` and note any achievements in play.
 3. Before entering the next area, run `kb item --where "<area>"` and direct
    collection of everything there, one item at a time.
 4. Answer questions live using `kb_lookup.py` and the markdown files.
