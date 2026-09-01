@@ -6,6 +6,7 @@ Everything reads the tracked JSON masters, so results stay in sync with the
 knowledge base. Usage examples:
 
     kb item --slot gloves --act 2 --effect "spell save"
+    kb item --where "Sacred Pool"          # everything obtainable in an area
     kb item --name "hag's hair"            # any fuzzy name search
     kb consumable --type elixir --effect "hill giant"
     kb recipe --result "hill giant"
@@ -61,6 +62,15 @@ def text_of(rec, fields):
     return " ".join(p for p in parts if p)
 
 
+def loc_tokens(rec):
+    return text_of(rec, ["where_to_find"]).lower()
+
+
+def matches_location(rec, tokens):
+    hay = loc_tokens(rec)
+    return all(t in hay for t in tokens)
+
+
 def print_items(items, limit):
     if not items:
         print("(no matches)")
@@ -95,6 +105,9 @@ def cmd_item(args):
         tokens = args.effect.lower().split()
         items = [i for i in items
                  if all(t in text_of(i, ["description", "list_rows"]).lower() for t in tokens)]
+    if args.where:
+        tokens = args.where.lower().split()
+        items = [i for i in items if matches_location(i, tokens)]
     print_items(sorted(items, key=lambda i: i["name"]), args.limit)
 
 
@@ -112,6 +125,9 @@ def cmd_consumable(args):
         cons = [c for c in cons
                 if all(t in text_of(c, ["description", "properties", "where_to_find"]).lower()
                        for t in tokens)]
+    if args.where:
+        tokens = args.where.lower().split()
+        cons = [c for c in cons if matches_location(c, tokens)]
     print_items(cons, args.limit)
 
 
@@ -354,11 +370,11 @@ def main():
 
     sp = add("item", "search equipment by slot/act/effect")
     sp.add_argument("--slot"); sp.add_argument("--act"); sp.add_argument("--rarity")
-    sp.add_argument("--name"); sp.add_argument("--effect")
+    sp.add_argument("--name"); sp.add_argument("--effect"); sp.add_argument("--where")
 
     sp = add("consumable", "search consumables by type/act/effect")
     sp.add_argument("--type"); sp.add_argument("--act"); sp.add_argument("--name")
-    sp.add_argument("--effect")
+    sp.add_argument("--effect"); sp.add_argument("--where")
 
     sp = add("recipe", "find an alchemy recipe")
     sp.add_argument("--result"); sp.add_argument("--ingredient"); sp.add_argument("--type")

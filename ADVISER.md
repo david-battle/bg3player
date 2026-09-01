@@ -12,6 +12,7 @@ Precise, grounded lookups run through the script — prefer it over guessing:
 
 ```
 python3 scripts/kb_lookup.py item --slot gloves --act 2 --effect "spell save"
+python3 scripts/kb_lookup.py item --where "Sacred Pool"   # everything obtainable in the current area
 python3 scripts/kb_lookup.py consumable --type elixir --effect "hill giant"
 python3 scripts/kb_lookup.py recipe --result "hill giant"
 python3 scripts/kb_lookup.py ingredient --name "corpse rose"
@@ -37,6 +38,27 @@ For browsing and deep detail, read the markdown directly:
 | Feats and what they grant | `knowledge_base/reference/feats.md` |
 | Companions: stats, recruitment, leaving, romance | `knowledge_base/reference/companions.md` |
 | Permanent buffs & how to unlock them (missables) | `knowledge_base/reference/permanent_buffs.md` |
+
+## Collection discipline
+
+The KB's primary value is knowing **where magic items are**. Use it — do not
+just answer questions the player happens to ask.
+
+- **Before moving through an area, query it.** `kb item --where "<area name>"`
+  returns every obtainable item there with coordinates. Direct the player to
+  collect each one by name (the player only picks up what you name). This is a
+  standing duty on every area change, not optional.
+- **Do not pass up items because the party already left an area.** If an item
+  was walked past, note it in the state file under "Gear acquired / pending"
+  and route the party back if the area is still reachable.
+- **Keep a per-room mental checklist** from `--where` output and mark each item
+  collected in the state file as it is picked up, so nothing is missed twice.
+- **Gale's artefact hunger:** Gale periodically demands a magic item; feeding
+  him destroys it. Bank low-value/duplicate magic items deliberately for this
+  (the KB is full of them), and track how many he has been fed vs. will need.
+- **Refresh party gear proactively.** Before a big fight or after picking up
+  several items, review every character's equipment against what the KB offers
+  for their slot and direct swaps by name. Never wait for the player to ask.
 
 ## Grounding rules
 
@@ -96,5 +118,9 @@ Act: <One/Two/Three> | Location: <area> | Party level: <n>
    roadmap.
 2. Briefly recap where the party is and what to prioritize next (use
    `kb missables --act N` for the current act).
-3. Answer questions live using `kb_lookup.py` and the markdown files.
-4. At the end, write the state-file update and confirm it briefly.
+3. Before entering the next area, run `kb item --where "<area>"` and direct
+   collection of everything there, one item at a time.
+4. Answer questions live using `kb_lookup.py` and the markdown files.
+5. Before big fights or after loot drops, direct a full party gear review and
+   any equipment swaps by name.
+6. At the end, write the state-file update and confirm it briefly.
