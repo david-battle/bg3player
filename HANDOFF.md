@@ -2,12 +2,12 @@
 
 ## Verified State
 
-- Branch `main`; pushed to `origin` (https://github.com/david-battle/bg3player,
-  public). Upstream is set, so the user's `push` script (plain `git push` per
-  repo) works — the user runs it, not the assistant.
-- Worktree has uncommitted changes (Phase 2 remainder + adviser scaffolding)
-  — not yet committed as of this handoff's last write; commit + push when
-  convenient.
+- Branch `main`; upstream is set to `origin` (https://github.com/david-battle/bg3player,
+  public), so the user's `push` script (plain `git push` per repo) works — the
+  user runs it, not the assistant.
+- Worktree is clean. All Phase 1-3 pipeline work, the adviser scaffolding
+  (ADVISER.md + kb_lookup.py), and the adviser-mode AGENTS.md note are committed
+  on `main`. Nothing pending to stage.
 
 ## Completed Work (2026-08-30)
 
@@ -167,6 +167,6 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. Commit this work; the user then runs their `push` script.
+1. All repo work is committed; the user runs their `push` script when convenient.
 2. Phase 4 (merchant catalog, quest index) only if the source lists prove
    insufficient.
