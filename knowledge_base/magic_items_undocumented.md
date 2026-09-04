@@ -37,6 +37,7 @@ Two categories:
 
 ### Battered Lute
 - Rarity: Story Item | Slot: Instrument | Act: unknown
+- Required Proficiency: Musical Instruments
 - Description: Battered Lute is a uniquely named lute that is part of a quest. It is otherwise identical to the common item variation, and can be used as such.
 - How to get:
   - On the corpse of Malus Thorm in the House of Healing
@@ -62,6 +63,7 @@ Two categories:
 
 ### Chain of Liberation
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: The Chain of Liberation is an uncommon Medium Armour that allows the wearer to sacrifice their Momentum (Condition) to rush forward and avoid Attacks of Opportunity.
 - Effect: AC 13 | Sprint: Once per turn, the wearer can reduce the duration of their Momentum by 1 turn to Sprint.
 - How to get:
@@ -130,6 +132,7 @@ Two categories:
 
 ### Enforcer Helmet
 - Rarity: Uncommon | Slot: Helmet | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: Enforcer Helm is an uncommon Helmet that heals the wearer when knocking out creatures.
 - Effect: Rejuvenating Takedown: Whenever the wearer knocks a creature unconscious, the wearer regains 1d6 Hit Points. | Constitution Saving Throws +1
 - How to get: Unobtainable; appears in Dammon's Act Two treasure table with quantity 0.
@@ -138,6 +141,7 @@ Two categories:
 
 ### Enforcer Shield
 - Rarity: Uncommon | Slot: Shield | Act: unknown
+- Required Proficiency: Shields
 - Description: Enforcer Shield is an uncommon Shield.
 - Effect: AC +2 | Staunch Blessing: When a creature misses the wielder with an attack, they gain a +1d4 bonus to their next Attack Roll that deals non-lethal damage. This bonus is relinquished when the wielder deals lethal damage.
 - How to get: Unobtainable; appears in Dammon's Act Two treasure table with quantity 0.
@@ -186,6 +190,7 @@ Two categories:
 
 ### Githyanki Breastplate
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: Githyanki Breastplate is a rare Medium Armour
 - Effect: AC 14
 - How to get: No documented acquisition; not found in the current game.
@@ -220,6 +225,7 @@ Two categories:
 
 ### Gloves of Succour
 - Rarity: Uncommon | Slot: Gloves | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: The Gloves of Succour are an uncommon pair of gloves that grant a creature healed by a Paladin's Lay on Hands resistance against weapon attacks.
 - Effect: Warding Hands: When you use your Channel Oath Charge spells, you gain Heroism. | Strength Saving Throws +1
 - How to get: Early Access only; replaced by Gloves of Heroism.
@@ -288,6 +294,7 @@ Two categories:
 
 ### Ironwood Breastplate
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: Ironwood Breastplate is an uncommon Medium Armour that reduces Slashing damage by 1.
 - Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Advantage on Constitution Saving Throws.
 - How to get: No documented acquisition; not found in the current game.
@@ -332,12 +339,14 @@ Two categories:
 
 ### Nightsinger's Half-Plate
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: Nightsinger's Half-Plate is a rare Medium Armour that reduces Piercing damage by 2.
 - Effect: AC 17 | Superior Plate: You take 2 less Piercing damage. | Disadvantage on Stealth checks.
 - How to get: No documented acquisition; not found in the current game.
 
 ### Oathbreaker Knight Armour
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: unknown
+- Required Proficiency: Heavy Armour
 - Description: Oathbreaker Knight Armour is a set of Heavy Armour, worn by the Oathbreaker Knight.
 - Effect: AC 19 | Disadvantage on Stealth checks.
 - How to get: Not lootable; the Oathbreaker Knight's armour is a visual override.
@@ -420,6 +429,7 @@ Two categories:
 
 ### Robust Chain Shirt
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: The Robust Chain Shirt is an uncommon Medium Armour that deals Piercing damage to enemies that damage the wearer with a melee attack while the wearer is greatly injured.
 - Effect: AC 13 | Piercing Counter: When the wearer has 50% hit points or less and is damaged by a melee attack, they deal 1d4 Piercing to the attacker.
 - How to get: Replaced; originally Sergeant Thrinn's reward, substituted with Armour of Uninhibited Kushigo.
@@ -506,6 +516,7 @@ Two categories:
 
 ### Tenacious Boots
 - Rarity: Uncommon | Slot: Boots | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: Tenacious Boots are an uncommon medium-armour footwear that grants the wearer Athletics +1 and a spell to plant the wearer's feet to the ground.
 - Effect: Stand Like Stone: Spend 1 turn of Force Conduit to become a strong bulwark that cannot be moved unwillingly (Recharge: Short rest. | Athletics +1
 - How to get: No documented acquisition; not found in the current game.
@@ -538,12 +549,14 @@ Two categories:
 
 ### Tightening Orbit Helm
 - Rarity: Rare | Slot: Helmet | Act: unknown
+- Required Proficiency: Medium Armour
 - Description: Tightening Orbit Helm is a rare Helmet.
 - Effect: Tightening Orbit: Spend 1 turn of Force Conduit to pull every enemy in the radius toward you with damaging force. (Recharge: Short rest.) | Constitution Saving Throws +1
 - How to get: No documented acquisition; not found in the current game.
 
 ### Torment Drinker Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: unknown
+- Required Proficiency: Light Armour
 - Description: Torment Drinker Armour is a rare Light Armour that grants temporary hit points when the wearer scores a Critical Hit or kills a creature.
 - Effect: AC 13 | Bolstering Critical: When scoring a Critical Hit or killing a hostile creature, wearer gains 15 temporary hit points.
 - How to get: No documented acquisition; not found in the current game.

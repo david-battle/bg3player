@@ -1300,86 +1300,103 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Drow Studded Leather Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One
+- Required Proficiency: Light Armour
 - Effect: AC 12 | Stealth +1
 - How to get: Underdark X: 71 Y: -220: in a heavy chest at a Lolth's Cultist's cache near the entrance of the Festering Cove
 
 ### Leather Armour +2
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 13 | Stealthy: Gain a +1 bonus to Stealth Checks. | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 2
 - How to get: Sold by traders using the levelled magic armour table if the player is level 7 or above
 
 ### Padded Armour +2
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 13 | Superior Padding: You take 2 less Bludgeoning damage. | Enchantment: + 2
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 5 and 8
 
 ### Spidersilk Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One
+- Required Proficiency: Light Armour
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks. | Advantage on Constitution Saving Throws
 - How to get: Shattered Sanctum: Worn by Minthara
 
 ### Studded Leather Armour +2
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 14 | Superior Padding: You take 1 less Bludgeoning damage. | Ambusher: Gain a +1 bonus to Initiative Rolls. | Enchantment: + 2 | File ARM_Studded Leather_A_2_Pants | File ARM_Studded Leather_A_Sleeves_C
 - How to get: Sold by traders using the levelled magic armour table
 
 ### Blazer of Benevolence
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One
+- Required Proficiency: Light Armour
 - Effect: AC 11 | Remedial Rhymes: When you inspire an ally using Bardic Inspiration, you gain 4 temporary hit points.
 - How to get: Campsite (Act One): Reward for rescuing Volo from the Goblin Camp during the quest Rescue Volo
 
 ### Leather Armour +1
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks. | File ARM_Leather_A_1_Kneepad | File ARM_Leather_A_1_Pants | File ARM_Leather_A_1_Shoulderpads | File ARM_Leather_A_Sleeves
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 4 and 6
 
 ### Padded Armour +1
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 12 | Superior Padding: You take 1 less Bludgeoning damage.
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 2 and 4
 
 ### Studded Leather Armour +1
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 13 | Superior Padding: You take 1 less Bludgeoning damage. | Enchantment: + 1
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 6 and 8
 
 ### Penumbral Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act Two
+- Required Proficiency: Light Armour
 - Effect: AC 12 | Stealthier: While obscured, the wearer gains a +3 bonus to Stealth Checks. | File ARM_Drow Leather_A_Pants | File ARM_Drow Leather_A_Shoulderpads
 - How to get: Ruined Battlefield X: 33 Y: 145: In a locked opulent chest in the abandoned house by the river east of the Last Light Inn
 
 ### Shadeclinger Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act Two
+- Required Proficiency: Light Armour
 - Effect: AC 12 | Shadeclinger: While obscured, the wearer has Advantage on Saving Throws. | File ARM_Leather_A_1_Kneepad | File ARM_Leather_A_1_Pants | File ARM_Leather_A_1_Shoulderpads | File ARM_Leather_A_Sleeves | Stealth +1
 - How to get: Last Light Inn X: -31 Y: 130: Sold by Quartermaster Talli near the Last Light Inn waypoint
 
 ### Armour of Landfall
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 13 | Plant Growth: Cast as a level 3 spell (Recharge: Short rest.) | High Spellcasting: You gain a +1 bonus to Spell Save DC. | Green Bed Regeneration: When starting your turn on Plant Growth Surface or Vine Surface regain 1d4 Hit Points. | File ARM_Druid_B_2_Pants | File ARM_Druid_C_2_Body | File ARM_Druid_C_2_Sleeve | Advantage on Constitution Saving Throws.
 - How to get: Sorcerous Sundries X: -14 Y: -72: Sold by Lorroakan's Projection or Rolan on the ground floor
 
 ### Armour of Moonbasking
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 11 | Lunar Bestial Vitality: You gain 22 temporary hit points after casting Wild Shape. While those temporary hit points are active reduce all incoming damage by 1. | Lunar Bestial Fortitude: You have a +2 bonus to Armour Class. You also have Advantage on Saving Throws against spells. This effect persists while using your druidic Wild Shape ability. | File ARM_Druid_B_2_Pants | File ARM_Druid_C_2_Body | File ARM_Druid_C_2_Sleeve
 - How to get: Lower City Sewers X: -157 Y: 939: Sold by Voiceless Penitent Bareki
 
 ### Armour of the Sporekeeper
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 13 | Malefic Funghi: The wearer gains a +1 bonus to Spell Save DC and when dealing Necrotic damage, they deal an additional 1 Necrotic damage. | Spore Sacks: While imbued with Symbiotic Entity, you can spread Bibberbang Spores, Timmask Spores, and Haste Spores. | File ARM_Druid_B_2_Pants | File ARM_Druid_C_2_Body | File ARM_Druid_C_2_Sleeve
 - How to get: Philgrave's Mansion X: 14 Y: -160: Sold by Mystic Carrion
 
 ### Bhaalist Armour
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 14 | Aura of Murder: Enemies within 3 m (10 ft) become Vulnerable to Piercing damage, unless they are Immune to it. | Ambusher: Gain a +2 bonus to Initiative Rolls. | File ARM_Studded Leather_A_2_Pants | File ARM_Studded Leather_A_Sleeves_C
 - How to get: Murder Tribunal X: -1263 Y: 511: Sold by Echo of Abazigal
 
 ### Elegant Studded Leather
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 14 | Shield: Cast as a level 1 spell (Recharge: Short rest.) | Ambusher: Gain a +2 bonus to Initiative Rolls. | File ARM_Studded Leather_A_2_Pants | File ARM_Studded Leather_A_Sleeves_C | Advantage on Stealth checks.
 - How to get: The Counting House X: -686 Y: 874: in the High Security Vault nº9
 
 ### Scarlet Leather Armour
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks.
 - How to get: Highberry's Home X: 20 Y: -34: Worn by Dolor the assassin
 
@@ -1388,130 +1405,156 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Adamantine Scale Mail
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 16 | Magical Plate: All incoming damage is reduced by 1 | Adamantine Backlash: When a melee attack hits you, the attacker is sent Reeling for 2 turns. | Attackers can't land Critical Hits on the wearer. | Disadvantage on Stealth checks.
 - How to get: Adamantine Forge X: -558 Y: 230: Forged from a Scale Mail Mould and Mithral Ore
 
 ### Breastplate +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 16 | Superior Plate: You take 1 less Piercing damage. | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 2
 - How to get: Sold by traders using the levelled magic armour table if the player is level 9 or above
 
 ### Chain Shirt +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 2
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 5 and 8
 
 ### Half Plate Armour +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 17 | Superior Plate: You take 2 less Piercing damage. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is level 9 or above
 
 ### Hide Armour +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 14 | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Ambusher: Gain a +1 bonus to Initiative Rolls. | Enchantment: + 2
 - How to get: Sold by traders using the levelled magic armour table if the player character is level 5 or above
 
 ### Scale Mail +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 16 | Superior Material: You take 1 less Slashing damage. | Ambusher: Gain a +1 bonus to Initiative Rolls. | Enchantment: + 2 | File ARM_Scalemail_A_2_Shoulderpads | File ARM_Scalemail_A_Pants_B | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player character is level 7 or above
 
 ### The Jolty Vest
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 14 | Superior Material: You take 1 less Slashing damage. | Countershock: When the wearer takes damage while having Lightning Charges, the attacker must succeed a Dexterity Saving Throw or become Shocked. | File ARM_Chain Shirt_A_1_Shoulderpads | File ARM_Chain Shirt_A_2_Pants
 - How to get: Zhentarim Basement X: 295 Y: -250: Sold by Brem after completing the quest Find the Missing Shipment
 
 ### Breastplate +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 15 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1
 - How to get: Emerald Grove X: 177 Y: 560: On crate near Dammon in the The Hollow
 
 ### Chain Shirt +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 14 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | File ARM_Chain Shirt_A_1_Shoulderpads | File ARM_Chain Shirt_A_2_Pants
 - How to get: Sold by traders using the levelled magic armour table if the player character is between levels 2 and 4
 
 ### Dark Justiciar Mail
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 13 | Nightsinger's Reply: While obscured by shadow, the wearer deals 1d4 Necrotic damage to attackers that hit them with a melee attack. | File ARM_Dark_Dark_Justiciar_A_Pants
 - How to get: Grymforge X: -655 Y: 424: On a skeleton north of the Underdark - Grymforge Ancient Rune Circle
 
 ### Half Plate Armour +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 16 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 6 and 8
 
 ### Hedge Wanderer Armour
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 13 | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | File ARM_Hide_A_1_Body | Nature +1.
 - How to get: The Hollow X: 205 Y: 516: Sold by Arron next to the Silvanus statue
 
 ### Hide Armour +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 13 | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 1 | File ARM_Hide_A_1_Body
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 2 and 4
 
 ### Luminous Armour
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 15 | Radiating Shockwave: When the wearer deals Radiant damage, they cause a Radiant Shockwave. | Enchantment: + 1 | File ARM_Breast Plate_A_1_Pants
 - How to get: Selûnite Outpost X: 176 Y: -247: in a locked and trapped opulent chest
 
 ### Scale Mail +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 4 and 6
 
 ### Scale Mail Armour +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 
 ### Slippery Chain Shirt
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 13 | Cautious Healer: When the wearer heals a creature, it automatically Disengages and won't trigger Opportunity Attacks.
 - How to get: The Festering Cove X: -400 Y: 329: in a chest hidden on a cliff above and behind the altar
 
 ### The Oak Father's Embrace
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: AC 13 | Order of Nature: Undead creatures that hit the wearer receive 1d6 Radiant damage. Beasts that hit the wearer deal an additional 1d6 Radiant damage. | File ARM_Hide_A_1_Body
 - How to get: Owlbear Nest X: -354 Y: -111: On a headless skeleton near the owlbear nest and egg
 
 ### Dark Justiciar Half-Plate (Very Rare)
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: AC 17 | Shar's Aegis: Cast as a level 1 spell (Recharge: Long rest.) | Shar's Umbrae: While obscured, the wearer has Advantage on Stealth Checks. | Shar's Protection: While the wearer has Shield of Faith active, reduce all incoming damage by 2 and reflect damage received back at the attacker, who takes 1d4 Necrotic damage. | File ARM_Shadowheart_Dark_Justiciar_Pants_A | Advantage on Constitution Saving Throws.
 - How to get: Shadowfell X: -604 Y: -1431: Awarded to Shadowheart for killing the Nightsong
 
 ### Sharpened Snare Cuirass
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: AC 14 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Sharpened Snare: Creatures have Disadvantage on Saving Throws when resisting your attacks and spells that inflict Restrained.
 - How to get: Moonrise Towers X: -174 Y: -179: Sold by Roah Moonglow on the main floor
 
 ### Barkskin Armour
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: AC 12 | Forest Aegis: You are invested with the power of the meadows and woods of the land, and have the effect of Barkskin, increasing your Armour Class to 16. | File ARM_Hide_A_1_Body | Advantage on Constitution Saving Throws.
 - How to get: Last Light Inn X: -31 Y: 130: Sold by Quartermaster Talli near the Last Light Inn waypoint
 
 ### Dark Justiciar Half-Plate (Rare)
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: AC 16 | Shar's Aegis: Encase yourself with a shimmering field of magic that increases your Armour Class by 2. (Recharge: Long rest.) | Shar's Umbrae: While obscured, the wearer has Advantage on Stealth Checks. | File ARM_Dark_Dark_Justiciar_A_Pants | Advantage on Constitution Saving Throws.
 - How to get: Gauntlet of Shar X: -818 Y: -755: Lying on the ground next to the altar where the Spear of Night rests, beyond the riddle door in the Silent Library
 
 ### Psionic Ward Armour
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: AC 15 | Psionic Ward: If the item detects that the wearer is gith, they have Resistance to Psychic damage. Whenever the wearer succeeds on a Saving Throw against a spell, they regain 1d4 Hit Points. | Disadvantage on Stealth checks.
 - How to get: Reithwin Town X: -249 Y: -33: Worn by Ch'r'ai Tska'an near the bridge leading to the To Baldur's Gate waypoint
 
 ### Yuan-Ti Scale Mail
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: AC 15 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Ambusher: Gain a +1 bonus to Initiative Rolls. | File ARM_Scalemail_A_2_Shoulderpads | File ARM_Scalemail_A_Pants_B
 - How to get: Last Light Inn X: -31 Y: 130: Sold by Quartermaster Talli near the Last Light Inn waypoint
 
 ### Armour of Agility
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 17 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Saving Throws +2.
 - How to get: Stormshore Armoury X: -41 Y: -71: Sold by Gloomy Fentonson, near the Lower City Central Wall waypoint
 
 ### Flame Enamelled Armour
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 16 | Fire Shield: Warm: Cast as a level 4 spell (Recharge: Long rest.) | Seldom Caught Unawares: You gain a +2 bonus to Initiative rolls. | Endurance by Fire: You have Resistance to Fire damage and a +2 bonus to Saving Throws. | Disadvantage on Stealth checks.
 - How to get: Wyrm's Rock Fortress X: -28 Y: 184: in a heavy chest in the corner of the armoury, south-west of the Wyrm's Rock waypoint, behind the iron gate
 
@@ -1522,6 +1565,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Unwanted Masterwork Scalemail
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: AC 16 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Resistance to Fire damage
 - How to get: Forge of the Nine X: 5 Y: -7: Sold by Dammon
 
@@ -1530,81 +1574,97 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Adamantine Splint Armour
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act One
+- Required Proficiency: Heavy Armour
 - Effect: AC 18 | Magical Plate: All incoming damage is reduced by 2. | Intense Adamantine Backlash: When a melee attack hits you, the Attacker is sent Reeling for 3 turns. | Attackers cannot land Critical Hits on the wearer. | Disadvantage on Stealth checks.
 - How to get: Adamantine Forge X: -558 Y: 230: Forged from a Splint Mould and Mithral Ore
 
 ### Chain Mail +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 18 | Superior Material: You take 2 less Slashing damage. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is level 7 or above
 
 ### Plate Armour +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 20 | Exceptional Plate: You take 2 less damage from Slashing, Piercing and Bludgeoning sources. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player character is level 11 or above
 
 ### Ring Mail Armour +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 16 | Superior Material: You take 1 less Slashing damage. | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 5 and 8
 
 ### Splint Armour +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is level 9 or above
 
 ### Chain Mail +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 17 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | File ARM_Chain Mail_A_1_Shoulderpads | File ARM_Chain Mail_A_Pants | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 4 and 6
 
 ### Plate Armour +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | File ARM_Platemail_A_1_Body | File ARM_Platemail_A_1_Pants | File ARM_Platemail_A_1_Shoulderpads | File ARM_Platemail_A_1_Skirt | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player character is between levels 8 and 10
 
 ### Ring Mail Armour +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 15 | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 2 and 4
 
 ### Splint Armour +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 18 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get: Sold by traders using the levelled magic armour table if the player is between levels 6 and 8
 
 ### Reaper's Embrace
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Effect: AC 19 | Howl of the Dead: Let out a bone-chilling howl that Numbs all nearby creatures. (Recharge: Short rest.) | Magical Plate: All incoming damage is reduced by 2. | Reaper's Rigidity: When activated, you can't be moved against your will by any spell or action, but have Disadvantage on Dexterity Saving Throws. | Disadvantage on Stealth checks.
 - How to get: Mind Flayer Colony X: 861 Y: -23: Worn by Ketheric Thorm
 
 ### Armour of Devotion
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Effect: AC 18 | Eternal Devotion: Recite your Oath to regain 1 Channel Oath Charge. (Recharge: Long rest.) | Disadvantage on Stealth checks.
 - How to get: Moonrise Towers X: -174 Y: -179: Sold by Roah Moonglow on the main floor
 
 ### Dwarven Splintmail
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Constitution +2 (Max 20) | Disadvantage on Stealth checks.
 - How to get: Moonrise Towers X: -164 Y: -167: Sold by Lann Tarv on the main floor
 
 ### Flawed Helldusk Armour
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Effect: AC 18 | Lesser Infernal Retribution: When you are hit by a foe within 2 m (7 ft), it might take 1d4 Fire damage. | Superior Plate: You take 1 less Piercing damage. | Disadvantage on Stealth checks.
 - How to get: Last Light Inn X: -33 Y: 164: Crafted by Dammon
 
 ### Rippling Force Mail
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Effect: AC 17 | Force Absorption: Gain 2 turns of Force Conduit when taking Slashing, Piercing, or Bludgeoning damage. | File ARM_Chain Mail_A_1_Shoulderpads | File ARM_Chain Mail_A_Pants | Disadvantage on Stealth checks.
 - How to get: Last Light Inn X: -22 Y: 175: in a locked Rustic Chest on the second floor of Dammon's blacksmith
 
 ### Nightsong's Armour
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get: Worn by Aylin
 
 ### Protective Plate
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Effect: AC 18 | Grants Resistance to Necrotic damage | Does not give disadvantage on stealth checks.
 - How to get: House of Healing Morgue X: 44 Y: -942: Worn by the Hollow Armour at the bottom of the pit
 
@@ -1615,25 +1675,30 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Armour of Persistence
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 20 | Magical Plate: All incoming damage is reduced by 2. | Legendary Persistence: You gain Resistance and Blade Ward. | Disadvantage on Stealth checks.
 - How to get: Forge of the Nine X: 5 Y: -7: Sold by Dammon in Act Three
 
 ### Blackguard's Plate
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 19 | Magical Plate: All incoming damage is reduced by 1 | Advantage on Wisdom Saving Throws. | Disadvantage on Stealth checks.
 - How to get: Murder Tribunal X: -1293 Y: 503: Worn by the death knight That Which Guards
 
 ### Emblazoned Plate of the Marshal
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 19 | Fire Shield: Cast as a level 4 spell (Recharge: Long rest.) | Magical Plate: All incoming damage is reduced by 2. | Endurance by Fire: You have Resistance to Fire damage and a +2 bonus to Saving Throws. | Disadvantage on Stealth checks.
 - How to get: Wyrm's Rock Fortress: Can be looted from the body of Duke Ulder Ravengard if killed in the audience hall
 
 ### Sarevok's Wretched Armour
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 20 | Magical Plate: All incoming damage is reduced by 2. | Withering Barrier: When you deal Necrotic damage, you gain 1d6 temporary hit points. If a melee attack hits you while you still have temporary hit points, you deal 1d6 Piercing to all creatures within 3 m (10 ft).
 
 ### Cerebral Citadel Armour
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Effect: AC 18 | Frightened Immunity: You can't be Frightened | Illithid Protection: If the wearer is infested by a mind flayer tadpole, they gain +1 to Intelligence, Wisdom, and Charisma Saving Throws. | Disadvantage on Stealth checks.
 - How to get: Knights of the Shield Hideout X: -727 Y: 589: in a wardrobe during the quest Visit the Emperor's Old Hideout
 
@@ -1642,50 +1707,60 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Adamantine Shield
 - Rarity: Rare | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Effect: AC +2 | Adamantine Shield: When a melee attack misses you, the attacker is sent Reeling for 2 turns. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw. | Attackers cannot land critical hits on the wearer.
 - How to get: Adamantine Forge X: -558 Y: 230: Forged from a Shield Mould and Mithral Ore
 
 ### Shield +2
 - Rarity: Rare | Slot: Shield | Act: Act One, Act Two, Act Three
+- Required Proficiency: Shields
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 
 ### Studded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act One, Act Two, Act Three
+- Required Proficiency: Shields
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enhancement.
 - How to get: Cloister of Sombre Embrace X: -369 Y: -1672: Inside the Armoury, leaning against a rack
 
 ### Absolute's Warboard
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Effect: AC +2 | Heroism: Cast as a level 1 spell (Recharge: Long rest.) | Absolute's Ward: If the wielder bears the Absolute's Brand, they gain a +1 bonus to Saving Throws.
 - How to get: Shattered Sanctum X: 298 Y: -16: Carried by True Soul Gut
 
 ### Glowing Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Effect: AC +2 | Loving Protection: Once per Short Rest, if you are below 50% Hit Points and take damage, you gain 8 temporary hit points.
 - How to get: Goblin Camp X: -53 Y: 461: In a locked chest on a ridge behind the camp
 
 ### Safeguard Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Effect: AC +2 | Saving Throws +1
 - How to get: The Hollow X: 177 Y: 562: Sold by Dammon in the Emerald Grove
 
 ### The Real Sparky Sparkswall
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Effect: AC +2 | Lightning Aura: Consume 3 Lightning Charges and release a blast of electricity that damages and Jolts nearby enemies. (Recharge: Long rest.)
 - How to get: Grymforge X: -695 Y: 420: In a locked and trapped chest
 
 ### Wood Woad Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Effect: AC +2 | Woad's Ensnaring Strike: Your attack summons thorny vines that possibly Ensnare your target. (Recharge: Short rest.)
 - How to get: Decrepit Sanctuary X: 85 Y: 212: Carried by Wood Woads in the Sunlit Wetlands
 
 ### Shield of Devotion
 - Rarity: Very Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Effect: AC +2 | Shield of Devotion: Aid: Heal yourself and increase your hit point maximum by 10 hit points. (Recharge: Long rest.) | Additional Spell Slot: You gain 1 Level 1 Spell Slot. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get: Last Light Inn X: -31 Y: 130: Sold by Quartermaster Talli near the Last Light Inn waypoint
 
 ### Shield of Returning
 - Rarity: Very Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Effect: AC +2 | Bound Weapon
 
 ### Absolute's Protector
@@ -1700,6 +1775,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Ketheric's Shield
 - Rarity: Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Effect: AC +2 | Arcane Enchantment: You gain a +1 bonus to Spell Save DC and Spell Attack rolls. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw. | Advantage on Dexterity Saving Throws
 - How to get: Mind Flayer Colony X: 861 Y: -23: Carried by Ketheric Thorm when fought atop Moonrise Towers and in the Mind Flayer Colony (see notes)
 
@@ -1710,6 +1786,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Shield of Scorching Reprisal
 - Rarity: Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Effect: AC +2 | Blazing Retaliation: Huddle behind your shield to increase your Armour Class by 1 and reap scorching retaliation upon attacks who miss you. (Recharge: Short rest.) | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw. | Grants Resistance to Fire damage.
 - How to get: Last Light Inn X: -3 Y: 215: on a buried Flaming Fist's corpse directly east of the "Open Graves" beyond the northern bridge
 
@@ -1720,45 +1797,54 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Ironvine Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Effect: AC +2 | Ironvine: While the wielder is holding a weapon empowered with Shillelagh, and when they are hit by a melee attack, the attacker takes Piercing Damage equal to the wielder's Wisdom modifier. | Enchantment:
 - How to get: Reithwin Tollhouse X: -127 Y: -95: In a chest
 
 ### Watcher's Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Effect: AC +2 | Advantage on Perception Checks
 - How to get: Reithwin Town X: -250 Y: 36: On one of a pair of skeletons along the cliffs west of the House of Healing
 
 ### Viconia's Walking Fortress
 - Rarity: Legendary | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Effect: AC +3 | Reflective Shell: A protective shell envelops you. It reflects any projectiles targeted at you back to their point of origin. (Recharge: Short rest.) | Warding Bond: Ward an ally. They gain resistance to all damage, and a +1 bonus to their Armour Class and Saving Throws. (Recharge: Long rest.) | Rebuke of the Mighty: When a foe hits you with a melee attack, you can use your reaction, dealing 2d4 Force damage and knock it Prone unless they succeed a Dexterity Saving Throw. | Spellguard: You gain Advantage on Saving Throws against spells. Spell Attack Rolls against you have Disadvantage.
 - How to get: Cloister of Sombre Embrace X: -400 Y: -1651: Carried by Viconia De Vir during the quest Daughter of Darkness
 
 ### Abdel's Trusted Shield
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Effect: AC +2 | Protection from Missiles: Amplify your reflexes to better contend with incoming missiles. Ranged weapon attacks against you have Disadvantage, and their damage is halved. (Recharge: Short rest.) | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get: Golbraith's Cellar X: -148 Y: -60: Given by Golbraith on the first floor of his home
 
 ### Shield (Hope)
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Effect: AC +4 | No special properties, beyond the Armour Class enchantment.
 
 ### Shield of the Undevout
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Effect: AC +2 | Dreadful Hewer: Your foes have Disadvantage on Saving Throws to resist your spells or actions that inflict Fear. | Additional Spell Slot: You gain 1 Level 1 Spell Slot. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get: Murder Tribunal X: -1293 Y: 503: Carried by the death knight That Which Guards
 
 ### Swires' Sledboard
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Effect: AC +2 | Shield Conduit: The shield shrouds the wearer with Force Conduit at the start of its turn in combat. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get: Rivington General X: 7 Y: -35: Sold by Exxvikyap in Rivington during Act Three
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three, Act Two
+- Required Proficiency: Shields
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get: Moonrise Towers X: -164 Y: -163: leaning against a rack next to the bugbear merchant Lann Tarv
 
 ### Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three, Act Two
+- Required Proficiency: Shields
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get: Flymm Cargo: Carried by Redhammer
 
@@ -1782,6 +1868,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Grymskull Helm
 - Rarity: Very Rare | Slot: Helmet | Act: Act One
+- Required Proficiency: Heavy Armour
 - Effect: Hunter's Mark: Cast as a level 1 spell (Recharge: Long rest.) | Attackers can't land Critical Hits on the wearer. | Grants Resistance to Fire damage.
 - How to get: Adamantine Forge X: -558 Y: 230: Carried by Grym
 
@@ -1812,6 +1899,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Shadow of Menzoberranzan
 - Rarity: Rare | Slot: Helmet | Act: Act One
+- Required Proficiency: Light Armour
 - Effect: Shrouded in Shadow: Become Invisible. (Recharge: Short rest.)
 - How to get: Ebonlake Grotto X: 52 Y: -70: On the ground next to Xargrim the Pale Corpse, in the secret area unlocked by completing the quest Defeat the Duergar Intruders
 
@@ -1822,6 +1910,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Dark Justiciar Helm
 - Rarity: Uncommon | Slot: Helmet | Act: Act One, Act Two
+- Required Proficiency: Medium Armour
 - Effect: Swathed in Shadow: While obscured by shadow, the wearer gains +1 to Saving Throws when attacked. | Constitution Saving Throws +1
 - How to get: Abandoned Refuge X: -595 Y: 310: On the skeletal remains of Dark Justiciars, north east of the Underdark - Ancient Forge waypoint and south of the heavy splint mold
 
@@ -1832,16 +1921,19 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Helmet of Autonomy
 - Rarity: Uncommon | Slot: Helmet | Act: Act One
+- Required Proficiency: Light Armour
 - Effect: Proficiency in Wisdom Saving Throws
 - How to get: Underdark X: 82 Y: -241: On a skeleton at the entrance to The Festering Cove
 
 ### Helmet of Smiting
 - Rarity: Uncommon | Slot: Helmet | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: Bolstering Smite: When you apply a condition with one of your Smite spells, you gain Temporary Hit Points equal to your Charisma modifier. | Constitution Saving Throws +1
 - How to get: Selûnite Outpost X: 163 Y: -248: Inside a locked gilded chest south-west of the waypoint
 
 ### Holy Lance Helm
 - Rarity: Uncommon | Slot: Helmet | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: Smite the Graceless: Creatures who miss their Attack Rolls against the wearer must make a DC 14 Dexterity Saving Throw or take 1d4 Radiant damage. | Constitution Saving Throws +1
 - How to get: Rosymorn Monastery X: 120 Y: 35: In a painted chest, accessible from the top level
 
@@ -1867,6 +1959,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Dark Justiciar Helmet
 - Rarity: Very Rare | Slot: Helmet | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: Magical Durability: The wielder has a +1 bonus to Saving Throws against spells. | Covert Critical: While obscured, the number you need to roll a Critical Hit while attacking is reduced by 1. This effect can stack. | Constitution Saving Throws +1
 - How to get: Gauntlet of Shar X: -822 Y: -753: inside a Gilded Chest behind the altar and beyond the riddle door in the Silent Library
 
@@ -1887,6 +1980,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Flawed Helldusk Helmet
 - Rarity: Rare | Slot: Helmet | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: Magical Durability: The wielder has a +2 bonus to Saving Throws against spells. | Constitution Saving Throws +1
 - How to get: Last Light Inn X: -33 Y: 164: Crafted by Dammon
 
@@ -1902,11 +1996,13 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Covert Cowl
 - Rarity: Uncommon | Slot: Helmet | Act: Act Two
+- Required Proficiency: Light Armour
 - Effect: Covert Critical: While obscured, the number you need to roll a Critical Hit while attacking is reduced by 1. This effect can stack. | Dexterity Saving Throws +1
 - How to get: Last Light Inn - Cellar X: 33 Y: -697: Carried by a Meenlock in the cellar of Last Light Inn
 
 ### Helmet of Arcane Acuity
 - Rarity: Uncommon | Slot: Helmet | Act: Act Two
+- Required Proficiency: Light Armour
 - Effect: Battle Acuity: Whenever you deal damage with a weapon attack, you gain Arcane Acuity for 2 turns. | Dexterity Saving Throws +1
 - How to get: Mason's Guild X: 107 Y: -758: in a locked and trapped Gilded Chest in a secret basement area
 
@@ -1917,6 +2013,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Helm of Balduran
 - Rarity: Legendary | Slot: Helmet | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Balduran's Vitality: The helmet heals you 2 Hit Points at the beginning of every turn. | Balduran's Favour: You have a +1 bonus to Armour Class and Saving Throws. | Stun Immunity: You can't be Stunned. | Attackers can't land Critical Hits on the wearer.
 - How to get: The Dragon's Sanctum X: 636 Y: -964: on top of a stone altar next to Ansur
 
@@ -1947,6 +2044,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Helmet of Grit
 - Rarity: Very Rare | Slot: Helmet | Act: Act Three
+- Required Proficiency: Light Armour
 - Effect: Grit: When the wearer has 50% Hit Points or less, they have an additional Bonus Action. | Dexterity Saving Throws +1
 - How to get: Szarr Palace X: -1298 Y: 965: In a locked opulent chest in the room with the cursed corpse of Victoria
 
@@ -1977,6 +2075,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Sarevok's Horned Helmet
 - Rarity: Very Rare | Slot: Helmet | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Deathbringer's Sight: You can see in the dark up to 3 m (10 ft). The number you need to roll a Critical Hit while attacking is reduced by one. This effect can stack. | Dauntless: You can't be Frightened or afflicted with other emotion-altering conditions.
 - How to get: Murder Tribunal X: -1248 Y: 503: Carried by Sarevok Anchev
 
@@ -2002,6 +2101,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Steelwatcher Helmet
 - Rarity: Rare | Slot: Helmet | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Artificial Sight: The wearer can see in the dark up to 12 m (40 ft) and cannot be Blinded. | Advantage on Constitution saving throws
 - How to get: Steel Watch Foundry X: -275 Y: -134: On a table on the ground floor near the east entrance
 
@@ -2168,6 +2268,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Gauntlets of Surging Accuracy
 - Rarity: Rare | Slot: Gloves | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: Surge Accuracy: When you use Action Surge, gain a +1d4 bonus to Attack Rolls for the rest of your turn. | Strength Saving Throws +1
 - How to get: Moonrise Towers X: -164 Y: -167: Sold by Lann Tarv on the main floor
 
@@ -2268,6 +2369,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Gauntlets of the Warmaster
 - Rarity: Very Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Heightened Manoeuvre: Targets have Disadvantage on Saving Throws against your Manoeuvre and Weapon Actions. | Attack rolls +1
 - How to get: Danthelon's Dancing Axe X: -10 Y: 143: Sold by Entharl Danthelon in Wyrm's Crossing
 
@@ -2283,6 +2385,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Legacy of the Masters
 - Rarity: Very Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Arming Enhancement: Gain a +2 Bonus to attack and damage rolls with weapons. | Strength Saving Throws +1
 - How to get: Forge of the Nine X: 5 Y: -7: Sold by Dammon in Act Three
 
@@ -2303,11 +2406,13 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### The Reviving Hands
 - Rarity: Very Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Revivify: Cast as a level 3 spell (Recharge: Long rest.) | Aegis Palms: When you heal a creature, it gains the effect of Blade Ward. When you Revive a creature it gains the effect of Death Ward. | Strength Saving Throws +1
 - How to get: Stormshore Tabernacle X: 107 Y: -22: Sold by Vicar Humbletoes
 
 ### Blackguard's Gauntlets
 - Rarity: Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Inflict Wounds: Cast as a level 4 spell (Recharge: Long rest.) | Strength Saving Throws +1 | Attack rolls +1
 - How to get: Murder Tribunal X: -1292 Y: 501: Carried by the death knight That Which Watches
 
@@ -2368,6 +2473,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Unwanted Masterwork Gauntlets
 - Rarity: Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Strength Saving Throws +1 | Attack rolls +1
 - How to get: Forge of the Nine X: 393 Y: 763: in a gilded chest in the basement
 
@@ -2421,6 +2527,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### The Speedy Lightfeet
 - Rarity: Rare | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: Speedy Sparks: When the wearer Dashes or takes a similar action in combat, they gain 3 Lightning Charges | Athletics +1
 - How to get: Blighted Village X: -711 Y: -412: In a heavy chest in the cellar behind the windmill
 
@@ -2431,6 +2538,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Vital Conduit Boots
 - Rarity: Rare | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: Vital Conduit: Grants the wearer 8 temporary hit points when they cast a Spell that requires Concentration. | Athletics +1
 - How to get: Crèche Y'llek X: 1380 Y: -798: Sold by A'jak'nir Jeera
 
@@ -2441,6 +2549,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Boots of Elemental Momentum
 - Rarity: Uncommon | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: Elemental Momentum: Whenever the wearer deals Acid, Cold, Fire, Lightning or Thunder damage with Spells or Cantrip, they gain Momentum for 2 turns. | Athletics +1
 - How to get: Rosymorn Monastery Trail X: -43 Y: -129: Sold by Lady Esther, north-east of the Trielta Crags waypoint
 
@@ -2451,6 +2560,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Boots of Striding
 - Rarity: Uncommon | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Effect: Focused Stride: When you cast a spell that requires Concentration, you gain Momentum for 1 turn. While you are concentrating, you cannot be knocked Prone or moved against your will. | Athletics +1
 - How to get: Shattered Sanctum X: 335 Y: 43: Worn by Minthara
 
@@ -2496,6 +2606,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Dark Justiciar Boots
 - Rarity: Rare | Slot: Boots | Act: Act Two
+- Required Proficiency: Medium Armour
 - Effect: Shadow Teleportation: Teleport to an unoccupied, obscured spot. (Recharge: Short rest.) | Dexterity Saving Throws +1
 - How to get: Shadowfell X: -604 Y: -1431: Rewarded to Shadowheart for killing the Nightsong
 
@@ -2511,11 +2622,13 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Boots of Persistence
 - Rarity: Very Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Legendary Mobility: You gain Freedom of Movement and Longstrider. | Dexterity Saving Throws +1
 - How to get: Forge of the Nine X: 5 Y: -7: Sold by Dammon in the Lower City
 
 ### Boots of Psionic Movement
 - Rarity: Very Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Githborn: Flying Boots: Cast as a level 3 spell (Recharge: Long rest.) | Flying Strike: When a githyanki casts Fly, their next melee weapon attack deals an additional 1d4 Psychic damage. | Dexterity Saving Throws +1
 - How to get: Knights of the Shield Hideout X: -731 Y: 553: Worn by Ch'r'ai Har'rak
 
@@ -2526,6 +2639,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Blackguard's Greaves
 - Rarity: Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Strider Movement: You gain Longstrider. | Athletics +1
 - How to get: Murder Tribunal X: -1292 Y: 505: Worn by the death knight That Which Lurks
 
@@ -2551,6 +2665,7 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Unwanted Masterwork Greaves
 - Rarity: Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Effect: Athletics +1
 - How to get: Forge of the Nine X: 393 Y: 763: In a gilded chest in the basement
 
@@ -3247,30 +3362,37 @@ Acts: Act One / Act Two / Act Three. Rarity: Story, Legendary, Very Rare, Rare, 
 
 ### Lihala's Lute
 - Rarity: Story Item | Slot: Instrument | Act: Act One
+- Required Proficiency: Musical Instruments
 - How to get: Emerald Grove X: 283 Y: 496: Given by Alfira during conversation.
 
 ### Spider's Lyre
 - Rarity: Story Item | Slot: Instrument | Act: Act One
+- Required Proficiency: Musical Instruments
 - How to get: Held by Minthara in Goblin Camp. Can be pickpocketed or taken off of her if killed or knocked out.
 
 ### Dostrealt's Piccolo
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - How to get: Chromatic Scale: can be purchased from Thomas C. Quirkilious
 
 ### Falataeric Cli Lyre
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - How to get: Chromatic Scale: can be purchased from Thomas C. Quirkilious
 
 ### Glimmergad's Selgaunt Fiddle
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - How to get: Chromatic Scale: Can be purchased from Thomas C. Quirkilious
 
 ### Kiam Goda's Kilat Drum
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - How to get: Chromatic Scale: Can be purchased from Thomas C. Quirkilious
 
 ### Stolyarof's Table Lute
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - How to get: Chromatic Scale: Can be purchased from Thomas C. Quirkilious
 
 

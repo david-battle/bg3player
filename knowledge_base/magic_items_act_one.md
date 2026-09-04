@@ -7,6 +7,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Helm
 - Rarity: Uncommon | Slot: Helmet | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: A Dark Justiciar Helm is an uncommon Helmet worn by Shar's Dark Justiciars that grants a bonus to Saving Throws while obscured by shadow.
 - Effect: Swathed in Shadow: While obscured by shadow, the wearer gains +1 to Saving Throws when attacked. | Constitution Saving Throws +1
 - How to get:
@@ -71,6 +72,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Adamantine Scale Mail
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: Adamantine Scale Mail is a very rare Medium Armour that reduces all incoming damage by 1 and sends attackers Reeling. In addition, attacks cannot land Critical Hits on the user.
 - Effect: AC 16 | Magical Plate: All incoming damage is reduced by 1 | Adamantine Backlash: When a melee attack hits you, the attacker is sent Reeling for 2 turns. | Attackers can't land Critical Hits on the wearer. | Disadvantage on Stealth checks.
 - How to get:
@@ -96,6 +98,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Adamantine Shield
 - Rarity: Rare | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Description: Adamantine Shield is a rare Shield that sends enemies Reeling when they miss you with a melee attack.
 - Effect: AC +2 | Adamantine Shield: When a melee attack misses you, the attacker is sent Reeling for 2 turns. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw. | Attackers cannot land critical hits on the wearer.
 - How to get:
@@ -109,6 +112,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Adamantine Splint Armour
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act One
+- Required Proficiency: Heavy Armour
 - Description: Adamantine Splint Armour is a very rare Heavy Armour that reduces all incoming damage by 2 and sends attackers Reeling. In addition, attacks cannot land Critical Hits on the wearer.
 - Effect: AC 18 | Magical Plate: All incoming damage is reduced by 2. | Intense Adamantine Backlash: When a melee attack hits you, the Attacker is sent Reeling for 3 turns. | Attackers cannot land Critical Hits on the wearer. | Disadvantage on Stealth checks.
 - How to get:
@@ -121,6 +125,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Grymskull Helm
 - Rarity: Very Rare | Slot: Helmet | Act: Act One
+- Required Proficiency: Heavy Armour
 - Description: The Grymskull Helm is a very rare helmet. It grants fire resistance, protects its wearer from critical hits and grants the Hunter's Mark spell.
 - Effect: Hunter's Mark: Cast as a level 1 spell (Recharge: Long rest.) | Attackers can't land Critical Hits on the wearer. | Grants Resistance to Fire damage.
 - How to get:
@@ -325,6 +330,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### The Speedy Lightfeet
 - Rarity: Rare | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Speedy Lightfeet are a pair of rare Boots that allow the wearer to gain Lightning Charges when Dashing in combat.
 - Effect: Speedy Sparks: When the wearer Dashes or takes a similar action in combat, they gain 3 Lightning Charges | Athletics +1
 - How to get:
@@ -369,6 +375,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Blazer of Benevolence
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One
+- Required Proficiency: Light Armour
 - Description: The Blazer of Benevolence is an uncommon Light Armour that grants the wearer Temporary Hit Points when they inspire an ally with Bardic Inspiration.
 - Effect: AC 11 | Remedial Rhymes: When you inspire an ally using Bardic Inspiration, you gain 4 temporary hit points.
 - How to get:
@@ -712,6 +719,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Vital Conduit Boots
 - Rarity: Rare | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Vital Conduit Boots are a pair of rare Boots that grants the wearer temporary Hit Points when they cast a Spell that requires Concentration.
 - Effect: Vital Conduit: Grants the wearer 8 temporary hit points when they cast a Spell that requires Concentration. | Athletics +1
 - How to get:
@@ -772,6 +780,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Wood Woad Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Description: Wood Woad Shield is an uncommon Shield found on Wood Woads and grants its wearer the ability to cast Woad's Ensnaring Strike.
 - Effect: AC +2 | Woad's Ensnaring Strike: Your attack summons thorny vines that possibly Ensnare your target. (Recharge: Short rest.)
 - How to get:
@@ -1079,6 +1088,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shadow of Menzoberranzan
 - Rarity: Rare | Slot: Helmet | Act: Act One
+- Required Proficiency: Light Armour
 - Description: The Shadow of Menzoberranzan is a rare Helmet that allows the wearer to use Shrouded in Shadow to become Invisible.
 - Effect: Shrouded in Shadow: Become Invisible. (Recharge: Short rest.)
 - How to get:
@@ -1143,6 +1153,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Breastplate +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: Breastplate +1 is an uncommon Medium Armour that reduces Piercing damage.
 - Effect: AC 15 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1
 - How to get:
@@ -1167,6 +1178,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Lihala's Lute
 - Rarity: Story Item | Slot: Instrument | Act: Act One
+- Required Proficiency: Musical Instruments
 - Description: Lihala's Lute is a unique instrument. It can be played with the Perform action.
 - How to get:
   - Emerald Grove X: 283 Y: 496: Given by Alfira during conversation.
@@ -1262,6 +1274,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Glowing Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Description: The Glowing Shield is an uncommon Shield that grants its user Temporary Hit Points once per Short Rest when they take damage while greatly injured.
 - Effect: AC +2 | Loving Protection: Once per Short Rest, if you are below 50% Hit Points and take damage, you gain 8 temporary hit points.
 - How to get:
@@ -1356,6 +1369,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Mail
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: Dark Justiciar Mail is an uncommon Medium Armour that deals Necrotic damage to creatures that hit the wearer with a melee attack while the wearer is Obscured by shadow.
 - Effect: AC 13 | Nightsinger's Reply: While obscured by shadow, the wearer deals 1d4 Necrotic damage to attackers that hit them with a melee attack. | File ARM_Dark_Dark_Justiciar_A_Pants
 - How to get:
@@ -1365,6 +1379,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Mail
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: Dark Justiciar Mail is an uncommon Medium Armour that deals Necrotic damage to creatures that hit the wearer with a melee attack while the wearer is Obscured by shadow.
 - Effect: AC 13 | Nightsinger's Reply: While obscured by shadow, the wearer deals 1d4 Necrotic damage to attackers that hit them with a melee attack. | File ARM_Dark_Dark_Justiciar_A_Pants
 - How to get:
@@ -1500,6 +1515,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### The Real Sparky Sparkswall
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Description: The Real Sparky Sparkswall is an uncommon Shield that allows the wearer to create a Lightning Aura.
 - Effect: AC +2 | Lightning Aura: Consume 3 Lightning Charges and release a blast of electricity that damages and Jolts nearby enemies. (Recharge: Long rest.)
 - How to get:
@@ -1700,6 +1716,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### The Oak Father's Embrace
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Oak Father's Embrace is an uncommon Medium Armour that deals Radiant damage to creatures violating the natural order, including the wearer.
 - Effect: AC 13 | Order of Nature: Undead creatures that hit the wearer receive 1d6 Radiant damage. Beasts that hit the wearer deal an additional 1d6 Radiant damage. | File ARM_Hide_A_1_Body
 - How to get:
@@ -1809,6 +1826,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Holy Lance Helm
 - Rarity: Uncommon | Slot: Helmet | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: A Holy Lance Helm is an uncommon Helmet that potentially deals radiant damage to creatures that attack the wearer.
 - Effect: Smite the Graceless: Creatures who miss their Attack Rolls against the wearer must make a DC 14 Dexterity Saving Throw or take 1d4 Radiant damage. | Constitution Saving Throws +1
 - How to get:
@@ -1820,6 +1838,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Boots of Elemental Momentum
 - Rarity: Uncommon | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Boots of Elemental Momentum are an uncommon pair of Boots that grant Momentum whenever the wearer deals elemental damage with a spell or cantrip.
 - Effect: Elemental Momentum: Whenever the wearer deals Acid, Cold, Fire, Lightning or Thunder damage with Spells or Cantrip, they gain Momentum for 2 turns. | Athletics +1
 - How to get:
@@ -1991,6 +2010,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Chain of Liberation
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Chain of Liberation is an uncommon Medium Armour that allows the wearer to sacrifice their Momentum (Condition) to rush forward and avoid Attacks of Opportunity.
 - Effect: AC 13 | Sprint: Once per turn, the wearer can reduce the duration of their Momentum by 1 turn to Sprint.
 - How to get:
@@ -2002,6 +2022,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Helmet of Smiting
 - Rarity: Uncommon | Slot: Helmet | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Helmet of Smiting is an uncommon Helmet which grants the wearer Temporary Hit Points whenever they apply a Condition using a Smite spell.
 - Effect: Bolstering Smite: When you apply a condition with one of your Smite spells, you gain Temporary Hit Points equal to your Charisma modifier. | Constitution Saving Throws +1
 - How to get:
@@ -2016,6 +2037,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Luminous Armour
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: Luminous Armour is an uncommon Medium Armour that allows the wearer to cause radiant shockwaves whenever they deal Radiant damage.
 - Effect: AC 15 | Radiating Shockwave: When the wearer deals Radiant damage, they cause a Radiant Shockwave. | Enchantment: + 1 | File ARM_Breast Plate_A_1_Pants
 - How to get:
@@ -2040,6 +2062,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Absolute's Warboard
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Description: Absolute's Warboard is an uncommon Shield that improves a branded wearer's Saving Throws and allows them to cast Heroism once per Long Rest.
 - Effect: AC +2 | Heroism: Cast as a level 1 spell (Recharge: Long rest.) | Absolute's Ward: If the wielder bears the Absolute's Brand, they gain a +1 bonus to Saving Throws.
 - How to get:
@@ -2076,6 +2099,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Boots of Striding
 - Rarity: Uncommon | Slot: Boots | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Boots of Striding are an uncommon pair of Boots that grants the wearer a burst of speed whenever they begin concentrating on a spell.
 - Effect: Focused Stride: When you cast a spell that requires Concentration, you gain Momentum for 1 turn. While you are concentrating, you cannot be knocked Prone or moved against your will. | Athletics +1
 - How to get:
@@ -2251,6 +2275,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Spidersilk Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One
+- Required Proficiency: Light Armour
 - Description: Spidersilk Armour is a rare Light Armour that aids the wearer with Stealth checks and Constitution Saving Throws.
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks. | Advantage on Constitution Saving Throws
 - How to get:
@@ -2345,6 +2370,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Drow Studded Leather Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One
+- Required Proficiency: Light Armour
 - Description: Drow Studded Leather Armour is a rare Light Armour that aids the wearer with Stealth checks.
 - Effect: AC 12 | Stealth +1
 - How to get:
@@ -2355,6 +2381,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Drow Studded Leather Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One
+- Required Proficiency: Light Armour
 - Description: Drow Studded Leather Armour is a rare Light Armour that aids the wearer with Stealth checks.
 - Effect: AC 12 | Stealth +1
 - How to get:
@@ -2365,6 +2392,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Helmet of Autonomy
 - Rarity: Uncommon | Slot: Helmet | Act: Act One
+- Required Proficiency: Light Armour
 - Description: The Helmet of Autonomy is an uncommon Helmet that grants the wearer Proficiency in Wisdom Saving Throws.
 - Effect: Proficiency in Wisdom Saving Throws
 - How to get:
@@ -2686,6 +2714,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### The Jolty Vest
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Jolty Vest is a Rare Medium Armour that shocks enemies who land attacks on the wearer while they have Lightning Charges.
 - Effect: AC 14 | Superior Material: You take 1 less Slashing damage. | Countershock: When the wearer takes damage while having Lightning Charges, the attacker must succeed a Dexterity Saving Throw or become Shocked. | File ARM_Chain Shirt_A_1_Shoulderpads | File ARM_Chain Shirt_A_2_Pants
 - How to get:
@@ -2741,6 +2770,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Spider's Lyre
 - Rarity: Story Item | Slot: Instrument | Act: Act One
+- Required Proficiency: Musical Instruments
 - Description: Spider's Lyre is a quest item that is dropped by Minthara and Nere. The Lyre is used to summon a guide in crossing through the Shadow-Cursed Lands to reach Moonrise Towers.
 - How to get:
   - Held by Minthara in Goblin Camp. Can be pickpocketed or taken off of her if killed or knocked out.
@@ -2892,6 +2922,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Hedge Wanderer Armour
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Hedge Wanderer Armour is an uncommon Medium Armour that provides a small boost to Dexterity related rolls and towards Nature Skill Checks.
 - Effect: AC 13 | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | File ARM_Hide_A_1_Body | Nature +1.
 - How to get:
@@ -2938,6 +2969,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Safeguard Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act One
+- Required Proficiency: Shields
 - Description: The Safeguard Shield is an uncommon Shield that grants you Saving Throws +1
 - Effect: AC +2 | Saving Throws +1
 - How to get:
@@ -2969,6 +3001,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Slippery Chain Shirt
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One
+- Required Proficiency: Medium Armour
 - Description: The Slippery Chain Shirt is an uncommon Medium Armour. It allows the wearer to move without provoking Opportunity Attacks after healing a creature.
 - Effect: AC 13 | Cautious Healer: When the wearer heals a creature, it automatically Disengages and won't trigger Opportunity Attacks.
 - How to get:

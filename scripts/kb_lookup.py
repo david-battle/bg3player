@@ -75,19 +75,24 @@ def print_items(items, limit):
     if not items:
         print("(no matches)")
         return
-    for it in items[:limit]:
+    total = len(items)
+    shown = items[:limit] if limit else items
+    for it in shown:
         acts = ", ".join(it.get("acts") or ["Act: unknown"])
         eff = (it.get("list_rows") or [{}])
         eff = eff[0].get("list_effect", "") if eff and isinstance(eff[0], dict) else ""
         eff = re.sub(r"\s+", " ", eff).strip()
-        print(f"### {it['name']} ({it['rarity']}, {it['slot']}) - {acts}")
+        slot = it.get("slot") or it.get("type") or ""
+        prof = it.get("proficiency")
+        print(f"### {it['name']} ({it['rarity']}, {slot}) - {acts}"
+              + (f" [requires {prof}]" if prof else ""))
         if eff:
             print(f"  {eff}")
         wtf = it.get("where_to_find") or []
         for w in wtf[:2]:
             print(f"  Get: {re.sub(chr(10), ' ', w)}")
-    if len(items) > limit:
-        print(f"  ... and {len(items) - limit} more (narrow the filters)")
+    if limit and total > limit:
+        print(f"  ... and {total - limit} more (narrow the filters or raise --limit)")
 
 
 def cmd_item(args):
@@ -104,7 +109,13 @@ def cmd_item(args):
     if args.effect:
         tokens = args.effect.lower().split()
         items = [i for i in items
-                 if all(t in text_of(i, ["description", "list_rows"]).lower() for t in tokens)]
+                 if all(t in text_of(i, ["description", "list_rows", "slot"]).lower()
+                        for t in tokens)]
+    if args.proficiency:
+        tokens = args.proficiency.lower().split()
+        items = [i for i in items
+                 if i.get("proficiency")
+                 and all(t in i["proficiency"].lower() for t in tokens)]
     if args.where:
         tokens = args.where.lower().split()
         items = [i for i in items if matches_location(i, tokens)]
@@ -123,7 +134,7 @@ def cmd_consumable(args):
     if args.effect:
         tokens = args.effect.lower().split()
         cons = [c for c in cons
-                if all(t in text_of(c, ["description", "properties", "where_to_find"]).lower()
+                if all(t in text_of(c, ["description", "properties", "where_to_find", "type"]).lower()
                        for t in tokens)]
     if args.where:
         tokens = args.where.lower().split()
@@ -365,12 +376,13 @@ def main():
 
     def add(cmd, help_text):
         sp = sub.add_parser(cmd, help=help_text)
-        sp.add_argument("--limit", type=int, default=10)
+        sp.add_argument("--limit", type=int, default=0, help="max results (0 = all)")
         return sp
 
     sp = add("item", "search equipment by slot/act/effect")
     sp.add_argument("--slot"); sp.add_argument("--act"); sp.add_argument("--rarity")
     sp.add_argument("--name"); sp.add_argument("--effect"); sp.add_argument("--where")
+    sp.add_argument("--proficiency", help="armour proficiency required, e.g. 'light'")
 
     sp = add("consumable", "search consumables by type/act/effect")
     sp.add_argument("--type"); sp.add_argument("--act"); sp.add_argument("--name")

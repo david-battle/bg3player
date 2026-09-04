@@ -168,6 +168,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Emblazoned Plate of the Marshal
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Description: Emblazoned Plate of the Marshal is a very rare Heavy Armour that reduces all damage by 2, grants Fire Resistance, and the ability to cast Fire Shield.
 - Effect: AC 19 | Fire Shield: Cast as a level 4 spell (Recharge: Long rest.) | Magical Plate: All incoming damage is reduced by 2. | Endurance by Fire: You have Resistance to Fire damage and a +2 bonus to Saving Throws. | Disadvantage on Stealth checks.
 - How to get:
@@ -205,6 +206,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dostrealt's Piccolo
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - Description: Dostrealt's Piccolo is a unique instrument. It can be played with the Perform action.
 - How to get:
   - Chromatic Scale: can be purchased from Thomas C. Quirkilious
@@ -214,6 +216,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Falataeric Cli Lyre
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - Description: Falataeric Cli Lyre is a unique instrument. It can be played with the Perform action.
 - How to get:
   - Chromatic Scale: can be purchased from Thomas C. Quirkilious
@@ -223,6 +226,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Glimmergad's Selgaunt Fiddle
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - Description: Glimmergad's Selgaunt Fiddle is a unique instrument. It can be played with the Perform action.
 - How to get:
   - Chromatic Scale: Can be purchased from Thomas C. Quirkilious
@@ -232,6 +236,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Kiam Goda's Kilat Drum
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - Description: Kiam Goda's Kilat Drum is a unique instrument. It can be played with the Perform action.
 - How to get:
   - Chromatic Scale: Can be purchased from Thomas C. Quirkilious
@@ -239,6 +244,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Stolyarof's Table Lute
 - Rarity: Rare | Slot: Instrument | Act: Act Three
+- Required Proficiency: Musical Instruments
 - Description: Stolyarof's Table Lute is a unique instrument. It can be played with the Perform action.
 - How to get:
   - Chromatic Scale: Can be purchased from Thomas C. Quirkilious
@@ -386,6 +392,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Elegant Studded Leather
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: Elegant Studded Leather is a very rare Light Armour which provides bonuses to initiative, Advantage on Stealth checks, and grants access to the Shield spell.
 - Effect: AC 14 | Shield: Cast as a level 1 spell (Recharge: Short rest.) | Ambusher: Gain a +2 bonus to Initiative Rolls. | File ARM_Studded Leather_A_2_Pants | File ARM_Studded Leather_A_Sleeves_C | Advantage on Stealth checks.
 - How to get:
@@ -464,6 +471,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Gauntlets of the Warmaster
 - Rarity: Very Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Gauntlets of the Warmaster are a very rare pair of Gauntlets. They grant their wielder +1 on Attack Rolls and subject the targets of their Manoeuvres to Disadvantage.
 - Effect: Heightened Manoeuvre: Targets have Disadvantage on Saving Throws against your Manoeuvre and Weapon Actions. | Attack rolls +1
 - How to get:
@@ -736,6 +744,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: A Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -764,6 +773,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Armour of Persistence
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Description: Armour of Persistence is a very rare Armour that grants its wearer permanent Resistance and Blade Ward effects in addition to reducing all damage taken by 2.
 - Effect: AC 20 | Magical Plate: All incoming damage is reduced by 2. | Legendary Persistence: You gain Resistance and Blade Ward. | Disadvantage on Stealth checks.
 - How to get:
@@ -774,6 +784,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Boots of Persistence
 - Rarity: Very Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Boots of Persistence is a pair of Boots that grant their wearer permanent Freedom of Movement and Longstrider effects.
 - Effect: Legendary Mobility: You gain Freedom of Movement and Longstrider. | Dexterity Saving Throws +1
 - How to get:
@@ -784,6 +795,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Legacy of the Masters
 - Rarity: Very Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: The Legacy of the Masters are a very rare pair of Gloves that grant +2 to the wearer's attack and damage rolls.
 - Effect: Arming Enhancement: Gain a +2 Bonus to attack and damage rolls with weapons. | Strength Saving Throws +1
 - How to get:
@@ -794,6 +806,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Unwanted Masterwork Gauntlets
 - Rarity: Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Unwanted Masterwork Gauntlets are a rare pair of Gloves that provide a bonus to Attack Rolls and Strength Saving Throws. They are part of the Unwanted set.
 - Effect: Strength Saving Throws +1 | Attack rolls +1
 - How to get:
@@ -802,6 +815,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Unwanted Masterwork Greaves
 - Rarity: Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Unwanted Masterwork Greaves are a rare pair of Boots that provide a bonus to Athletics. It is part of the Unwanted set.
 - Effect: Athletics +1
 - How to get:
@@ -812,6 +826,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Unwanted Masterwork Scalemail
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: The Unwanted Masterwork Scalemail is a rare Medium Armour which does not limit the wearer's AC's Dexterity bonus. It is part of the Unwanted set.
 - Effect: AC 16 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Resistance to Fire damage
 - How to get:
@@ -827,6 +842,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Scarlet Leather Armour
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: Scarlet Leather Armour is an uncommon Light Armour that grants its wearer +1 to Stealth checks.
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks.
 - How to get:
@@ -841,6 +857,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Abdel's Trusted Shield
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Abdel's Trusted Shield is a very rare Shield that allows the wearer to cast Protection from Missiles once per Short Rest, as well as use Shield Bash.
 - Effect: AC +2 | Protection from Missiles: Amplify your reflexes to better contend with incoming missiles. Ranged weapon attacks against you have Disadvantage, and their damage is halved. (Recharge: Short rest.) | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get:
@@ -910,6 +927,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: A Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -953,6 +971,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Scarlet Leather Armour
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: Scarlet Leather Armour is an uncommon Light Armour that grants its wearer +1 to Stealth checks.
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks.
 - How to get:
@@ -1039,6 +1058,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Boots of Psionic Movement
 - Rarity: Very Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Boots of Psionic Movement are a very rare pair of Boots that allow Githyanki wearers to fly, and enhances their attacks with Psychic damage.
 - Effect: Githborn: Flying Boots: Cast as a level 3 spell (Recharge: Long rest.) | Flying Strike: When a githyanki casts Fly, their next melee weapon attack deals an additional 1d4 Psychic damage. | Dexterity Saving Throws +1
 - How to get:
@@ -1051,6 +1071,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Cerebral Citadel Armour
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Description: Cerebral Citadel Armour is a rare Heavy Armour. If the wearer is infested by a mind flayer tadpole, it grants them immunity to being Frightened and gives a +1 bonus to all Intelligence, Wisdom, and Charisma saving throws.
 - Effect: AC 18 | Frightened Immunity: You can't be Frightened | Illithid Protection: If the wearer is infested by a mind flayer tadpole, they gain +1 to Intelligence, Wisdom, and Charisma Saving Throws. | Disadvantage on Stealth checks.
 - How to get:
@@ -1111,6 +1132,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1120,6 +1142,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1259,6 +1282,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Armour of Moonbasking
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: Armour of Moonbasking is a very rare Light Armour that bestows Temporary Hit Points and Armour Class to its wielder when they Wild Shape.
 - Effect: AC 11 | Lunar Bestial Vitality: You gain 22 temporary hit points after casting Wild Shape. While those temporary hit points are active reduce all incoming damage by 1. | Lunar Bestial Fortitude: You have a +2 bonus to Armour Class. You also have Advantage on Saving Throws against spells. This effect persists while using your druidic Wild Shape ability. | File ARM_Druid_B_2_Pants | File ARM_Druid_C_2_Body | File ARM_Druid_C_2_Sleeve
 - How to get:
@@ -1388,6 +1412,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Bhaalist Armour
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: Bhaalist Armour is a very rare Light Armour which grants Aura of Murder and a bonus to Initiative rolls.
 - Effect: AC 14 | Aura of Murder: Enemies within 3 m (10 ft) become Vulnerable to Piercing damage, unless they are Immune to it. | Ambusher: Gain a +2 bonus to Initiative Rolls. | File ARM_Studded Leather_A_2_Pants | File ARM_Studded Leather_A_Sleeves_C
 - How to get:
@@ -1415,6 +1440,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Blackguard's Gauntlets
 - Rarity: Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Blackguard's Gauntlets are a rare pair of Gauntlets that grant their wearer +1 to Attacks and Strength Saving Throws. They also allow their wearer to cast Inflict Wounds as a 4th level spell once per Long Rest.
 - Effect: Inflict Wounds: Cast as a level 4 spell (Recharge: Long rest.) | Strength Saving Throws +1 | Attack rolls +1
 - How to get:
@@ -1423,6 +1449,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Blackguard's Greaves
 - Rarity: Rare | Slot: Boots | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Blackguard's Greaves are a rare pair of Greaves that grant their wearer a permanent Longstrider effect and a +1 bonus to Athletics.
 - Effect: Strider Movement: You gain Longstrider. | Athletics +1
 - How to get:
@@ -1431,6 +1458,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Blackguard's Plate
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Description: Blackguard's Plate is a very rare Heavy Armour that reduces all incoming damage by 1 and grants Advantage on Wisdom Saving Throws.
 - Effect: AC 19 | Magical Plate: All incoming damage is reduced by 1 | Advantage on Wisdom Saving Throws. | Disadvantage on Stealth checks.
 - How to get:
@@ -1511,6 +1539,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Sarevok's Horned Helmet
 - Rarity: Very Rare | Slot: Helmet | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Sarevok's Horned Helmet is a very rare Headwear that grants Darkvision to its wearer and increases critical hit chance. You also cannot be Frightened.
 - Effect: Deathbringer's Sight: You can see in the dark up to 3 m (10 ft). The number you need to roll a Critical Hit while attacking is reduced by one. This effect can stack. | Dauntless: You can't be Frightened or afflicted with other emotion-altering conditions.
 - How to get:
@@ -1524,6 +1553,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield of the Undevout
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Shield of the Undevout is a very rare Shield that applies Disadvantage on Frightened Saving Throws to your foes and grants an additional level 1 spell slot. It also grants Shield Bash.
 - Effect: AC +2 | Dreadful Hewer: Your foes have Disadvantage on Saving Throws to resist your spells or actions that inflict Fear. | Additional Spell Slot: You gain 1 Level 1 Spell Slot. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get:
@@ -1645,6 +1675,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Armour of the Sporekeeper
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: Armour of the Sporekeeper is a very rare Light Armour that enhances the wearer's Necrotic damage and Symbiotic Entity ability with 3 new abilities.
 - Effect: AC 13 | Malefic Funghi: The wearer gains a +1 bonus to Spell Save DC and when dealing Necrotic damage, they deal an additional 1 Necrotic damage. | Spore Sacks: While imbued with Symbiotic Entity, you can spread Bibberbang Spores, Timmask Spores, and Haste Spores. | File ARM_Druid_B_2_Pants | File ARM_Druid_C_2_Body | File ARM_Druid_C_2_Sleeve
 - How to get:
@@ -1905,6 +1936,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1914,6 +1946,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1923,6 +1956,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: A Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1935,6 +1969,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: A Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1959,6 +1994,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Swires' Sledboard
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Swires' Sledboard is a very rare shield that grants the wearer Force Conduit at the start of combat. It also grants Shield Bash.
 - Effect: AC +2 | Shield Conduit: The shield shrouds the wearer with Force Conduit at the start of its turn in combat. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get:
@@ -2022,6 +2058,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Armour of Landfall
 - Rarity: Very Rare | Slot: Light Armour (Light) | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: Armour of Landfall is a very rare light armour which improves the spellcasting ability of its wearer and grants Advantage on Constitution Saving Throws. The wearer also heals while standing in vines and can cast Plant Growth.
 - Effect: AC 13 | Plant Growth: Cast as a level 3 spell (Recharge: Short rest.) | High Spellcasting: You gain a +1 bonus to Spell Save DC. | Green Bed Regeneration: When starting your turn on Plant Growth Surface or Vine Surface regain 1d4 Hit Points. | File ARM_Druid_B_2_Pants | File ARM_Druid_C_2_Body | File ARM_Druid_C_2_Sleeve | Advantage on Constitution Saving Throws.
 - How to get:
@@ -2146,6 +2183,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Steelwatcher Helmet
 - Rarity: Rare | Slot: Helmet | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Steel Watcher Helmet is a rare Helmet that grants the wearer Darkvision and immunity to Blindness. It also grants Advantage on Constitution Saving Throws.
 - Effect: Artificial Sight: The wearer can see in the dark up to 12 m (40 ft) and cannot be Blinded. | Advantage on Constitution saving throws
 - How to get:
@@ -2169,6 +2207,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Armour of Agility
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: The Armour of Agility is a very rare Medium Armour that doesn't limit your AC's Dexterity bonus, and boosts all of the user's Saving Throws by 2.
 - Effect: AC 17 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Saving Throws +2.
 - How to get:
@@ -2241,6 +2280,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -2250,6 +2290,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -2282,6 +2323,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### The Reviving Hands
 - Rarity: Very Rare | Slot: Gloves | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: The Reviving Hands are a very rare pair of Gloves that grants the wearer the to ability to cast Revivify. They also apply Blade Ward and Death Ward to creatures healed or revived by the wearer respectively.
 - Effect: Revivify: Cast as a level 3 spell (Recharge: Long rest.) | Aegis Palms: When you heal a creature, it gains the effect of Blade Ward. When you Revive a creature it gains the effect of Death Ward. | Strength Saving Throws +1
 - How to get:
@@ -2431,6 +2473,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Emblazoned Plate of the Marshal
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Description: Emblazoned Plate of the Marshal is a very rare Heavy Armour that reduces all damage by 2, grants Fire Resistance, and the ability to cast Fire Shield.
 - Effect: AC 19 | Fire Shield: Cast as a level 4 spell (Recharge: Long rest.) | Magical Plate: All incoming damage is reduced by 2. | Endurance by Fire: You have Resistance to Fire damage and a +2 bonus to Saving Throws. | Disadvantage on Stealth checks.
 - How to get:
@@ -2457,6 +2500,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Flame Enamelled Armour
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Flame Enamelled Armour is a very rare Medium Armour. It grants a +2 bonus to Initiative, Resistance to Fire damage and +2 to all Saving Throws. It also allows the user to cast the Fire Shield: Warm spell.
 - Effect: AC 16 | Fire Shield: Warm: Cast as a level 4 spell (Recharge: Long rest.) | Seldom Caught Unawares: You gain a +2 bonus to Initiative rolls. | Endurance by Fire: You have Resistance to Fire damage and a +2 bonus to Saving Throws. | Disadvantage on Stealth checks.
 - How to get:
@@ -2540,6 +2584,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -2549,6 +2594,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -2684,6 +2730,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Helm of Balduran
 - Rarity: Legendary | Slot: Helmet | Act: Act Three
+- Required Proficiency: Medium Armour
 - Description: Helm of Balduran is a legendary Headwear once worn by the fabled founder of Baldur's Gate, Balduran, and grants hit points every turn along with stun and critical hit immunities.
 - Effect: Balduran's Vitality: The helmet heals you 2 Hit Points at the beginning of every turn. | Balduran's Favour: You have a +1 bonus to Armour Class and Saving Throws. | Stun Immunity: You can't be Stunned. | Attackers can't land Critical Hits on the wearer.
 - How to get:
@@ -2727,6 +2774,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Viconia's Walking Fortress
 - Rarity: Legendary | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: Viconia's Walking Fortress is a legendary shield that can deal Force damage to the attacker when hit. Gives Advantage on saving throws against spells and Disadvantage to spell attacks made against the wearer.
 - Effect: AC +3 | Reflective Shell: A protective shell envelops you. It reflects any projectiles targeted at you back to their point of origin. (Recharge: Short rest.) | Warding Bond: Ward an ally. They gain resistance to all damage, and a +1 bonus to their Armour Class and Saving Throws. (Recharge: Long rest.) | Rebuke of the Mighty: When a foe hits you with a melee attack, you can use your reaction, dealing 2d4 Force damage and knock it Prone unless they succeed a Dexterity Saving Throw. | Spellguard: You gain Advantage on Saving Throws against spells. Spell Attack Rolls against you have Disadvantage.
 - How to get:
@@ -2846,6 +2894,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Helmet of Grit
 - Rarity: Very Rare | Slot: Helmet | Act: Act Three
+- Required Proficiency: Light Armour
 - Description: The Helmet of Grit is a very rare Helmet. It grants the wearer an additional Bonus Action at 50% or lower Hit Points.
 - Effect: Grit: When the wearer has 50% Hit Points or less, they have an additional Bonus Action. | Dexterity Saving Throws +1
 - How to get:
@@ -2949,6 +2998,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Sarevok's Wretched Armour
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Three
+- Required Proficiency: Heavy Armour
 - Description: Sarevok's Wretched Armour is a very rare Heavy Armour that reduces all damage by 2. When the wearer deals Necrotic damage, they gain Temporary Hit Points.
 - Effect: AC 20 | Magical Plate: All incoming damage is reduced by 2. | Withering Barrier: When you deal Necrotic damage, you gain 1d6 temporary hit points. If a melee attack hits you while you still have temporary hit points, you deal 1d6 Piercing to all creatures within 3 m (10 ft).
 - How to get: Murder Tribunal; carried by Sarevok.
@@ -2973,6 +3023,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Shield (Hope)
 - Rarity: Very Rare | Slot: Shield | Act: Act Three
+- Required Proficiency: Shields
 - Description: A Shield with an echantment which grants the wearer an additional +2 to their Armour Class. Despite this, it is simply called 'Shield'.
 - Effect: AC +4 | No special properties, beyond the Armour Class enchantment.
 - How to get: House of Hope; wielded by Hope. No longer lootable since Patch 6.

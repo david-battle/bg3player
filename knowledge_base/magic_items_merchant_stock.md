@@ -11,6 +11,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Breastplate +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Breastplate +2 is a rare Medium Armour that reduces Piercing damage and grants a +1 bonus to Dexterity Saving Throws and Ability Checks.
 - Effect: AC 16 | Superior Plate: You take 1 less Piercing damage. | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 2
 - How to get:
@@ -20,6 +21,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Chain Mail +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Chain Mail +1 is an uncommon Heavy Armour that reduces Slashing damage.
 - Effect: AC 17 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | File ARM_Chain Mail_A_1_Shoulderpads | File ARM_Chain Mail_A_Pants | Disadvantage on Stealth checks.
 - How to get:
@@ -27,6 +29,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Chain Mail +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Chain Mail +2 is a rare Heavy Armour that reduces Slashing damage by 2.
 - Effect: AC 18 | Superior Material: You take 2 less Slashing damage. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get:
@@ -34,6 +37,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Chain Shirt +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Chain Shirt +1 is an uncommon Medium Armour that reduces Slashing damage.
 - Effect: AC 14 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | File ARM_Chain Shirt_A_1_Shoulderpads | File ARM_Chain Shirt_A_2_Pants
 - How to get:
@@ -41,6 +45,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Chain Shirt +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Chain Shirt +2 is a rare Medium Armour that reduces Slashing damage and grants a +1 bonus to Dexterity Saving Throws and Ability Checks
 - Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 2
 - How to get:
@@ -170,6 +175,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Half Plate Armour +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Half Plate Armour +1 is a uncommon Medium Armour that reduces Piercing damage.
 - Effect: AC 16 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get:
@@ -177,6 +183,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Half Plate Armour +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Half Plate Armour +2 is a rare Medium Armour that moderately reduces Piercing damage.
 - Effect: AC 17 | Superior Plate: You take 2 less Piercing damage. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get:
@@ -192,6 +199,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Hide Armour +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Hide Armour +1 is a uncommon Medium Armour.
 - Effect: AC 13 | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 1 | File ARM_Hide_A_1_Body
 - How to get:
@@ -201,6 +209,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Hide Armour +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Hide Armour +2 is a rare Medium Armour that grants a +1 bonus to Dexterity Saving Throws and Ability Checks, as well as Initiative.
 - Effect: AC 14 | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Ambusher: Gain a +1 bonus to Initiative Rolls. | Enchantment: + 2
 - How to get:
@@ -212,6 +221,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Leather Armour +1
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Description: Leather Armour +1 is an uncommon Light Armour that grants a +1 bonus to Stealth checks.
 - Effect: AC 12 | Stealthy: Gain a +1 bonus to Stealth Checks. | File ARM_Leather_A_1_Kneepad | File ARM_Leather_A_1_Pants | File ARM_Leather_A_1_Shoulderpads | File ARM_Leather_A_Sleeves
 - How to get:
@@ -219,6 +229,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Leather Armour +2
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Description: Leather Armour +2 is an uncommon Light Armour that grants a +1 bonus to Stealth checks as well as Dexterity Saving Throws and Ability Checks.
 - Effect: AC 13 | Stealthy: Gain a +1 bonus to Stealth Checks. | Balance: Gain a +1 bonus to Dexterity Saving Throws and Ability Checks | Enchantment: + 2
 - How to get:
@@ -290,6 +301,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Padded Armour +1
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Description: Padded Armour +1 is a uncommon Light Armour.
 - Effect: AC 12 | Superior Padding: You take 1 less Bludgeoning damage.
 - How to get:
@@ -297,6 +309,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Padded Armour +2
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Description: Padded Armour +2 is a rare Light Armour that reduces Bludgeoning damage by 2.
 - Effect: AC 13 | Superior Padding: You take 2 less Bludgeoning damage. | Enchantment: + 2
 - How to get:
@@ -311,6 +324,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Plate Armour +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Plate Armour +1 is an uncommon Heavy Armour that reduces Piercing damage.
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | File ARM_Platemail_A_1_Body | File ARM_Platemail_A_1_Pants | File ARM_Platemail_A_1_Shoulderpads | File ARM_Platemail_A_1_Skirt | Disadvantage on Stealth checks.
 - How to get:
@@ -321,6 +335,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Plate Armour +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Plate Armour +2 is a rare Heavy Armour that reduces damage from Piercing, Bludgeoning and Slashing sources by 2.
 - Effect: AC 20 | Exceptional Plate: You take 2 less damage from Slashing, Piercing and Bludgeoning sources. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get:
@@ -364,6 +379,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Ring Mail Armour +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Ring Mail Armour +1 is a uncommon Heavy Armour that grants a +1 bonus to Strength Saving Throws and Ability Checks.
 - Effect: AC 15 | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get:
@@ -374,6 +390,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Ring Mail Armour +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Ring Mail Armour +2 is a rare Heavy Armour that reduces Slashing damage by 1 and grants a +1 bonus to Strength Saving Throws and Ability Checks.
 - Effect: AC 16 | Superior Material: You take 1 less Slashing damage. | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get:
@@ -390,6 +407,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Scale Mail +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Scale Mail +1 is a uncommon Medium Armour that reduces Slashing damage.
 - Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get:
@@ -397,6 +415,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Scale Mail +2
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Scale Mail +2 is a rare Medium Armour.
 - Effect: AC 16 | Superior Material: You take 1 less Slashing damage. | Ambusher: Gain a +1 bonus to Initiative Rolls. | Enchantment: + 2 | File ARM_Scalemail_A_2_Shoulderpads | File ARM_Scalemail_A_Pants_B | Disadvantage on Stealth checks.
 - How to get:
@@ -404,6 +423,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Scale Mail Armour +1
 - Rarity: Uncommon | Slot: Medium Armour (Medium) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Medium Armour
 - Description: Scale Mail +1 is an uncommon Medium Armour.
 - Effect: AC 15 | Superior Material: You take 1 less Slashing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get: Generic merchant stock; available from various traders (details in How to get).
@@ -426,6 +446,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Shield +2
 - Rarity: Rare | Slot: Shield | Act: Act One, Act Two, Act Three
+- Required Proficiency: Shields
 - Description: A Shield +2 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get: Generic merchant stock; available from various traders (details in How to get).
@@ -472,6 +493,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Splint Armour +1
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Splint Armour +1 is a uncommon Heavy Armour that reduces Piercing damage by 1.
 - Effect: AC 18 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get:
@@ -479,6 +501,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Splint Armour +2
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Heavy Armour
 - Description: Splint Armour +2 is a rare Heavy Armour that reduces Piercing damage by 1 and grants a +1 bonus to Strength Saving Throws and Ability Checks.
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Enchantment: + 2 | Disadvantage on Stealth checks.
 - How to get:
@@ -488,6 +511,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Studded Leather Armour +1
 - Rarity: Uncommon | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Description: Studded Leather Armour +1 is an uncommon Light Armour that reduces Bludgeoning damage by 1.
 - Effect: AC 13 | Superior Padding: You take 1 less Bludgeoning damage. | Enchantment: + 1
 - How to get:
@@ -495,6 +519,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Studded Leather Armour +2
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act One, Act Two, Act Three
+- Required Proficiency: Light Armour
 - Description: Studded Leather Armour +2 is a rare Light Armour that reduces Bludgeoning damage by 1 and also boosts Initiative by 1.
 - Effect: AC 14 | Superior Padding: You take 1 less Bludgeoning damage. | Ambusher: Gain a +1 bonus to Initiative Rolls. | Enchantment: + 2 | File ARM_Studded Leather_A_2_Pants | File ARM_Studded Leather_A_Sleeves_C
 - How to get:
@@ -507,6 +532,7 @@ Enchanted +1/+2 weapons, armour and shields sold generically by traders (level-g
 
 ### Studded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act One, Act Two, Act Three
+- Required Proficiency: Shields
 - Description: A Studded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enhancement.
 - How to get:

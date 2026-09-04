@@ -159,6 +159,13 @@ def classify(categories):
     return slot, subtype
 
 
+def parse_proficiency(props):
+    for label, value in props:
+        if label == "Required Proficiency":
+            return value.strip()
+    return None
+
+
 def main():
     os.makedirs(RAWDIR, exist_ok=True)
     files = glob(os.path.join(HTMLDIR, "*.html"))
@@ -169,6 +176,7 @@ def main():
         html = cache["html"]
         cats = cache["categories"]
         slot, subtype = classify(cats)
+        props = parse_properties(html)
         rec = {
             "name": name,
             "title": cache.get("title", name),
@@ -176,9 +184,10 @@ def main():
             "rarity": parse_rarity(html),
             "slot": slot,
             "subtype": subtype,
+            "proficiency": parse_proficiency(props),
             "description": parse_description(html),
             "quote": parse_quote(html),
-            "properties": parse_properties(html),
+            "properties": props,
             "where_to_find": parse_where(html),
             "notes": list_items(section(html, "Notes")),
             "bugs": list_items(section(html, "Bugs")),

@@ -120,6 +120,9 @@ def item_block(rec, acts=None, note=None, base_row=None):
     slot = rec["slot"] + (f" ({rec['subtype']})" if rec["subtype"] else "")
     out.append(f"- Rarity: {rec['rarity']} | Slot: {slot}"
                + (f" | Act: {', '.join(acts)}" if acts else " | Act: unknown"))
+    prof = rec.get("proficiency")
+    if prof:
+        out.append(f"- Required Proficiency: {clean_text(prof)}")
     if rec["description"]:
         out.append(f"- Description: {clean_text(rec['description'])}")
     effect = compact_effect(rec["properties"])
@@ -172,6 +175,8 @@ def main():
         m["act_source"] = info.get("source")
         m["act_note"] = info.get("note")
         m["list_rows"] = base_rows.get(name, [])
+        if m.get("proficiency") == "None":
+            m["proficiency"] = None
         master.append(m)
     with open(MASTER, "w") as f:
         json.dump(master, f, indent=2)
@@ -206,6 +211,9 @@ def main():
             lines.append(f"- Rarity: {rec['rarity']} | Slot: {rec['slot']}"
                          + (f" ({rec['subtype']})" if rec["subtype"] else "")
                          + f" | Act: {act_str}")
+            prof = rec.get("proficiency")
+            if prof:
+                lines.append(f"- Required Proficiency: {clean_text(prof)}")
             if effect:
                 lines.append(f"- Effect: {effect}")
             if where:

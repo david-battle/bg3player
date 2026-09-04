@@ -113,6 +113,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Half-Plate (Rare)
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Dark Justiciar Half-Plate is a rare Medium Armour that grants Advantage on Stealth checks while Obscured in shadow. It also grants Advantage on Constitution Saving Throws and allows its wearer to cast a version of Shield of Faith once per Long Rest.
 - Effect: AC 16 | Shar's Aegis: Encase yourself with a shimmering field of magic that increases your Armour Class by 2. (Recharge: Long rest.) | Shar's Umbrae: While obscured, the wearer has Advantage on Stealth Checks. | File ARM_Dark_Dark_Justiciar_A_Pants | Advantage on Constitution Saving Throws.
 - How to get:
@@ -124,6 +125,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Helmet
 - Rarity: Very Rare | Slot: Helmet | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: The Dark Justiciar Helmet is a very rare Helmet that improves the wearer's Saving Throws against Spells and makes Critical Hits more likely while the wearer is obscured by darkness.
 - Effect: Magical Durability: The wielder has a +1 bonus to Saving Throws against spells. | Covert Critical: While obscured, the number you need to roll a Critical Hit while attacking is reduced by 1. This effect can stack. | Constitution Saving Throws +1
 - How to get:
@@ -384,6 +386,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Barkskin Armour
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Barkskin Armour is a rare Medium Armour that sets the user's Armour Class to 16 and grants Advantage on Constitution Saving Throws.
 - Effect: AC 12 | Forest Aegis: You are invested with the power of the meadows and woods of the land, and have the effect of Barkskin, increasing your Armour Class to 16. | File ARM_Hide_A_1_Body | Advantage on Constitution Saving Throws.
 - How to get:
@@ -464,6 +467,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Flawed Helldusk Armour
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Description: Flawed Helldusk Armour is a rare Heavy Armour that reduces Piercing damage by 1 and possibly deals 1d4 Fire damage to attackers.
 - Effect: AC 18 | Lesser Infernal Retribution: When you are hit by a foe within 2 m (7 ft), it might take 1d4 Fire damage. | Superior Plate: You take 1 less Piercing damage. | Disadvantage on Stealth checks.
 - How to get:
@@ -493,6 +497,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Flawed Helldusk Helmet
 - Rarity: Rare | Slot: Helmet | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Flawed Helldusk Helmet is a rare Helmet crafted from Infernal Iron that improves the wearer's saving throws against spells by 2.
 - Effect: Magical Durability: The wielder has a +2 bonus to Saving Throws against spells. | Constitution Saving Throws +1
 - How to get:
@@ -663,6 +668,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Rippling Force Mail
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Description: Rippling Force Mail is a rare Heavy Armour that reduces physical damage taken and causes its wearer to deal force damage around them after being struck with physical attacks enough times.
 - Effect: AC 17 | Force Absorption: Gain 2 turns of Force Conduit when taking Slashing, Piercing, or Bludgeoning damage. | File ARM_Chain Mail_A_1_Shoulderpads | File ARM_Chain Mail_A_Pants | Disadvantage on Stealth checks.
 - How to get:
@@ -675,6 +681,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shadeclinger Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act Two
+- Required Proficiency: Light Armour
 - Description: Shadeclinger Armour is a rare Light Armour that grants Advantage on Saving Throws while Obscured.
 - Effect: AC 12 | Shadeclinger: While obscured, the wearer has Advantage on Saving Throws. | File ARM_Leather_A_1_Kneepad | File ARM_Leather_A_1_Pants | File ARM_Leather_A_1_Shoulderpads | File ARM_Leather_A_Sleeves | Stealth +1
 - How to get:
@@ -704,6 +711,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield of Devotion
 - Rarity: Very Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Shield of Devotion is a very rare Shield that grants a Level 1 Spell Slot, Shield Bash, and allows the wielder to cast Shield of Devotion: Aid at Level 3 Spell once per Long Rest.
 - Effect: AC +2 | Shield of Devotion: Aid: Heal yourself and increase your hit point maximum by 10 hit points. (Recharge: Long rest.) | Additional Spell Slot: You gain 1 Level 1 Spell Slot. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw.
 - How to get:
@@ -719,6 +727,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield of Scorching Reprisal
 - Rarity: Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Shield of Scorching Reprisal is a rare Shield that grants Fire Resistance, allows one to Shield Bash, and also apply Blazing Retaliation.
 - Effect: AC +2 | Blazing Retaliation: Huddle behind your shield to increase your Armour Class by 1 and reap scorching retaliation upon attacks who miss you. (Recharge: Short rest.) | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw. | Grants Resistance to Fire damage.
 - How to get:
@@ -832,6 +841,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Yuan-Ti Scale Mail
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Yuan-Ti Scale Mail is a rare Medium Armour that adds the wearer's Dexterity Modifier to their Armour Class and also grants a +1 bonus to Initiative.
 - Effect: AC 15 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Ambusher: Gain a +1 bonus to Initiative Rolls. | File ARM_Scalemail_A_2_Shoulderpads | File ARM_Scalemail_A_Pants_B
 - How to get:
@@ -864,6 +874,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Helmet of Arcane Acuity
 - Rarity: Uncommon | Slot: Helmet | Act: Act Two
+- Required Proficiency: Light Armour
 - Description: The Helmet of Arcane Acuity is an uncommon Helmet that imparts Arcane Acuity upon the wearer when they deal damage with a weapon attack.
 - Effect: Battle Acuity: Whenever you deal damage with a weapon attack, you gain Arcane Acuity for 2 turns. | Dexterity Saving Throws +1
 - How to get:
@@ -960,6 +971,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Ketheric's Shield
 - Rarity: Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Ketheric's Shield is a rare Shield. It grants the Shield Bash action, improves the wielder's spellcasting-related rolls, and also gives them Advantage on Dexterity Saving Throws.
 - Effect: AC +2 | Arcane Enchantment: You gain a +1 bonus to Spell Save DC and Spell Attack rolls. | Shield Bash: When a foe hits you with a melee attack, you can use your reaction to knock it Prone unless they succeed a Dexterity Saving Throw. | Advantage on Dexterity Saving Throws
 - How to get:
@@ -1017,6 +1029,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Reaper's Embrace
 - Rarity: Very Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Description: Reaper's Embrace is a very rare heavy Armour that reduces incoming damage by 2 and makes the wearer immune to being moved by force. It also grants the Howl of the Dead class action.
 - Effect: AC 19 | Howl of the Dead: Let out a bone-chilling howl that Numbs all nearby creatures. (Recharge: Short rest.) | Magical Plate: All incoming damage is reduced by 2. | Reaper's Rigidity: When activated, you can't be moved against your will by any spell or action, but have Disadvantage on Dexterity Saving Throws. | Disadvantage on Stealth checks.
 - How to get:
@@ -1057,6 +1070,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Armour of Devotion
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Description: Armour of Devotion is a set of rare Full Plate Heavy Armour that allows the wearer to cast Eternal Devotion, restoring a charge of their Paladin Channel Oath ability.
 - Effect: AC 18 | Eternal Devotion: Recite your Oath to regain 1 Channel Oath Charge. (Recharge: Long rest.) | Disadvantage on Stealth checks.
 - How to get:
@@ -1150,6 +1164,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dwarven Splintmail
 - Rarity: Rare | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Description: Dwarven Splintmail is a rare heavy armour that reduces Piercing damage by 1 and grants a +1 bonus to Strength Saving Throws and Ability Checks. In addition, it also boosts the user's Constitution by 2.
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Body Aid: Gain a +1 bonus to Strength Saving Throws and Ability Checks. | Constitution +2 (Max 20) | Disadvantage on Stealth checks.
 - How to get:
@@ -1182,6 +1197,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Gauntlets of Surging Accuracy
 - Rarity: Rare | Slot: Gloves | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Gauntlets of Surging Accuracy are a rare pair of gloves that give the wearer a +1d4 bonus to Attack Rolls for the rest of their turn when using Action Surge.
 - Effect: Surge Accuracy: When you use Action Surge, gain a +1d4 bonus to Attack Rolls for the rest of your turn. | Strength Saving Throws +1
 - How to get:
@@ -1236,6 +1252,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1245,6 +1262,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Iron-Banded Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Iron-Banded Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1424,6 +1442,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Sharpened Snare Cuirass
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Sharpened Snare Cuirass is a very rare Medium Armour that adds your full Dexterity Modifier to your Armour Class. Enemies also have Disadvantage when resisting your attacks and Saving Throws that inflict Restrained.
 - Effect: AC 14 | Exotic Material: Add your full Dexterity Modifier to your Armour Class. Additionally, this armour does not impose Disadvantage on Stealth Ability Checks. | Sharpened Snare: Creatures have Disadvantage on Saving Throws when resisting your attacks and spells that inflict Restrained.
 - How to get:
@@ -1438,6 +1457,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Shield +1
 - Rarity: Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: A Shield +1 is a rare Shield with an enchantment increasing its Armour Class bonus.
 - Effect: AC +3 | Enchantment: + 1 | No special properties, beyond the Armour Class enchantment.
 - How to get:
@@ -1657,6 +1677,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Ironvine Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Ironvine Shield is an uncommon Shield that damages the attacker if the wielder is using a weapon empowered with Shillelagh.
 - Effect: AC +2 | Ironvine: While the wielder is holding a weapon empowered with Shillelagh, and when they are hit by a melee attack, the attacker takes Piercing Damage equal to the wielder's Wisdom modifier. | Enchantment:
 - How to get:
@@ -1740,6 +1761,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Psionic Ward Armour
 - Rarity: Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Psionic Ward Armour is a set of rare Medium Armour. It heals the wearer if they if they pass a Saving Throw against a spell, and gives them Resistance to Psychic damage if they are Githyanki.
 - Effect: AC 15 | Psionic Ward: If the item detects that the wearer is gith, they have Resistance to Psychic damage. Whenever the wearer succeeds on a Saving Throw against a spell, they regain 1d4 Hit Points. | Disadvantage on Stealth checks.
 - How to get:
@@ -1748,6 +1770,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Watcher's Shield
 - Rarity: Uncommon | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Watcher's Shield is an uncommon Shield that gives the wielder Advantage on Perception Checks.
 - Effect: AC +2 | Advantage on Perception Checks
 - How to get:
@@ -1869,6 +1892,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Penumbral Armour
 - Rarity: Rare | Slot: Light Armour (Light) | Act: Act Two
+- Required Proficiency: Light Armour
 - Description: Penumbral Armour is a rare Light Armour that enhances Stealth when the wearer is Obscured.
 - Effect: AC 12 | Stealthier: While obscured, the wearer gains a +3 bonus to Stealth Checks. | File ARM_Drow Leather_A_Pants | File ARM_Drow Leather_A_Shoulderpads
 - How to get:
@@ -1945,6 +1969,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Boots
 - Rarity: Rare | Slot: Boots | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: The Dark Justiciar Boots are a rare pair of Boots that grants the wearer better Dexterity Saving Throws and the ability to cast Shadow Teleportation once per Short Rest.
 - Effect: Shadow Teleportation: Teleport to an unoccupied, obscured spot. (Recharge: Short rest.) | Dexterity Saving Throws +1
 - How to get:
@@ -1963,6 +1988,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Half-Plate (Very Rare)
 - Rarity: Very Rare | Slot: Medium Armour (Medium) | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: Dark Justiciar Half-Plate is a very rare Medium Armour that grants Advantage on Stealth checks while Obscured in shadow. It also grants Advantage on Constitution Saving Throws, allows its wearer to cast Shield of Faith once per Long Rest, and reduces damage while Shield of Faith is active on its wearer.
 - Effect: AC 17 | Shar's Aegis: Cast as a level 1 spell (Recharge: Long rest.) | Shar's Umbrae: While obscured, the wearer has Advantage on Stealth Checks. | Shar's Protection: While the wearer has Shield of Faith active, reduce all incoming damage by 2 and reflect damage received back at the attacker, who takes 1d4 Necrotic damage. | File ARM_Shadowheart_Dark_Justiciar_Pants_A | Advantage on Constitution Saving Throws.
 - How to get:
@@ -1975,6 +2001,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Helm
 - Rarity: Uncommon | Slot: Helmet | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: A Dark Justiciar Helm is an uncommon Helmet worn by Shar's Dark Justiciars that grants a bonus to Saving Throws while obscured by shadow.
 - Effect: Swathed in Shadow: While obscured by shadow, the wearer gains +1 to Saving Throws when attacked. | Constitution Saving Throws +1
 - How to get:
@@ -1987,6 +2014,7 @@ Full reference for every magic equipment item obtainable in this act, sorted by 
 
 ### Dark Justiciar Helm
 - Rarity: Uncommon | Slot: Helmet | Act: Act Two
+- Required Proficiency: Medium Armour
 - Description: A Dark Justiciar Helm is an uncommon Helmet worn by Shar's Dark Justiciars that grants a bonus to Saving Throws while obscured by shadow.
 - Effect: Swathed in Shadow: While obscured by shadow, the wearer gains +1 to Saving Throws when attacked. | Constitution Saving Throws +1
 - How to get:
@@ -2125,6 +2153,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Shield of Returning
 - Rarity: Very Rare | Slot: Shield | Act: Act Two
+- Required Proficiency: Shields
 - Description: Shield of Returning is a very rare Shield. This shield Binds itself to the wielder, returning to their hand if thrown.
 - Effect: AC +2 | Bound Weapon
 - Notes:
@@ -2179,6 +2208,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Covert Cowl
 - Rarity: Uncommon | Slot: Helmet | Act: Act Two
+- Required Proficiency: Light Armour
 - Description: Covert Cowl is an uncommon Helmet that makes the wearer's critical hits more likely when they are obscured.
 - Effect: Covert Critical: While obscured, the number you need to roll a Critical Hit while attacking is reduced by 1. This effect can stack. | Dexterity Saving Throws +1
 - How to get:
@@ -2235,6 +2265,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Nightsong's Armour
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Description: Nightsong's Armour is an uncommon Heavy Armour that reduces Piercing damage. It is only worn by Aylin.
 - Effect: AC 19 | Superior Plate: You take 1 less Piercing damage. | Enchantment: + 1 | Disadvantage on Stealth checks.
 - How to get:
@@ -2242,6 +2273,7 @@ These items are obtainable in this act but are missing from bg3.wiki's per-act l
 
 ### Protective Plate
 - Rarity: Uncommon | Slot: Heavy Armour (Heavy) | Act: Act Two
+- Required Proficiency: Heavy Armour
 - Description: Protective Plate is a set of Heavy Armour that grants Resistance to Necrotic damage.
 - Effect: AC 18 | Grants Resistance to Necrotic damage | Does not give disadvantage on stealth checks.
 - How to get:
