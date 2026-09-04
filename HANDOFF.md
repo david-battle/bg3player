@@ -5,13 +5,11 @@
 - Branch `main`; upstream is set to `origin` (https://github.com/david-battle/bg3player,
   public), so the user's `push` script (plain `git push` per repo) works — the
   user runs it, not the assistant.
-- Worktree is clean. All Phase 1-3 pipeline work, the adviser scaffolding
-  (ADVISER.md + kb_lookup.py), the adviser-mode AGENTS.md note, the adviser
-  collection-discipline commit (`e497f6b`), and the quest/achievement
-  discipline commit are on `main`. Nothing pending to stage. The local-only
-  per-playthrough state file (`save_state.md`) is untracked and updated with
-  pending pickups and the new side-quest/achievement sections for the next
-  session.
+- Uncommitted work pending (this session's fixes — see Part 8 below): two
+  `kb_lookup.py` bug fixes plus the proficiency field across the equipment
+  pipeline and generated outputs. The local-only per-playthrough state file
+  (`save_state.md`) and a new local-only `gear_plan.md` (both git-excluded)
+  hold this session's playthrough notes.
 
 ## Completed Work (2026-08-30)
 
@@ -153,9 +151,44 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
   empty sections for the adviser to fill next session.
 - No pipeline or data changes: nothing regenerated.
 
+### Part 8 — KB tooling fixes + armour proficiency field (2026-09-04)
+- **Bug 1 (truncation):** `kb_lookup.py` default `--limit` was 10, so broad
+  scans (`kb item --act 1`, `--slot weapon --act 1`) silently returned only the
+  first 10 alphabetical hits. This hid the Titanstring Bow (alphabetically at
+  "T") from a pre-Underdark gear audit. Fix: default limit is now 0 = show all;
+  a truncation warning prints when a finite limit cuts results.
+- **Bug 2 (effect search blind to slot):** the `item --effect` filter only
+  matched `description`/`list_rows`, not the `slot` field, so `--effect
+  "longbow"` missed bows whose "longbow-ness" is only in their slot (e.g.
+  Titanstring Bow). Fix: slot (and consumable `type`) now included in the
+  effect-search text.
+- **Bug 3 (consumable crash):** `print_items` indexed `it['slot']` which
+  consumables lack → `KeyError`. Fix: fall back to `type`.
+- **Armour proficiency data:** some boots/helmets (e.g. The Speedy Lightfeet)
+  require armour proficiency the KB didn't record, so the adviser recommended
+  an item a rogue can't wear. `parse_item_pages.py` now extracts the wiki's
+  "Required Proficiency" property into a `proficiency` field; the builder
+  writes it to `data/items.json` and renders `- Required Proficiency:` in
+  `magic_items_by_slot.md` + per-act files; `kb_lookup.py` gains a
+  `--proficiency light|medium|heavy` filter and prints `[requires X]` on
+  results. 122/683 items carry a requirement (50 Medium / 22 Light / 22 Heavy /
+  21 Shields / 7 Instruments).
+- Deliberately **not** added: a "who can wear this" class filter — the adviser
+  should use `--proficiency` against the KB's class/race proficiency data
+  (reference classes.md) rather than the tool inferring class rules.
+- **Playthrough impact:** full-party pre-Underdark gear plan created in
+  `gear_plan.md` (local-only, git-excluded) for Lae'zel, Astarion (respec to
+  Arcane Trickster), Shadowheart, and Gale (stays Wizard; Evocation if fire
+  blasting). Speedy Lightfeet and Gloves of Heroism flagged unusable by this
+  party (proficiency / paladin-only). No duplicate uniques across the four.
+  `save_state.md` updated with the plan and corrected route notes.
+
 ## Validation
 
-- Full pipeline re-run clean end-to-end (cached, no network needed).
+- Full pipeline re-run clean end-to-end (cached, no network needed) this
+  session: equipment parse + build, consumables, alchemy, and all reference
+  builders (feats/conditions/buffs/companions/classes/races/backgrounds/
+  illithid/achievements/honour_mode).
 - Equipment counts consistent: 225 / 162 / 201 act-file entries; 683 items in
   master; 74 excluded; 0 documented as "acquisition not documented".
 - Consumable counts: 305 items in master (39 potions + 44 elixirs + 137 scrolls
@@ -193,6 +226,11 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 - Part 7 (quest/achievement discipline): `ADVISER.md`-only change; `kb_lookup.py`
   unchanged and verified (`kb achievement --limit 60` prints all 54 conditions);
   no pipeline or generated output touched.
+- Part 8 (tooling + proficiency): verified `kb item --name "Speedy Lightfeet"`
+  prints `[requires Medium Armour]`; `--proficiency medium` on act-1 boots
+  returns the 4 medium boots; weapons/rings/amulets parse to `proficiency:
+  null`; `data/items.json` diff is exactly one `proficiency` line per item (no
+  reformat).
 
 ## Operational Caveats
 
@@ -216,15 +254,17 @@ Built the knowledge base in two parts, from **bg3.wiki** data in
 
 ## Natural Next Action
 
-1. The adviser work (`e497f6b`) and the quest/achievement discipline commit are
-   committed but **not pushed**; the user runs their `push` script when
-   convenient.
+1. Commit this session's Part 8 fixes (two `kb_lookup.py` bug fixes, the
+   proficiency field in the equipment pipeline + generated outputs) with a
+   concise message; then the user runs their `push` script when convenient.
 2. Next playthrough session: recover the walked-past Act One items from the
    state file's "Pending pickups" (Cap of Curing, Komira's Locket, Ring of
-   Colour Spray, Silver Pendant), run a full-party gear review, then continue
-   the Grove -> Blighted Village -> Risen Road -> Goblin Camp route per the
-   state file. Per the new discipline, the adviser also solicits new side-quest
-   hooks and achievements in play at session start and populates the state
-   file's two new sections.
+   Colour Spray, Silver Pendant), then execute the pre-Underdark gear plan in
+   `gear_plan.md` (pilfer Breastplate +1 near Dammon, buy Titanstring Bow from
+   Brem, pick up Haste Helm / Gloves of the Growling Underdog / Swiresy Shoes /
+   Crusher's Ring, respec Astarion to Arcane Trickster), then continue the
+   Grove -> Blighted Village -> Risen Road -> Goblin Camp route per the state
+   file. Per the discipline, solicit new side-quest hooks and achievements in
+   play at session start.
 3. Phase 4 (merchant catalog, quest index) only if the source lists prove
    insufficient.
